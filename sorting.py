@@ -3,16 +3,18 @@ import sys
 import os
 import random
 
-amount_of_numbers = 500
-data = []
-data_len = 0
-use_numbers = False
+amount_of_numbers = 500 // Amount of numbers to generate.
+data = [] // Array to store the numbers.
+data_len = 0 // Length of data array.
+use_numbers = False // False = use characters. True = use numbers.
 	
 def add_to_result_list(result, data):
+	""" Adds the first entry of data to result, and deletes that entry from data. """
 	result.append(data[0])
 	del data[0]
 		
 def insertion_sort(data):
+	""" Performs insertion sort on data. """
 	for i in xrange(1, len(data)):
 		item = data[i]
 		item_location = i
@@ -24,9 +26,8 @@ def insertion_sort(data):
 		data[item_location] = item
 		
 def merge(left_data, right_data):
+	""" Merges left_data and right_data together. """
 	result = []
-	# left_len = len(left_data)
-	# right_len = len(right_data)
 	
 	while len(left_data) > 0 or len(right_data) > 0:
 		if len(left_data) > 0 and len(right_data) > 0:
@@ -42,6 +43,7 @@ def merge(left_data, right_data):
 	return result
 				
 def merge_sort(data):
+	""" Performs merge sort on data. """
 	data_len = len(data)
 
 	if data_len <= 1:
@@ -56,26 +58,15 @@ def merge_sort(data):
 		
 	for i in xrange(middle_location, data_len):
 		right.append(data[i])
-	# print "Left before sort: "
-	# print_data(left)
-	# raw_input()
-	# print "Right before sort: "
-	# print_data(right)
-	# raw_input()
+
 	left = merge_sort(left)
 	right = merge_sort(right)
-	# print "Left after sort: "
-	# print_data(left)
-	# raw_input()
-	# print "Right after sort: "
-	# print_data(right)
-	# raw_input()
+
 	return merge(left, right)
 
 def print_data(data):
+	""" Prints data with 10 items per line. """
 	counter = 1
-	
-	#print "\n"
 	
 	for i in data:
 		sys.stdout.write(str(i) + " ")
@@ -83,12 +74,11 @@ def print_data(data):
 			print "\n"
 		counter += 1
 		
-	#print "\n"
 	print "\n"
 		
 def heap_sort(data):
+	""" Performs heap sort on data. """
 	heapify(data)
-	#data_len = length(data)
 	
 	end = data_len - 1
 	
@@ -98,6 +88,7 @@ def heap_sort(data):
 		sift_down(0, end, data)
 
 def heapify(data):
+	""" Turns data into a heap. """
 	start = (data_len - 2) / 2
 	
 	while start >= 0:
@@ -105,6 +96,7 @@ def heapify(data):
 		start = start - 1
 		
 def randomize(data):
+	""" Refills data with a new set of values. """
 	del data[:]
 	for i in xrange(0, amount_of_numbers):
 		if(use_numbers):
@@ -116,6 +108,7 @@ def randomize(data):
 	data_len = len(data)
 			
 def selection_sort(data):
+	""" Performs selection sort on data. """
 	for i in xrange(0, len(data)):
 		minimum = data[i]
 		minimum_index = i
@@ -148,23 +141,27 @@ def sift_down(start, end, data):
 			return
 			
 def swap_elements(a, b, data):
+	""" Swaps a and b in data. """
 	temp = data[a]
 	data[a] = data[b]
 	data[b] = temp
 
 def test_result(algo):
+	""" Tests to see if the sorting algorithm algo worked, and exits if not. """
 	if not result:
 		print "%s: The following is not sorted!!" % algo
 		print_data(data)
 		exit(1)
 	
 def verify_data(data):
+	""" Verifies that the data is sorted. """
 	for i in xrange(0, data_len - 1):
 		if not data[i] <= data[i + 1]:
 			return False
 		
 	return True
 	
+# Tests each sorting algorithm 100 times on random data.	
 for i in xrange(0, 100):
 	randomize(data)
 	
