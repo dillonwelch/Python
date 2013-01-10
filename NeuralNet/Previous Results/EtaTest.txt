@@ -1,0 +1,489 @@
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.011348
+	To Hidden Layer 1 Node 2: -0.245742
+	To Hidden Layer 1 Node 3: 0.769253
+	To Hidden Layer 1 Node 4: 0.017626
+	To Hidden Layer 1 Node 5: -0.599188
+Node 2
+	To Hidden Layer 1 Node 1: -0.527203
+	To Hidden Layer 1 Node 2: 0.396495
+	To Hidden Layer 1 Node 3: 0.594893
+	To Hidden Layer 1 Node 4: -0.329956
+	To Hidden Layer 1 Node 5: -0.362537
+Node 3
+	To Hidden Layer 1 Node 1: -0.568050
+	To Hidden Layer 1 Node 2: 0.028322
+	To Hidden Layer 1 Node 3: -0.292218
+	To Hidden Layer 1 Node 4: 0.585444
+	To Hidden Layer 1 Node 5: 0.305800
+Node 4
+	To Hidden Layer 1 Node 1: 0.328539
+	To Hidden Layer 1 Node 2: 0.666343
+	To Hidden Layer 1 Node 3: 0.138898
+	To Hidden Layer 1 Node 4: -0.480861
+	To Hidden Layer 1 Node 5: 0.177659
+Node 5
+	To Hidden Layer 1 Node 1: -0.368698
+	To Hidden Layer 1 Node 2: -0.105019
+	To Hidden Layer 1 Node 3: -0.894581
+	To Hidden Layer 1 Node 4: -0.407140
+	To Hidden Layer 1 Node 5: 0.011777
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.413864
+
+
+Node 2
+	To Output Layer Node 1: -0.471955
+
+
+Node 3
+	To Output Layer Node 1: 0.298480
+
+
+Node 4
+	To Output Layer Node 1: 0.066400
+
+
+Node 5
+	To Output Layer Node 1: -0.197246
+
+
+Weights at 1351144648.0.txt
+With an eta of 0.400000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 0.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 1.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 1.000000.
+Row 11: Expected output is 0 and actual output is 1.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 1.000000.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+Weights at 1351144721.0.txt
+Weights at 1351144721.0.txt
+With an eta of 0.410000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 0.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 1.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 1.000000.
+Row 11: Expected output is 0 and actual output is 1.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 1.000000.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+Weights at 1351144792.0.txt
+Weights at 1351144792.0.txt
+With an eta of 0.420000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 0.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 1.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 1.000000.
+Row 11: Expected output is 0 and actual output is 1.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 1.000000.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+Weights at 1351144864.0.txt
+Weights at 1351144864.0.txt
+With an eta of 0.430000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 0.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 1.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 1.000000.
+Row 11: Expected output is 0 and actual output is 1.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 1.000000.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+Weights at 1351144936.0.txt
+Weights at 1351144936.0.txt
+With an eta of 0.440000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 0.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 1.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 1.000000.
+Row 11: Expected output is 0 and actual output is 1.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 1.000000.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+Weights at 1351145008.0.txt
+Weights at 1351145008.0.txt
+With an eta of 0.450000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 0.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 1.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 1.000000.
+Row 11: Expected output is 0 and actual output is 1.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 1.000000.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+Weights at 1351145080.0.txt
+Weights at 1351145080.0.txt
+With an eta of 0.460000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 0.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 1.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 1.000000.
+Row 11: Expected output is 0 and actual output is 1.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 1.000000.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+Weights at 1351145152.0.txt
+Weights at 1351145152.0.txt
+With an eta of 0.470000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 0.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 1.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 1.000000.
+Row 11: Expected output is 0 and actual output is 1.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 1.000000.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+Weights at 1351145225.0.txt
+Weights at 1351145225.0.txt
+With an eta of 0.480000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 0.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 1.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 1.000000.
+Row 11: Expected output is 0 and actual output is 1.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 1.000000.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+Weights at 1351145297.0.txt
+Weights at 1351145297.0.txt
+With an eta of 0.490000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 0.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 1.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 1.000000.
+Row 11: Expected output is 0 and actual output is 1.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 1.000000.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+Weights at 1351145369.0.txt
+Weights at 1351145369.0.txt

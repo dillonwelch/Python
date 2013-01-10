@@ -1,0 +1,723 @@
+Weight weight set 1. . . 
+With Table 1 training data. . . 
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.949248
+	To Hidden Layer 1 Node 2: 0.417371
+	To Hidden Layer 1 Node 3: -0.421086
+	To Hidden Layer 1 Node 4: 0.126572
+	To Hidden Layer 1 Node 5: 0.599690
+Node 2
+	To Hidden Layer 1 Node 1: -0.184014
+	To Hidden Layer 1 Node 2: 0.131201
+	To Hidden Layer 1 Node 3: 0.529462
+	To Hidden Layer 1 Node 4: -0.047214
+	To Hidden Layer 1 Node 5: -0.110405
+Node 3
+	To Hidden Layer 1 Node 1: -0.532768
+	To Hidden Layer 1 Node 2: -0.313952
+	To Hidden Layer 1 Node 3: -0.217719
+	To Hidden Layer 1 Node 4: 0.181679
+	To Hidden Layer 1 Node 5: 0.465836
+Node 4
+	To Hidden Layer 1 Node 1: 0.205119
+	To Hidden Layer 1 Node 2: -0.186442
+	To Hidden Layer 1 Node 3: -0.356854
+	To Hidden Layer 1 Node 4: -0.445708
+	To Hidden Layer 1 Node 5: -0.623649
+Node 5
+	To Hidden Layer 1 Node 1: 0.597597
+	To Hidden Layer 1 Node 2: -0.339773
+	To Hidden Layer 1 Node 3: -0.054970
+	To Hidden Layer 1 Node 4: -0.401918
+	To Hidden Layer 1 Node 5: 0.406044
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.268260
+
+
+Node 2
+	To Output Layer Node 1: 0.513916
+
+
+Node 3
+	To Output Layer Node 1: 0.278185
+
+
+Node 4
+	To Output Layer Node 1: -0.771409
+
+
+Node 5
+	To Output Layer Node 1: 0.408209
+
+
+
+
+With a max iterations of 2000
+With an eta of 0.300000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 1.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 1.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 1.000000.
+Row 7: Expected output is 0 and actual output is 1.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 1.000000.
+Row 11: Expected output is 0 and actual output is 1.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 1.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 1.000000.
+Row 19: Expected output is 0 and actual output is 1.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 1.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 1.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 1.000000.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+
+
+With a max iterations of 2000
+With an eta of 0.400000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 0.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 0.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 0.000000.
+Row 11: Expected output is 0 and actual output is 0.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 1.000000.
+Row 19: Expected output is 0 and actual output is 1.000000.
+Row 20: Expected output is 1 and actual output is 0.000000.
+Row 21: Expected output is 0 and actual output is 1.000000.
+Row 22: Expected output is 1 and actual output is 0.000000.
+Row 23: Expected output is 1 and actual output is 0.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 1.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 0.000000.
+Row 28: Expected output is 0 and actual output is 1.000000.
+Row 29: Expected output is 1 and actual output is 0.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+
+
+With Full training data. . . 
+
+
+With a max iterations of 2000
+With an eta of 0.300000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 0.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 0.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 0.000000.
+Row 11: Expected output is 0 and actual output is 0.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 0.000000.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+
+
+With a max iterations of 2000
+With an eta of 0.400000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 0.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 0.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 0.000000.
+Row 11: Expected output is 0 and actual output is 0.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 0.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 0.000000.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 0.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+
+
+Weight weight set 2. . . 
+With Table 1 training data. . . 
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.185877
+	To Hidden Layer 1 Node 2: -0.571150
+	To Hidden Layer 1 Node 3: 0.605955
+	To Hidden Layer 1 Node 4: 0.257711
+	To Hidden Layer 1 Node 5: -0.064629
+Node 2
+	To Hidden Layer 1 Node 1: -0.498706
+	To Hidden Layer 1 Node 2: -0.690488
+	To Hidden Layer 1 Node 3: 0.151755
+	To Hidden Layer 1 Node 4: -0.824135
+	To Hidden Layer 1 Node 5: -0.139288
+Node 3
+	To Hidden Layer 1 Node 1: 0.105488
+	To Hidden Layer 1 Node 2: 0.432654
+	To Hidden Layer 1 Node 3: 0.273709
+	To Hidden Layer 1 Node 4: -0.087241
+	To Hidden Layer 1 Node 5: -0.581654
+Node 4
+	To Hidden Layer 1 Node 1: 0.020429
+	To Hidden Layer 1 Node 2: -0.106634
+	To Hidden Layer 1 Node 3: 0.115295
+	To Hidden Layer 1 Node 4: 0.235246
+	To Hidden Layer 1 Node 5: 0.333808
+Node 5
+	To Hidden Layer 1 Node 1: -0.498144
+	To Hidden Layer 1 Node 2: 0.432733
+	To Hidden Layer 1 Node 3: 0.256986
+	To Hidden Layer 1 Node 4: -0.168154
+	To Hidden Layer 1 Node 5: -0.910108
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.153186
+
+
+Node 2
+	To Output Layer Node 1: -0.502855
+
+
+Node 3
+	To Output Layer Node 1: 0.108693
+
+
+Node 4
+	To Output Layer Node 1: 0.189385
+
+
+Node 5
+	To Output Layer Node 1: 0.570501
+
+
+
+
+With a max iterations of 2000
+With an eta of 0.300000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 1.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 1.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 1.000000.
+Row 7: Expected output is 0 and actual output is 1.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 1.000000.
+Row 11: Expected output is 0 and actual output is 1.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 1.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 1.000000.
+Row 19: Expected output is 0 and actual output is 1.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 1.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 1.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 1.000000.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+
+
+With a max iterations of 2000
+With an eta of 0.400000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 0.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 1.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 0.000000.
+Row 11: Expected output is 0 and actual output is 0.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 1.000000.
+Row 19: Expected output is 0 and actual output is 1.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 1.000000.
+Row 22: Expected output is 1 and actual output is 0.000000.
+Row 23: Expected output is 1 and actual output is 0.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 1.000000.
+Row 26: Expected output is 1 and actual output is 0.000000.
+Row 27: Expected output is 1 and actual output is 0.000000.
+Row 28: Expected output is 0 and actual output is 1.000000.
+Row 29: Expected output is 1 and actual output is 0.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+
+
+With Full training data. . . 
+
+
+With a max iterations of 2000
+With an eta of 0.300000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 0.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 1.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 0.000000.
+Row 11: Expected output is 0 and actual output is 0.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 1.000000.
+Row 19: Expected output is 0 and actual output is 1.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 1.000000.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+
+
+With a max iterations of 2000
+With an eta of 0.400000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 0.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 1.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 0.000000.
+Row 11: Expected output is 0 and actual output is 0.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 1.000000.
+Row 19: Expected output is 0 and actual output is 1.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 1.000000.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+
+
+Weight weight set 3. . . 
+With Table 1 training data. . . 
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.329449
+	To Hidden Layer 1 Node 2: -0.297772
+	To Hidden Layer 1 Node 3: -0.351282
+	To Hidden Layer 1 Node 4: -0.069507
+	To Hidden Layer 1 Node 5: 0.143224
+Node 2
+	To Hidden Layer 1 Node 1: 0.493467
+	To Hidden Layer 1 Node 2: 0.199091
+	To Hidden Layer 1 Node 3: -0.405583
+	To Hidden Layer 1 Node 4: 0.533256
+	To Hidden Layer 1 Node 5: -0.274420
+Node 3
+	To Hidden Layer 1 Node 1: 0.044197
+	To Hidden Layer 1 Node 2: 0.387100
+	To Hidden Layer 1 Node 3: 0.173758
+	To Hidden Layer 1 Node 4: -0.257387
+	To Hidden Layer 1 Node 5: 0.457899
+Node 4
+	To Hidden Layer 1 Node 1: -0.234670
+	To Hidden Layer 1 Node 2: -0.239355
+	To Hidden Layer 1 Node 3: -0.298047
+	To Hidden Layer 1 Node 4: 0.304757
+	To Hidden Layer 1 Node 5: 0.557884
+Node 5
+	To Hidden Layer 1 Node 1: -0.253604
+	To Hidden Layer 1 Node 2: -0.326637
+	To Hidden Layer 1 Node 3: 0.006895
+	To Hidden Layer 1 Node 4: -0.585705
+	To Hidden Layer 1 Node 5: 0.489806
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.610975
+
+
+Node 2
+	To Output Layer Node 1: 0.171037
+
+
+Node 3
+	To Output Layer Node 1: -0.061112
+
+
+Node 4
+	To Output Layer Node 1: 0.300100
+
+
+Node 5
+	To Output Layer Node 1: -0.238718
+
+
+
+
+With a max iterations of 2000
+With an eta of 0.300000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 1.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 1.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 1.000000.
+Row 7: Expected output is 0 and actual output is 1.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 1.000000.
+Row 11: Expected output is 0 and actual output is 1.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 1.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 1.000000.
+Row 19: Expected output is 0 and actual output is 1.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 1.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 1.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 1.000000.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+
+
+With a max iterations of 2000
+With an eta of 0.400000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 1.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 1.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 0.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 0.000000.
+Row 11: Expected output is 0 and actual output is 0.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 0.000000.
+Row 18: Expected output is 0 and actual output is 1.000000.
+Row 19: Expected output is 0 and actual output is 1.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 1.000000.
+Row 22: Expected output is 1 and actual output is 0.000000.
+Row 23: Expected output is 1 and actual output is 0.000000.
+Row 24: Expected output is 0 and actual output is 0.000000.
+Row 25: Expected output is 0 and actual output is 1.000000.
+Row 26: Expected output is 1 and actual output is 0.000000.
+Row 27: Expected output is 1 and actual output is 0.000000.
+Row 28: Expected output is 0 and actual output is 1.000000.
+Row 29: Expected output is 1 and actual output is 0.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+
+
+With Full training data. . . 
+
+
+With a max iterations of 2000
+With an eta of 0.300000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 0.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 1.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 0.000000.
+Row 11: Expected output is 0 and actual output is 0.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 1.000000.
+Row 19: Expected output is 0 and actual output is 1.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 1.000000.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+
+
+With a max iterations of 2000
+With an eta of 0.400000. . .
+
+
+Training Started. . .
+
+Training Done!
+
+Testing. . . 
+
+Row 1: Expected output is 0 and actual output is 0.000000.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 1.000000.
+Row 4: Expected output is 0 and actual output is 1.000000.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 0.000000.
+Row 11: Expected output is 0 and actual output is 0.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 1.000000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 1.000000.
+Row 19: Expected output is 0 and actual output is 1.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 1.000000.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 1.000000.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 1.000000.
+Row 31: Expected output is 0 and actual output is 1.000000.
+Row 32: Expected output is 1 and actual output is 1.000000.
+
+

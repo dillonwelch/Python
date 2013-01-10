@@ -1,0 +1,3850 @@
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.114351
+Node 2
+	To Hidden Layer 1 Node 1: -0.040129
+Node 3
+	To Hidden Layer 1 Node 1: 0.563412
+Node 4
+	To Hidden Layer 1 Node 1: 0.855983
+Node 5
+	To Hidden Layer 1 Node 1: 0.214469
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.887174
+
+
+Row 1: Expected output is 0 and actual output is 0.000000.
+Row 2: Expected output is 1 and actual output is 0.499691.
+Row 3: Expected output is 1 and actual output is 0.499691.
+Row 4: Expected output is 0 and actual output is 0.500000.
+Row 5: Expected output is 1 and actual output is 0.499691.
+Row 6: Expected output is 0 and actual output is 0.500000.
+Row 7: Expected output is 0 and actual output is 0.500000.
+Row 8: Expected output is 1 and actual output is 0.500000.
+Row 9: Expected output is 1 and actual output is 0.499690.
+Row 10: Expected output is 0 and actual output is 0.500000.
+Row 11: Expected output is 0 and actual output is 0.500000.
+Row 12: Expected output is 1 and actual output is 0.500000.
+Row 13: Expected output is 0 and actual output is 0.500000.
+Row 14: Expected output is 1 and actual output is 0.500000.
+Row 15: Expected output is 1 and actual output is 0.500000.
+Row 16: Expected output is 0 and actual output is 0.500000.
+Row 17: Expected output is 1 and actual output is 0.499690.
+Row 18: Expected output is 0 and actual output is 0.500000.
+Row 19: Expected output is 0 and actual output is 0.500000.
+Row 20: Expected output is 1 and actual output is 0.500000.
+Row 21: Expected output is 0 and actual output is 0.500000.
+Row 22: Expected output is 1 and actual output is 0.500000.
+Row 23: Expected output is 1 and actual output is 0.500000.
+Row 24: Expected output is 0 and actual output is 0.500000.
+Row 25: Expected output is 0 and actual output is 0.500000.
+Row 26: Expected output is 1 and actual output is 0.500000.
+Row 27: Expected output is 1 and actual output is 0.500000.
+Row 28: Expected output is 0 and actual output is 0.500000.
+Row 29: Expected output is 1 and actual output is 0.500000.
+Row 30: Expected output is 0 and actual output is 0.500000.
+Row 31: Expected output is 0 and actual output is 0.500000.
+Row 32: Expected output is 1 and actual output is 0.500000.
+Hidden Nodes: 1
+Eta: 1.000000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.458531
+Node 2
+	To Hidden Layer 1 Node 1: 0.029510
+Node 3
+	To Hidden Layer 1 Node 1: 0.111329
+Node 4
+	To Hidden Layer 1 Node 1: -0.055172
+Node 5
+	To Hidden Layer 1 Node 1: -0.427709
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.301513
+
+
+Row 1: Expected output is 0 and actual output is 0.000000.
+Row 2: Expected output is 1 and actual output is 0.499624.
+Row 3: Expected output is 1 and actual output is 0.499623.
+Row 4: Expected output is 0 and actual output is 0.500000.
+Row 5: Expected output is 1 and actual output is 0.499623.
+Row 6: Expected output is 0 and actual output is 0.500000.
+Row 7: Expected output is 0 and actual output is 0.500000.
+Row 8: Expected output is 1 and actual output is 0.500000.
+Row 9: Expected output is 1 and actual output is 0.499623.
+Row 10: Expected output is 0 and actual output is 0.500000.
+Row 11: Expected output is 0 and actual output is 0.500000.
+Row 12: Expected output is 1 and actual output is 0.500000.
+Row 13: Expected output is 0 and actual output is 0.500000.
+Row 14: Expected output is 1 and actual output is 0.500000.
+Row 15: Expected output is 1 and actual output is 0.500000.
+Row 16: Expected output is 0 and actual output is 0.500000.
+Row 17: Expected output is 1 and actual output is 0.499623.
+Row 18: Expected output is 0 and actual output is 0.500000.
+Row 19: Expected output is 0 and actual output is 0.500000.
+Row 20: Expected output is 1 and actual output is 0.500000.
+Row 21: Expected output is 0 and actual output is 0.500000.
+Row 22: Expected output is 1 and actual output is 0.500000.
+Row 23: Expected output is 1 and actual output is 0.500000.
+Row 24: Expected output is 0 and actual output is 0.500000.
+Row 25: Expected output is 0 and actual output is 0.500000.
+Row 26: Expected output is 1 and actual output is 0.500000.
+Row 27: Expected output is 1 and actual output is 0.500000.
+Row 28: Expected output is 0 and actual output is 0.500000.
+Row 29: Expected output is 1 and actual output is 0.500000.
+Row 30: Expected output is 0 and actual output is 0.500000.
+Row 31: Expected output is 0 and actual output is 0.500000.
+Row 32: Expected output is 1 and actual output is 0.500000.
+Hidden Nodes: 1
+Eta: 0.900000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.530195
+Node 2
+	To Hidden Layer 1 Node 1: -0.197823
+Node 3
+	To Hidden Layer 1 Node 1: -0.458482
+Node 4
+	To Hidden Layer 1 Node 1: 0.252493
+Node 5
+	To Hidden Layer 1 Node 1: 0.769397
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.227934
+
+
+Row 1: Expected output is 0 and actual output is 0.031972.
+Row 2: Expected output is 1 and actual output is 0.499422.
+Row 3: Expected output is 1 and actual output is 0.499421.
+Row 4: Expected output is 0 and actual output is 0.500000.
+Row 5: Expected output is 1 and actual output is 0.499420.
+Row 6: Expected output is 0 and actual output is 0.500000.
+Row 7: Expected output is 0 and actual output is 0.500000.
+Row 8: Expected output is 1 and actual output is 0.500000.
+Row 9: Expected output is 1 and actual output is 0.499420.
+Row 10: Expected output is 0 and actual output is 0.500000.
+Row 11: Expected output is 0 and actual output is 0.500000.
+Row 12: Expected output is 1 and actual output is 0.500000.
+Row 13: Expected output is 0 and actual output is 0.500000.
+Row 14: Expected output is 1 and actual output is 0.500000.
+Row 15: Expected output is 1 and actual output is 0.500000.
+Row 16: Expected output is 0 and actual output is 0.500000.
+Row 17: Expected output is 1 and actual output is 0.499420.
+Row 18: Expected output is 0 and actual output is 0.500000.
+Row 19: Expected output is 0 and actual output is 0.500000.
+Row 20: Expected output is 1 and actual output is 0.500000.
+Row 21: Expected output is 0 and actual output is 0.500000.
+Row 22: Expected output is 1 and actual output is 0.500000.
+Row 23: Expected output is 1 and actual output is 0.500000.
+Row 24: Expected output is 0 and actual output is 0.500000.
+Row 25: Expected output is 0 and actual output is 0.500000.
+Row 26: Expected output is 1 and actual output is 0.500000.
+Row 27: Expected output is 1 and actual output is 0.500000.
+Row 28: Expected output is 0 and actual output is 0.500000.
+Row 29: Expected output is 1 and actual output is 0.500000.
+Row 30: Expected output is 0 and actual output is 0.500000.
+Row 31: Expected output is 0 and actual output is 0.500000.
+Row 32: Expected output is 1 and actual output is 0.500000.
+Hidden Nodes: 1
+Eta: 0.800000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.108512
+Node 2
+	To Hidden Layer 1 Node 1: -0.611903
+Node 3
+	To Hidden Layer 1 Node 1: -0.233755
+Node 4
+	To Hidden Layer 1 Node 1: -0.276562
+Node 5
+	To Hidden Layer 1 Node 1: -0.143134
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.137244
+
+
+Row 1: Expected output is 0 and actual output is 0.043580.
+Row 2: Expected output is 1 and actual output is 0.498995.
+Row 3: Expected output is 1 and actual output is 0.498992.
+Row 4: Expected output is 0 and actual output is 0.499999.
+Row 5: Expected output is 1 and actual output is 0.498989.
+Row 6: Expected output is 0 and actual output is 0.499999.
+Row 7: Expected output is 0 and actual output is 0.499999.
+Row 8: Expected output is 1 and actual output is 0.500000.
+Row 9: Expected output is 1 and actual output is 0.498988.
+Row 10: Expected output is 0 and actual output is 0.499999.
+Row 11: Expected output is 0 and actual output is 0.499999.
+Row 12: Expected output is 1 and actual output is 0.500000.
+Row 13: Expected output is 0 and actual output is 0.499999.
+Row 14: Expected output is 1 and actual output is 0.500000.
+Row 15: Expected output is 1 and actual output is 0.500000.
+Row 16: Expected output is 0 and actual output is 0.500000.
+Row 17: Expected output is 1 and actual output is 0.498987.
+Row 18: Expected output is 0 and actual output is 0.499999.
+Row 19: Expected output is 0 and actual output is 0.499999.
+Row 20: Expected output is 1 and actual output is 0.500000.
+Row 21: Expected output is 0 and actual output is 0.499999.
+Row 22: Expected output is 1 and actual output is 0.500000.
+Row 23: Expected output is 1 and actual output is 0.500000.
+Row 24: Expected output is 0 and actual output is 0.500000.
+Row 25: Expected output is 0 and actual output is 0.499999.
+Row 26: Expected output is 1 and actual output is 0.500000.
+Row 27: Expected output is 1 and actual output is 0.500000.
+Row 28: Expected output is 0 and actual output is 0.500000.
+Row 29: Expected output is 1 and actual output is 0.500000.
+Row 30: Expected output is 0 and actual output is 0.500000.
+Row 31: Expected output is 0 and actual output is 0.500000.
+Row 32: Expected output is 1 and actual output is 0.500000.
+Hidden Nodes: 1
+Eta: 0.700000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.817544
+Node 2
+	To Hidden Layer 1 Node 1: 0.057349
+Node 3
+	To Hidden Layer 1 Node 1: -0.508111
+Node 4
+	To Hidden Layer 1 Node 1: -0.391621
+Node 5
+	To Hidden Layer 1 Node 1: -0.114988
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.004967
+
+
+Row 1: Expected output is 0 and actual output is 0.505136.
+Row 2: Expected output is 1 and actual output is 0.500740.
+Row 3: Expected output is 1 and actual output is 0.501101.
+Row 4: Expected output is 0 and actual output is 0.500095.
+Row 5: Expected output is 1 and actual output is 0.501636.
+Row 6: Expected output is 0 and actual output is 0.500149.
+Row 7: Expected output is 0 and actual output is 0.500228.
+Row 8: Expected output is 1 and actual output is 0.500018.
+Row 9: Expected output is 1 and actual output is 0.502219.
+Row 10: Expected output is 0 and actual output is 0.500215.
+Row 11: Expected output is 0 and actual output is 0.500329.
+Row 12: Expected output is 1 and actual output is 0.500026.
+Row 13: Expected output is 0 and actual output is 0.500509.
+Row 14: Expected output is 1 and actual output is 0.500041.
+Row 15: Expected output is 1 and actual output is 0.500064.
+Row 16: Expected output is 0 and actual output is 0.500005.
+Row 17: Expected output is 1 and actual output is 0.502458.
+Row 18: Expected output is 0 and actual output is 0.500245.
+Row 19: Expected output is 0 and actual output is 0.500374.
+Row 20: Expected output is 1 and actual output is 0.500030.
+Row 21: Expected output is 0 and actual output is 0.500578.
+Row 22: Expected output is 1 and actual output is 0.500047.
+Row 23: Expected output is 1 and actual output is 0.500073.
+Row 24: Expected output is 0 and actual output is 0.500006.
+Row 25: Expected output is 0 and actual output is 0.500819.
+Row 26: Expected output is 1 and actual output is 0.500069.
+Row 27: Expected output is 1 and actual output is 0.500106.
+Row 28: Expected output is 0 and actual output is 0.500008.
+Row 29: Expected output is 1 and actual output is 0.500166.
+Row 30: Expected output is 0 and actual output is 0.500013.
+Row 31: Expected output is 0 and actual output is 0.500020.
+Row 32: Expected output is 1 and actual output is 0.500002.
+Hidden Nodes: 1
+Eta: 0.600000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.314875
+Node 2
+	To Hidden Layer 1 Node 1: 0.038157
+Node 3
+	To Hidden Layer 1 Node 1: 0.804080
+Node 4
+	To Hidden Layer 1 Node 1: -0.461664
+Node 5
+	To Hidden Layer 1 Node 1: -0.348627
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.078028
+
+
+Row 1: Expected output is 0 and actual output is 0.515063.
+Row 2: Expected output is 1 and actual output is 0.502575.
+Row 3: Expected output is 1 and actual output is 0.503854.
+Row 4: Expected output is 0 and actual output is 0.500407.
+Row 5: Expected output is 1 and actual output is 0.505783.
+Row 6: Expected output is 0 and actual output is 0.500654.
+Row 7: Expected output is 0 and actual output is 0.501014.
+Row 8: Expected output is 1 and actual output is 0.500098.
+Row 9: Expected output is 1 and actual output is 0.507052.
+Row 10: Expected output is 0 and actual output is 0.500836.
+Row 11: Expected output is 0 and actual output is 0.501292.
+Row 12: Expected output is 1 and actual output is 0.500126.
+Row 13: Expected output is 0 and actual output is 0.502039.
+Row 14: Expected output is 1 and actual output is 0.500203.
+Row 15: Expected output is 1 and actual output is 0.500317.
+Row 16: Expected output is 0 and actual output is 0.500030.
+Row 17: Expected output is 1 and actual output is 0.507528.
+Row 18: Expected output is 0 and actual output is 0.500909.
+Row 19: Expected output is 0 and actual output is 0.501403.
+Row 20: Expected output is 1 and actual output is 0.500137.
+Row 21: Expected output is 0 and actual output is 0.502209.
+Row 22: Expected output is 1 and actual output is 0.500221.
+Row 23: Expected output is 1 and actual output is 0.500346.
+Row 24: Expected output is 0 and actual output is 0.500033.
+Row 25: Expected output is 0 and actual output is 0.502783.
+Row 26: Expected output is 1 and actual output is 0.500284.
+Row 27: Expected output is 1 and actual output is 0.500443.
+Row 28: Expected output is 0 and actual output is 0.500042.
+Row 29: Expected output is 1 and actual output is 0.500711.
+Row 30: Expected output is 0 and actual output is 0.500068.
+Row 31: Expected output is 0 and actual output is 0.500106.
+Row 32: Expected output is 1 and actual output is 0.500010.
+Hidden Nodes: 1
+Eta: 0.500000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.316979
+Node 2
+	To Hidden Layer 1 Node 1: -0.059813
+Node 3
+	To Hidden Layer 1 Node 1: -0.574011
+Node 4
+	To Hidden Layer 1 Node 1: 0.148332
+Node 5
+	To Hidden Layer 1 Node 1: 0.574515
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.566933
+
+
+Row 1: Expected output is 0 and actual output is 0.522357.
+Row 2: Expected output is 1 and actual output is 0.505893.
+Row 3: Expected output is 1 and actual output is 0.507963.
+Row 4: Expected output is 0 and actual output is 0.501423.
+Row 5: Expected output is 1 and actual output is 0.509284.
+Row 6: Expected output is 0 and actual output is 0.501709.
+Row 7: Expected output is 0 and actual output is 0.502400.
+Row 8: Expected output is 1 and actual output is 0.500382.
+Row 9: Expected output is 1 and actual output is 0.510120.
+Row 10: Expected output is 0 and actual output is 0.501900.
+Row 11: Expected output is 0 and actual output is 0.502663.
+Row 12: Expected output is 1 and actual output is 0.500426.
+Row 13: Expected output is 0 and actual output is 0.503181.
+Row 14: Expected output is 1 and actual output is 0.500514.
+Row 15: Expected output is 1 and actual output is 0.500729.
+Row 16: Expected output is 0 and actual output is 0.500112.
+Row 17: Expected output is 1 and actual output is 0.510232.
+Row 18: Expected output is 0 and actual output is 0.501926.
+Row 19: Expected output is 0 and actual output is 0.502699.
+Row 20: Expected output is 1 and actual output is 0.500432.
+Row 21: Expected output is 0 and actual output is 0.503224.
+Row 22: Expected output is 1 and actual output is 0.500521.
+Row 23: Expected output is 1 and actual output is 0.500740.
+Row 24: Expected output is 0 and actual output is 0.500114.
+Row 25: Expected output is 0 and actual output is 0.503569.
+Row 26: Expected output is 1 and actual output is 0.500581.
+Row 27: Expected output is 1 and actual output is 0.500824.
+Row 28: Expected output is 0 and actual output is 0.500127.
+Row 29: Expected output is 1 and actual output is 0.500993.
+Row 30: Expected output is 0 and actual output is 0.500154.
+Row 31: Expected output is 0 and actual output is 0.500219.
+Row 32: Expected output is 1 and actual output is 0.500033.
+Hidden Nodes: 1
+Eta: 0.400000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.081795
+Node 2
+	To Hidden Layer 1 Node 1: 0.141503
+Node 3
+	To Hidden Layer 1 Node 1: 0.199041
+Node 4
+	To Hidden Layer 1 Node 1: 0.138849
+Node 5
+	To Hidden Layer 1 Node 1: 0.076702
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.032115
+
+
+Row 1: Expected output is 0 and actual output is 0.523269.
+Row 2: Expected output is 1 and actual output is 0.506515.
+Row 3: Expected output is 1 and actual output is 0.508828.
+Row 4: Expected output is 0 and actual output is 0.501707.
+Row 5: Expected output is 1 and actual output is 0.510113.
+Row 6: Expected output is 0 and actual output is 0.502011.
+Row 7: Expected output is 0 and actual output is 0.502838.
+Row 8: Expected output is 1 and actual output is 0.500487.
+Row 9: Expected output is 1 and actual output is 0.510526.
+Row 10: Expected output is 0 and actual output is 0.502112.
+Row 11: Expected output is 0 and actual output is 0.502979.
+Row 12: Expected output is 1 and actual output is 0.500512.
+Row 13: Expected output is 0 and actual output is 0.503491.
+Row 14: Expected output is 1 and actual output is 0.500606.
+Row 15: Expected output is 1 and actual output is 0.500866.
+Row 16: Expected output is 0 and actual output is 0.500143.
+Row 17: Expected output is 1 and actual output is 0.510496.
+Row 18: Expected output is 0 and actual output is 0.502105.
+Row 19: Expected output is 0 and actual output is 0.502968.
+Row 20: Expected output is 1 and actual output is 0.500510.
+Row 21: Expected output is 0 and actual output is 0.503479.
+Row 22: Expected output is 1 and actual output is 0.500604.
+Row 23: Expected output is 1 and actual output is 0.500863.
+Row 24: Expected output is 0 and actual output is 0.500143.
+Row 25: Expected output is 0 and actual output is 0.503648.
+Row 26: Expected output is 1 and actual output is 0.500635.
+Row 27: Expected output is 1 and actual output is 0.500908.
+Row 28: Expected output is 0 and actual output is 0.500150.
+Row 29: Expected output is 1 and actual output is 0.501073.
+Row 30: Expected output is 0 and actual output is 0.500178.
+Row 31: Expected output is 0 and actual output is 0.500255.
+Row 32: Expected output is 1 and actual output is 0.500042.
+Hidden Nodes: 1
+Eta: 0.300000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.067753
+Node 2
+	To Hidden Layer 1 Node 1: 0.742478
+Node 3
+	To Hidden Layer 1 Node 1: 0.122723
+Node 4
+	To Hidden Layer 1 Node 1: -0.213768
+Node 5
+	To Hidden Layer 1 Node 1: 0.051284
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.257790
+
+
+Row 1: Expected output is 0 and actual output is 0.523163.
+Row 2: Expected output is 1 and actual output is 0.506751.
+Row 3: Expected output is 1 and actual output is 0.508925.
+Row 4: Expected output is 0 and actual output is 0.501811.
+Row 5: Expected output is 1 and actual output is 0.510543.
+Row 6: Expected output is 0 and actual output is 0.502215.
+Row 7: Expected output is 0 and actual output is 0.503041.
+Row 8: Expected output is 1 and actual output is 0.500548.
+Row 9: Expected output is 1 and actual output is 0.511576.
+Row 10: Expected output is 0 and actual output is 0.502489.
+Row 11: Expected output is 0 and actual output is 0.503409.
+Row 12: Expected output is 1 and actual output is 0.500619.
+Row 13: Expected output is 0 and actual output is 0.504138.
+Row 14: Expected output is 1 and actual output is 0.500762.
+Row 15: Expected output is 1 and actual output is 0.501059.
+Row 16: Expected output is 0 and actual output is 0.500184.
+Row 17: Expected output is 1 and actual output is 0.510717.
+Row 18: Expected output is 0 and actual output is 0.502261.
+Row 19: Expected output is 0 and actual output is 0.503102.
+Row 20: Expected output is 1 and actual output is 0.500560.
+Row 21: Expected output is 0 and actual output is 0.503771.
+Row 22: Expected output is 1 and actual output is 0.500689.
+Row 23: Expected output is 1 and actual output is 0.500959.
+Row 24: Expected output is 0 and actual output is 0.500166.
+Row 25: Expected output is 0 and actual output is 0.504219.
+Row 26: Expected output is 1 and actual output is 0.500778.
+Row 27: Expected output is 1 and actual output is 0.501081.
+Row 28: Expected output is 0 and actual output is 0.500188.
+Row 29: Expected output is 1 and actual output is 0.501327.
+Row 30: Expected output is 0 and actual output is 0.500232.
+Row 31: Expected output is 0 and actual output is 0.500324.
+Row 32: Expected output is 1 and actual output is 0.500055.
+Hidden Nodes: 1
+Eta: 0.200000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.326299
+Node 2
+	To Hidden Layer 1 Node 1: -0.147931
+Node 3
+	To Hidden Layer 1 Node 1: -0.633615
+Node 4
+	To Hidden Layer 1 Node 1: 0.577724
+Node 5
+	To Hidden Layer 1 Node 1: -0.092566
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.675133
+
+
+Row 1: Expected output is 0 and actual output is 0.501869.
+Row 2: Expected output is 1 and actual output is 0.500927.
+Row 3: Expected output is 1 and actual output is 0.501671.
+Row 4: Expected output is 0 and actual output is 0.500787.
+Row 5: Expected output is 1 and actual output is 0.500990.
+Row 6: Expected output is 0 and actual output is 0.500397.
+Row 7: Expected output is 0 and actual output is 0.500843.
+Row 8: Expected output is 1 and actual output is 0.500328.
+Row 9: Expected output is 1 and actual output is 0.501258.
+Row 10: Expected output is 0 and actual output is 0.500536.
+Row 11: Expected output is 0 and actual output is 0.501087.
+Row 12: Expected output is 1 and actual output is 0.500445.
+Row 13: Expected output is 0 and actual output is 0.500578.
+Row 14: Expected output is 1 and actual output is 0.500213.
+Row 15: Expected output is 1 and actual output is 0.500481.
+Row 16: Expected output is 0 and actual output is 0.500174.
+Row 17: Expected output is 1 and actual output is 0.501156.
+Row 18: Expected output is 0 and actual output is 0.500481.
+Row 19: Expected output is 0 and actual output is 0.500993.
+Row 20: Expected output is 1 and actual output is 0.500399.
+Row 21: Expected output is 0 and actual output is 0.500519.
+Row 22: Expected output is 1 and actual output is 0.500189.
+Row 23: Expected output is 1 and actual output is 0.500431.
+Row 24: Expected output is 0 and actual output is 0.500154.
+Row 25: Expected output is 0 and actual output is 0.500692.
+Row 26: Expected output is 1 and actual output is 0.500261.
+Row 27: Expected output is 1 and actual output is 0.500580.
+Row 28: Expected output is 0 and actual output is 0.500213.
+Row 29: Expected output is 1 and actual output is 0.500283.
+Row 30: Expected output is 0 and actual output is 0.500098.
+Row 31: Expected output is 0 and actual output is 0.500232.
+Row 32: Expected output is 1 and actual output is 0.500080.
+Hidden Nodes: 1
+Eta: 0.100000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.113040
+	To Hidden Layer 1 Node 2: 0.944709
+Node 2
+	To Hidden Layer 1 Node 1: 0.473713
+	To Hidden Layer 1 Node 2: -0.173278
+Node 3
+	To Hidden Layer 1 Node 1: 0.263277
+	To Hidden Layer 1 Node 2: -0.016901
+Node 4
+	To Hidden Layer 1 Node 1: -0.475926
+	To Hidden Layer 1 Node 2: 0.468295
+Node 5
+	To Hidden Layer 1 Node 1: 0.089888
+	To Hidden Layer 1 Node 2: 0.156680
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.054686
+
+
+Node 2
+	To Output Layer Node 1: 0.179604
+
+
+Row 1: Expected output is 0 and actual output is 0.060768.
+Row 2: Expected output is 1 and actual output is 0.813607.
+Row 3: Expected output is 1 and actual output is 0.814599.
+Row 4: Expected output is 0 and actual output is 0.519207.
+Row 5: Expected output is 1 and actual output is 0.815524.
+Row 6: Expected output is 0 and actual output is 0.519291.
+Row 7: Expected output is 0 and actual output is 0.519381.
+Row 8: Expected output is 1 and actual output is 0.500961.
+Row 9: Expected output is 1 and actual output is 0.816387.
+Row 10: Expected output is 0 and actual output is 0.519369.
+Row 11: Expected output is 0 and actual output is 0.519460.
+Row 12: Expected output is 1 and actual output is 0.500965.
+Row 13: Expected output is 0 and actual output is 0.519545.
+Row 14: Expected output is 1 and actual output is 0.500969.
+Row 15: Expected output is 1 and actual output is 0.500974.
+Row 16: Expected output is 0 and actual output is 0.500048.
+Row 17: Expected output is 1 and actual output is 0.817190.
+Row 18: Expected output is 0 and actual output is 0.519442.
+Row 19: Expected output is 0 and actual output is 0.519533.
+Row 20: Expected output is 1 and actual output is 0.500969.
+Row 21: Expected output is 0 and actual output is 0.519618.
+Row 22: Expected output is 1 and actual output is 0.500973.
+Row 23: Expected output is 1 and actual output is 0.500977.
+Row 24: Expected output is 0 and actual output is 0.500048.
+Row 25: Expected output is 0 and actual output is 0.519698.
+Row 26: Expected output is 1 and actual output is 0.500977.
+Row 27: Expected output is 1 and actual output is 0.500981.
+Row 28: Expected output is 0 and actual output is 0.500049.
+Row 29: Expected output is 1 and actual output is 0.500986.
+Row 30: Expected output is 0 and actual output is 0.500049.
+Row 31: Expected output is 0 and actual output is 0.500049.
+Row 32: Expected output is 1 and actual output is 0.500002.
+Hidden Nodes: 2
+Eta: 1.000000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.006505
+	To Hidden Layer 1 Node 2: 0.004334
+Node 2
+	To Hidden Layer 1 Node 1: 0.623612
+	To Hidden Layer 1 Node 2: -0.189887
+Node 3
+	To Hidden Layer 1 Node 1: -0.330942
+	To Hidden Layer 1 Node 2: -0.063028
+Node 4
+	To Hidden Layer 1 Node 1: 0.397926
+	To Hidden Layer 1 Node 2: 0.002803
+Node 5
+	To Hidden Layer 1 Node 1: 0.030198
+	To Hidden Layer 1 Node 2: -0.594011
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.409758
+
+
+Node 2
+	To Output Layer Node 1: 0.009774
+
+
+Row 1: Expected output is 0 and actual output is 0.063574.
+Row 2: Expected output is 1 and actual output is 0.809269.
+Row 3: Expected output is 1 and actual output is 0.810210.
+Row 4: Expected output is 0 and actual output is 0.519749.
+Row 5: Expected output is 1 and actual output is 0.811085.
+Row 6: Expected output is 0 and actual output is 0.519831.
+Row 7: Expected output is 0 and actual output is 0.519920.
+Row 8: Expected output is 1 and actual output is 0.501034.
+Row 9: Expected output is 1 and actual output is 0.811898.
+Row 10: Expected output is 0 and actual output is 0.519907.
+Row 11: Expected output is 0 and actual output is 0.519996.
+Row 12: Expected output is 1 and actual output is 0.501038.
+Row 13: Expected output is 0 and actual output is 0.520079.
+Row 14: Expected output is 1 and actual output is 0.501042.
+Row 15: Expected output is 1 and actual output is 0.501047.
+Row 16: Expected output is 0 and actual output is 0.500054.
+Row 17: Expected output is 1 and actual output is 0.812653.
+Row 18: Expected output is 0 and actual output is 0.519978.
+Row 19: Expected output is 0 and actual output is 0.520068.
+Row 20: Expected output is 1 and actual output is 0.501041.
+Row 21: Expected output is 0 and actual output is 0.520151.
+Row 22: Expected output is 1 and actual output is 0.501046.
+Row 23: Expected output is 1 and actual output is 0.501050.
+Row 24: Expected output is 0 and actual output is 0.500054.
+Row 25: Expected output is 0 and actual output is 0.520228.
+Row 26: Expected output is 1 and actual output is 0.501050.
+Row 27: Expected output is 1 and actual output is 0.501054.
+Row 28: Expected output is 0 and actual output is 0.500055.
+Row 29: Expected output is 1 and actual output is 0.501059.
+Row 30: Expected output is 0 and actual output is 0.500055.
+Row 31: Expected output is 0 and actual output is 0.500055.
+Row 32: Expected output is 1 and actual output is 0.500003.
+Hidden Nodes: 2
+Eta: 0.900000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.258173
+	To Hidden Layer 1 Node 2: 0.029956
+Node 2
+	To Hidden Layer 1 Node 1: -0.354383
+	To Hidden Layer 1 Node 2: 0.618216
+Node 3
+	To Hidden Layer 1 Node 1: -0.570931
+	To Hidden Layer 1 Node 2: -0.217619
+Node 4
+	To Hidden Layer 1 Node 1: 0.156215
+	To Hidden Layer 1 Node 2: -0.047732
+Node 5
+	To Hidden Layer 1 Node 1: -0.253001
+	To Hidden Layer 1 Node 2: -0.107597
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.761229
+
+
+Node 2
+	To Output Layer Node 1: 0.834045
+
+
+Row 1: Expected output is 0 and actual output is 0.066865.
+Row 2: Expected output is 1 and actual output is 0.804262.
+Row 3: Expected output is 1 and actual output is 0.805148.
+Row 4: Expected output is 0 and actual output is 0.520355.
+Row 5: Expected output is 1 and actual output is 0.805970.
+Row 6: Expected output is 0 and actual output is 0.520435.
+Row 7: Expected output is 0 and actual output is 0.520521.
+Row 8: Expected output is 1 and actual output is 0.501120.
+Row 9: Expected output is 1 and actual output is 0.806731.
+Row 10: Expected output is 0 and actual output is 0.520509.
+Row 11: Expected output is 0 and actual output is 0.520595.
+Row 12: Expected output is 1 and actual output is 0.501124.
+Row 13: Expected output is 0 and actual output is 0.520676.
+Row 14: Expected output is 1 and actual output is 0.501128.
+Row 15: Expected output is 1 and actual output is 0.501133.
+Row 16: Expected output is 0 and actual output is 0.500062.
+Row 17: Expected output is 1 and actual output is 0.807436.
+Row 18: Expected output is 0 and actual output is 0.520577.
+Row 19: Expected output is 0 and actual output is 0.520664.
+Row 20: Expected output is 1 and actual output is 0.501128.
+Row 21: Expected output is 0 and actual output is 0.520745.
+Row 22: Expected output is 1 and actual output is 0.501132.
+Row 23: Expected output is 1 and actual output is 0.501137.
+Row 24: Expected output is 0 and actual output is 0.500062.
+Row 25: Expected output is 0 and actual output is 0.520820.
+Row 26: Expected output is 1 and actual output is 0.501136.
+Row 27: Expected output is 1 and actual output is 0.501141.
+Row 28: Expected output is 0 and actual output is 0.500062.
+Row 29: Expected output is 1 and actual output is 0.501146.
+Row 30: Expected output is 0 and actual output is 0.500062.
+Row 31: Expected output is 0 and actual output is 0.500063.
+Row 32: Expected output is 1 and actual output is 0.500003.
+Hidden Nodes: 2
+Eta: 0.800000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.677279
+	To Hidden Layer 1 Node 2: -0.422159
+Node 2
+	To Hidden Layer 1 Node 1: 0.104075
+	To Hidden Layer 1 Node 2: -0.128343
+Node 3
+	To Hidden Layer 1 Node 1: -0.509267
+	To Hidden Layer 1 Node 2: 0.272640
+Node 4
+	To Hidden Layer 1 Node 1: -0.562428
+	To Hidden Layer 1 Node 2: 0.588247
+Node 5
+	To Hidden Layer 1 Node 1: 0.299731
+	To Hidden Layer 1 Node 2: 0.274498
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.439901
+
+
+Node 2
+	To Output Layer Node 1: 0.060744
+
+
+Row 1: Expected output is 0 and actual output is 0.071151.
+Row 2: Expected output is 1 and actual output is 0.797820.
+Row 3: Expected output is 1 and actual output is 0.798654.
+Row 4: Expected output is 0 and actual output is 0.521088.
+Row 5: Expected output is 1 and actual output is 0.799424.
+Row 6: Expected output is 0 and actual output is 0.521165.
+Row 7: Expected output is 0 and actual output is 0.521250.
+Row 8: Expected output is 1 and actual output is 0.501233.
+Row 9: Expected output is 1 and actual output is 0.800133.
+Row 10: Expected output is 0 and actual output is 0.521237.
+Row 11: Expected output is 0 and actual output is 0.521322.
+Row 12: Expected output is 1 and actual output is 0.501238.
+Row 13: Expected output is 0 and actual output is 0.521401.
+Row 14: Expected output is 1 and actual output is 0.501242.
+Row 15: Expected output is 1 and actual output is 0.501247.
+Row 16: Expected output is 0 and actual output is 0.500072.
+Row 17: Expected output is 1 and actual output is 0.800787.
+Row 18: Expected output is 0 and actual output is 0.521304.
+Row 19: Expected output is 0 and actual output is 0.521389.
+Row 20: Expected output is 1 and actual output is 0.501241.
+Row 21: Expected output is 0 and actual output is 0.521468.
+Row 22: Expected output is 1 and actual output is 0.501246.
+Row 23: Expected output is 1 and actual output is 0.501251.
+Row 24: Expected output is 0 and actual output is 0.500072.
+Row 25: Expected output is 0 and actual output is 0.521541.
+Row 26: Expected output is 1 and actual output is 0.501250.
+Row 27: Expected output is 1 and actual output is 0.501255.
+Row 28: Expected output is 0 and actual output is 0.500073.
+Row 29: Expected output is 1 and actual output is 0.501260.
+Row 30: Expected output is 0 and actual output is 0.500073.
+Row 31: Expected output is 0 and actual output is 0.500073.
+Row 32: Expected output is 1 and actual output is 0.500004.
+Hidden Nodes: 2
+Eta: 0.700000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.134333
+	To Hidden Layer 1 Node 2: 0.771906
+Node 2
+	To Hidden Layer 1 Node 1: -0.087544
+	To Hidden Layer 1 Node 2: -0.050653
+Node 3
+	To Hidden Layer 1 Node 1: -0.213490
+	To Hidden Layer 1 Node 2: 0.931853
+Node 4
+	To Hidden Layer 1 Node 1: 0.275961
+	To Hidden Layer 1 Node 2: -0.296990
+Node 5
+	To Hidden Layer 1 Node 1: -0.145775
+	To Hidden Layer 1 Node 2: -0.209887
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.515750
+
+
+Node 2
+	To Output Layer Node 1: -0.025051
+
+
+Row 1: Expected output is 0 and actual output is 0.648134.
+Row 2: Expected output is 1 and actual output is 0.746829.
+Row 3: Expected output is 1 and actual output is 0.747148.
+Row 4: Expected output is 0 and actual output is 0.511528.
+Row 5: Expected output is 1 and actual output is 0.748305.
+Row 6: Expected output is 0 and actual output is 0.511596.
+Row 7: Expected output is 0 and actual output is 0.511615.
+Row 8: Expected output is 1 and actual output is 0.500476.
+Row 9: Expected output is 1 and actual output is 0.749942.
+Row 10: Expected output is 0 and actual output is 0.511693.
+Row 11: Expected output is 0 and actual output is 0.511712.
+Row 12: Expected output is 1 and actual output is 0.500480.
+Row 13: Expected output is 0 and actual output is 0.511781.
+Row 14: Expected output is 1 and actual output is 0.500483.
+Row 15: Expected output is 1 and actual output is 0.500483.
+Row 16: Expected output is 0 and actual output is 0.500020.
+Row 17: Expected output is 1 and actual output is 0.690915.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 0.935980.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 0.936800.
+Row 23: Expected output is 1 and actual output is 0.937016.
+Row 24: Expected output is 0 and actual output is 0.530788.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 0.937981.
+Row 27: Expected output is 1 and actual output is 0.938195.
+Row 28: Expected output is 0 and actual output is 0.531043.
+Row 29: Expected output is 1 and actual output is 0.938997.
+Row 30: Expected output is 0 and actual output is 0.531226.
+Row 31: Expected output is 0 and actual output is 0.531277.
+Row 32: Expected output is 1 and actual output is 0.501286.
+Hidden Nodes: 2
+Eta: 0.600000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.322492
+	To Hidden Layer 1 Node 2: -0.613535
+Node 2
+	To Hidden Layer 1 Node 1: 0.649884
+	To Hidden Layer 1 Node 2: -0.919668
+Node 3
+	To Hidden Layer 1 Node 1: 0.111492
+	To Hidden Layer 1 Node 2: -0.077858
+Node 4
+	To Hidden Layer 1 Node 1: -0.019262
+	To Hidden Layer 1 Node 2: -0.045391
+Node 5
+	To Hidden Layer 1 Node 1: 0.392371
+	To Hidden Layer 1 Node 2: -0.257033
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.293682
+
+
+Node 2
+	To Output Layer Node 1: 0.238427
+
+
+Row 1: Expected output is 0 and actual output is 0.645472.
+Row 2: Expected output is 1 and actual output is 0.743185.
+Row 3: Expected output is 1 and actual output is 0.743399.
+Row 4: Expected output is 0 and actual output is 0.511873.
+Row 5: Expected output is 1 and actual output is 0.744327.
+Row 6: Expected output is 0 and actual output is 0.511930.
+Row 7: Expected output is 0 and actual output is 0.511943.
+Row 8: Expected output is 1 and actual output is 0.500512.
+Row 9: Expected output is 1 and actual output is 0.688193.
+Row 10: Expected output is 0 and actual output is 0.000000.
+Row 11: Expected output is 0 and actual output is 0.000000.
+Row 12: Expected output is 1 and actual output is 0.933548.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 0.934215.
+Row 15: Expected output is 1 and actual output is 0.934359.
+Row 16: Expected output is 0 and actual output is 0.531940.
+Row 17: Expected output is 1 and actual output is 0.746555.
+Row 18: Expected output is 0 and actual output is 0.512066.
+Row 19: Expected output is 0 and actual output is 0.512080.
+Row 20: Expected output is 1 and actual output is 0.500518.
+Row 21: Expected output is 0 and actual output is 0.512138.
+Row 22: Expected output is 1 and actual output is 0.500521.
+Row 23: Expected output is 1 and actual output is 0.500521.
+Row 24: Expected output is 0 and actual output is 0.500022.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 0.935865.
+Row 27: Expected output is 1 and actual output is 0.936006.
+Row 28: Expected output is 0 and actual output is 0.532303.
+Row 29: Expected output is 1 and actual output is 0.936659.
+Row 30: Expected output is 0 and actual output is 0.532457.
+Row 31: Expected output is 0 and actual output is 0.532493.
+Row 32: Expected output is 1 and actual output is 0.501400.
+Hidden Nodes: 2
+Eta: 0.500000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.058601
+	To Hidden Layer 1 Node 2: -0.542365
+Node 2
+	To Hidden Layer 1 Node 1: -0.072814
+	To Hidden Layer 1 Node 2: 0.091190
+Node 3
+	To Hidden Layer 1 Node 1: 0.023019
+	To Hidden Layer 1 Node 2: -0.286887
+Node 4
+	To Hidden Layer 1 Node 1: -0.962687
+	To Hidden Layer 1 Node 2: -0.652358
+Node 5
+	To Hidden Layer 1 Node 1: -0.081946
+	To Hidden Layer 1 Node 2: -0.722017
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.827976
+
+
+Node 2
+	To Output Layer Node 1: 0.250764
+
+
+Row 1: Expected output is 0 and actual output is 0.640675.
+Row 2: Expected output is 1 and actual output is 0.734176.
+Row 3: Expected output is 1 and actual output is 0.734214.
+Row 4: Expected output is 0 and actual output is 0.512813.
+Row 5: Expected output is 1 and actual output is 0.734830.
+Row 6: Expected output is 0 and actual output is 0.512856.
+Row 7: Expected output is 0 and actual output is 0.512858.
+Row 8: Expected output is 1 and actual output is 0.500620.
+Row 9: Expected output is 1 and actual output is 0.683953.
+Row 10: Expected output is 0 and actual output is 0.000000.
+Row 11: Expected output is 0 and actual output is 0.000000.
+Row 12: Expected output is 1 and actual output is 0.925429.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 0.925885.
+Row 15: Expected output is 1 and actual output is 0.925893.
+Row 16: Expected output is 0 and actual output is 0.534867.
+Row 17: Expected output is 1 and actual output is 0.736514.
+Row 18: Expected output is 0 and actual output is 0.512970.
+Row 19: Expected output is 0 and actual output is 0.512973.
+Row 20: Expected output is 1 and actual output is 0.500626.
+Row 21: Expected output is 0 and actual output is 0.513015.
+Row 22: Expected output is 1 and actual output is 0.500628.
+Row 23: Expected output is 1 and actual output is 0.500628.
+Row 24: Expected output is 0 and actual output is 0.500030.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 0.927231.
+Row 27: Expected output is 1 and actual output is 0.927239.
+Row 28: Expected output is 0 and actual output is 0.535174.
+Row 29: Expected output is 1 and actual output is 0.927688.
+Row 30: Expected output is 0 and actual output is 0.535289.
+Row 31: Expected output is 0 and actual output is 0.535297.
+Row 32: Expected output is 1 and actual output is 0.501712.
+Hidden Nodes: 2
+Eta: 0.400000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.635451
+	To Hidden Layer 1 Node 2: -0.540249
+Node 2
+	To Hidden Layer 1 Node 1: -0.462165
+	To Hidden Layer 1 Node 2: 0.218080
+Node 3
+	To Hidden Layer 1 Node 1: 0.832220
+	To Hidden Layer 1 Node 2: 0.373823
+Node 4
+	To Hidden Layer 1 Node 1: -0.290288
+	To Hidden Layer 1 Node 2: -0.652576
+Node 5
+	To Hidden Layer 1 Node 1: -0.415485
+	To Hidden Layer 1 Node 2: -0.508375
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.527442
+
+
+Node 2
+	To Output Layer Node 1: 0.153446
+
+
+Row 1: Expected output is 0 and actual output is 0.637289.
+Row 2: Expected output is 1 and actual output is 0.730803.
+Row 3: Expected output is 1 and actual output is 0.730772.
+Row 4: Expected output is 0 and actual output is 0.513456.
+Row 5: Expected output is 1 and actual output is 0.679026.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 0.921028.
+Row 9: Expected output is 1 and actual output is 0.731496.
+Row 10: Expected output is 0 and actual output is 0.513508.
+Row 11: Expected output is 0 and actual output is 0.513506.
+Row 12: Expected output is 1 and actual output is 0.500694.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 0.921608.
+Row 15: Expected output is 1 and actual output is 0.921562.
+Row 16: Expected output is 0 and actual output is 0.536696.
+Row 17: Expected output is 1 and actual output is 0.732495.
+Row 18: Expected output is 0 and actual output is 0.513581.
+Row 19: Expected output is 0 and actual output is 0.513578.
+Row 20: Expected output is 1 and actual output is 0.500698.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 0.922418.
+Row 23: Expected output is 1 and actual output is 0.922372.
+Row 24: Expected output is 0 and actual output is 0.536891.
+Row 25: Expected output is 0 and actual output is 0.513631.
+Row 26: Expected output is 1 and actual output is 0.500701.
+Row 27: Expected output is 1 and actual output is 0.500701.
+Row 28: Expected output is 0 and actual output is 0.500036.
+Row 29: Expected output is 1 and actual output is 0.922946.
+Row 30: Expected output is 0 and actual output is 0.537033.
+Row 31: Expected output is 0 and actual output is 0.537027.
+Row 32: Expected output is 1 and actual output is 0.501915.
+Hidden Nodes: 2
+Eta: 0.300000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.198968
+	To Hidden Layer 1 Node 2: -0.710327
+Node 2
+	To Hidden Layer 1 Node 1: 0.223025
+	To Hidden Layer 1 Node 2: -0.291770
+Node 3
+	To Hidden Layer 1 Node 1: -0.658021
+	To Hidden Layer 1 Node 2: 0.058370
+Node 4
+	To Hidden Layer 1 Node 1: 0.407553
+	To Hidden Layer 1 Node 2: 0.226474
+Node 5
+	To Hidden Layer 1 Node 1: -0.185727
+	To Hidden Layer 1 Node 2: -0.090919
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.328671
+
+
+Node 2
+	To Output Layer Node 1: 0.596044
+
+
+Row 1: Expected output is 0 and actual output is 0.423590.
+Row 2: Expected output is 1 and actual output is 0.648561.
+Row 3: Expected output is 1 and actual output is 0.650235.
+Row 4: Expected output is 0 and actual output is 0.530639.
+Row 5: Expected output is 1 and actual output is 0.650412.
+Row 6: Expected output is 0 and actual output is 0.530681.
+Row 7: Expected output is 0 and actual output is 0.531116.
+Row 8: Expected output is 1 and actual output is 0.505125.
+Row 9: Expected output is 1 and actual output is 0.287356.
+Row 10: Expected output is 0 and actual output is 0.231438.
+Row 11: Expected output is 0 and actual output is 0.231679.
+Row 12: Expected output is 1 and actual output is 0.741742.
+Row 13: Expected output is 0 and actual output is 0.231833.
+Row 14: Expected output is 1 and actual output is 0.741964.
+Row 15: Expected output is 1 and actual output is 0.743634.
+Row 16: Expected output is 0 and actual output is 0.571479.
+Row 17: Expected output is 1 and actual output is 0.650678.
+Row 18: Expected output is 0 and actual output is 0.530744.
+Row 19: Expected output is 0 and actual output is 0.531180.
+Row 20: Expected output is 1 and actual output is 0.505136.
+Row 21: Expected output is 0 and actual output is 0.531223.
+Row 22: Expected output is 1 and actual output is 0.505143.
+Row 23: Expected output is 1 and actual output is 0.505218.
+Row 24: Expected output is 0 and actual output is 0.500839.
+Row 25: Expected output is 0 and actual output is 0.232066.
+Row 26: Expected output is 1 and actual output is 0.742297.
+Row 27: Expected output is 1 and actual output is 0.743968.
+Row 28: Expected output is 0 and actual output is 0.571620.
+Row 29: Expected output is 1 and actual output is 0.744189.
+Row 30: Expected output is 0 and actual output is 0.571714.
+Row 31: Expected output is 0 and actual output is 0.572680.
+Row 32: Expected output is 1 and actual output is 0.512500.
+Hidden Nodes: 2
+Eta: 0.200000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.499044
+	To Hidden Layer 1 Node 2: -0.562968
+Node 2
+	To Hidden Layer 1 Node 1: 0.114853
+	To Hidden Layer 1 Node 2: 0.284078
+Node 3
+	To Hidden Layer 1 Node 1: -0.316294
+	To Hidden Layer 1 Node 2: -0.226366
+Node 4
+	To Hidden Layer 1 Node 1: 0.805085
+	To Hidden Layer 1 Node 2: 0.721295
+Node 5
+	To Hidden Layer 1 Node 1: 0.208139
+	To Hidden Layer 1 Node 2: 0.243208
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.116409
+
+
+Node 2
+	To Output Layer Node 1: 0.268938
+
+
+Row 1: Expected output is 0 and actual output is 0.500996.
+Row 2: Expected output is 1 and actual output is 0.500503.
+Row 3: Expected output is 1 and actual output is 0.500906.
+Row 4: Expected output is 0 and actual output is 0.500438.
+Row 5: Expected output is 1 and actual output is 0.500609.
+Row 6: Expected output is 0 and actual output is 0.500258.
+Row 7: Expected output is 0 and actual output is 0.500535.
+Row 8: Expected output is 1 and actual output is 0.500220.
+Row 9: Expected output is 1 and actual output is 0.500771.
+Row 10: Expected output is 0 and actual output is 0.500350.
+Row 11: Expected output is 0 and actual output is 0.500687.
+Row 12: Expected output is 1 and actual output is 0.500301.
+Row 13: Expected output is 0 and actual output is 0.500433.
+Row 14: Expected output is 1 and actual output is 0.500171.
+Row 15: Expected output is 1 and actual output is 0.500375.
+Row 16: Expected output is 0 and actual output is 0.500145.
+Row 17: Expected output is 1 and actual output is 0.500529.
+Row 18: Expected output is 0 and actual output is 0.500216.
+Row 19: Expected output is 0 and actual output is 0.500461.
+Row 20: Expected output is 1 and actual output is 0.500184.
+Row 21: Expected output is 0 and actual output is 0.500273.
+Row 22: Expected output is 1 and actual output is 0.500101.
+Row 23: Expected output is 1 and actual output is 0.500233.
+Row 24: Expected output is 0 and actual output is 0.500085.
+Row 25: Expected output is 0 and actual output is 0.500369.
+Row 26: Expected output is 1 and actual output is 0.500142.
+Row 27: Expected output is 1 and actual output is 0.500318.
+Row 28: Expected output is 0 and actual output is 0.500120.
+Row 29: Expected output is 1 and actual output is 0.500181.
+Row 30: Expected output is 0 and actual output is 0.500065.
+Row 31: Expected output is 0 and actual output is 0.500153.
+Row 32: Expected output is 1 and actual output is 0.500055.
+Hidden Nodes: 2
+Eta: 0.100000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.278520
+	To Hidden Layer 1 Node 2: -0.423555
+	To Hidden Layer 1 Node 3: -0.049519
+Node 2
+	To Hidden Layer 1 Node 1: 0.064109
+	To Hidden Layer 1 Node 2: -0.238166
+	To Hidden Layer 1 Node 3: -0.514866
+Node 3
+	To Hidden Layer 1 Node 1: -0.333976
+	To Hidden Layer 1 Node 2: 0.142220
+	To Hidden Layer 1 Node 3: -0.271113
+Node 4
+	To Hidden Layer 1 Node 1: -0.613348
+	To Hidden Layer 1 Node 2: 0.327927
+	To Hidden Layer 1 Node 3: 0.344544
+Node 5
+	To Hidden Layer 1 Node 1: 0.197514
+	To Hidden Layer 1 Node 2: 0.734022
+	To Hidden Layer 1 Node 3: -0.614633
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.391901
+
+
+Node 2
+	To Output Layer Node 1: -0.345431
+
+
+Node 3
+	To Output Layer Node 1: 0.019163
+
+
+Row 1: Expected output is 0 and actual output is 0.063712.
+Row 2: Expected output is 1 and actual output is 0.822678.
+Row 3: Expected output is 1 and actual output is 0.823421.
+Row 4: Expected output is 0 and actual output is 0.533720.
+Row 5: Expected output is 1 and actual output is 0.822361.
+Row 6: Expected output is 0 and actual output is 0.531391.
+Row 7: Expected output is 0 and actual output is 0.531298.
+Row 8: Expected output is 1 and actual output is 0.502637.
+Row 9: Expected output is 1 and actual output is 0.840310.
+Row 10: Expected output is 0 and actual output is 0.501888.
+Row 11: Expected output is 0 and actual output is 0.502168.
+Row 12: Expected output is 1 and actual output is 0.500068.
+Row 13: Expected output is 0 and actual output is 0.504682.
+Row 14: Expected output is 1 and actual output is 0.500069.
+Row 15: Expected output is 1 and actual output is 0.500072.
+Row 16: Expected output is 0 and actual output is 0.500005.
+Row 17: Expected output is 1 and actual output is 0.840657.
+Row 18: Expected output is 0 and actual output is 0.501779.
+Row 19: Expected output is 0 and actual output is 0.502061.
+Row 20: Expected output is 1 and actual output is 0.500058.
+Row 21: Expected output is 0 and actual output is 0.504598.
+Row 22: Expected output is 1 and actual output is 0.500061.
+Row 23: Expected output is 1 and actual output is 0.500063.
+Row 24: Expected output is 0 and actual output is 0.500004.
+Row 25: Expected output is 0 and actual output is 0.549729.
+Row 26: Expected output is 1 and actual output is 0.500126.
+Row 27: Expected output is 1 and actual output is 0.500158.
+Row 28: Expected output is 0 and actual output is 0.500000.
+Row 29: Expected output is 1 and actual output is 0.500445.
+Row 30: Expected output is 0 and actual output is 0.500001.
+Row 31: Expected output is 0 and actual output is 0.500001.
+Row 32: Expected output is 1 and actual output is 0.500000.
+Hidden Nodes: 3
+Eta: 1.000000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.515406
+	To Hidden Layer 1 Node 2: -0.383293
+	To Hidden Layer 1 Node 3: 0.113823
+Node 2
+	To Hidden Layer 1 Node 1: -0.013534
+	To Hidden Layer 1 Node 2: 0.489706
+	To Hidden Layer 1 Node 3: -0.031381
+Node 3
+	To Hidden Layer 1 Node 1: -0.533406
+	To Hidden Layer 1 Node 2: 0.321493
+	To Hidden Layer 1 Node 3: 0.728030
+Node 4
+	To Hidden Layer 1 Node 1: -0.023674
+	To Hidden Layer 1 Node 2: 0.770038
+	To Hidden Layer 1 Node 3: -0.508925
+Node 5
+	To Hidden Layer 1 Node 1: 0.550785
+	To Hidden Layer 1 Node 2: -0.350436
+	To Hidden Layer 1 Node 3: 0.068249
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.321630
+
+
+Node 2
+	To Output Layer Node 1: -0.371923
+
+
+Node 3
+	To Output Layer Node 1: -0.289972
+
+
+Row 1: Expected output is 0 and actual output is 0.066799.
+Row 2: Expected output is 1 and actual output is 0.835380.
+Row 3: Expected output is 1 and actual output is 0.835139.
+Row 4: Expected output is 0 and actual output is 0.547404.
+Row 5: Expected output is 1 and actual output is 0.817376.
+Row 6: Expected output is 0 and actual output is 0.505082.
+Row 7: Expected output is 0 and actual output is 0.505162.
+Row 8: Expected output is 1 and actual output is 0.500485.
+Row 9: Expected output is 1 and actual output is 0.821550.
+Row 10: Expected output is 0 and actual output is 0.502225.
+Row 11: Expected output is 0 and actual output is 0.502330.
+Row 12: Expected output is 1 and actual output is 0.500168.
+Row 13: Expected output is 0 and actual output is 0.533683.
+Row 14: Expected output is 1 and actual output is 0.500073.
+Row 15: Expected output is 1 and actual output is 0.500083.
+Row 16: Expected output is 0 and actual output is 0.500002.
+Row 17: Expected output is 1 and actual output is 0.817627.
+Row 18: Expected output is 0 and actual output is 0.506996.
+Row 19: Expected output is 0 and actual output is 0.507062.
+Row 20: Expected output is 1 and actual output is 0.500697.
+Row 21: Expected output is 0 and actual output is 0.529198.
+Row 22: Expected output is 1 and actual output is 0.500114.
+Row 23: Expected output is 1 and actual output is 0.500122.
+Row 24: Expected output is 0 and actual output is 0.500007.
+Row 25: Expected output is 0 and actual output is 0.531919.
+Row 26: Expected output is 1 and actual output is 0.500077.
+Row 27: Expected output is 1 and actual output is 0.500086.
+Row 28: Expected output is 0 and actual output is 0.500003.
+Row 29: Expected output is 1 and actual output is 0.502685.
+Row 30: Expected output is 0 and actual output is 0.500005.
+Row 31: Expected output is 0 and actual output is 0.500006.
+Row 32: Expected output is 1 and actual output is 0.500000.
+Hidden Nodes: 3
+Eta: 0.900000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.468939
+	To Hidden Layer 1 Node 2: -0.084465
+	To Hidden Layer 1 Node 3: 0.526598
+Node 2
+	To Hidden Layer 1 Node 1: 0.577481
+	To Hidden Layer 1 Node 2: -0.014199
+	To Hidden Layer 1 Node 3: -0.638679
+Node 3
+	To Hidden Layer 1 Node 1: 0.537872
+	To Hidden Layer 1 Node 2: -0.115381
+	To Hidden Layer 1 Node 3: -0.077306
+Node 4
+	To Hidden Layer 1 Node 1: 0.006976
+	To Hidden Layer 1 Node 2: 0.817163
+	To Hidden Layer 1 Node 3: 0.036191
+Node 5
+	To Hidden Layer 1 Node 1: 0.205609
+	To Hidden Layer 1 Node 2: 0.320424
+	To Hidden Layer 1 Node 3: -0.703374
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.311328
+
+
+Node 2
+	To Output Layer Node 1: 0.650267
+
+
+Node 3
+	To Output Layer Node 1: -0.407581
+
+
+Row 1: Expected output is 0 and actual output is 0.070210.
+Row 2: Expected output is 1 and actual output is 0.814321.
+Row 3: Expected output is 1 and actual output is 0.815151.
+Row 4: Expected output is 0 and actual output is 0.533972.
+Row 5: Expected output is 1 and actual output is 0.815571.
+Row 6: Expected output is 0 and actual output is 0.533515.
+Row 7: Expected output is 0 and actual output is 0.533557.
+Row 8: Expected output is 1 and actual output is 0.502973.
+Row 9: Expected output is 1 and actual output is 0.829131.
+Row 10: Expected output is 0 and actual output is 0.502812.
+Row 11: Expected output is 0 and actual output is 0.502942.
+Row 12: Expected output is 1 and actual output is 0.500096.
+Row 13: Expected output is 0 and actual output is 0.503609.
+Row 14: Expected output is 1 and actual output is 0.500097.
+Row 15: Expected output is 1 and actual output is 0.500098.
+Row 16: Expected output is 0 and actual output is 0.500008.
+Row 17: Expected output is 1 and actual output is 0.829021.
+Row 18: Expected output is 0 and actual output is 0.502838.
+Row 19: Expected output is 0 and actual output is 0.502967.
+Row 20: Expected output is 1 and actual output is 0.500098.
+Row 21: Expected output is 0 and actual output is 0.503633.
+Row 22: Expected output is 1 and actual output is 0.500100.
+Row 23: Expected output is 1 and actual output is 0.500101.
+Row 24: Expected output is 0 and actual output is 0.500008.
+Row 25: Expected output is 0 and actual output is 0.553332.
+Row 26: Expected output is 1 and actual output is 0.500231.
+Row 27: Expected output is 1 and actual output is 0.500247.
+Row 28: Expected output is 0 and actual output is 0.500001.
+Row 29: Expected output is 1 and actual output is 0.500332.
+Row 30: Expected output is 0 and actual output is 0.500002.
+Row 31: Expected output is 0 and actual output is 0.500002.
+Row 32: Expected output is 1 and actual output is 0.500000.
+Hidden Nodes: 3
+Eta: 0.800000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.284739
+	To Hidden Layer 1 Node 2: 0.427481
+	To Hidden Layer 1 Node 3: -0.370696
+Node 2
+	To Hidden Layer 1 Node 1: 0.048898
+	To Hidden Layer 1 Node 2: 0.228939
+	To Hidden Layer 1 Node 3: 0.084256
+Node 3
+	To Hidden Layer 1 Node 1: 0.332725
+	To Hidden Layer 1 Node 2: 0.455519
+	To Hidden Layer 1 Node 3: -0.490638
+Node 4
+	To Hidden Layer 1 Node 1: 0.426540
+	To Hidden Layer 1 Node 2: -0.327418
+	To Hidden Layer 1 Node 3: 0.030125
+Node 5
+	To Hidden Layer 1 Node 1: 0.589630
+	To Hidden Layer 1 Node 2: 0.735867
+	To Hidden Layer 1 Node 3: 0.720424
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.000012
+
+
+Node 2
+	To Output Layer Node 1: -0.333721
+
+
+Node 3
+	To Output Layer Node 1: -0.790297
+
+
+Row 1: Expected output is 0 and actual output is 0.075031.
+Row 2: Expected output is 1 and actual output is 0.823085.
+Row 3: Expected output is 1 and actual output is 0.822124.
+Row 4: Expected output is 0 and actual output is 0.548861.
+Row 5: Expected output is 1 and actual output is 0.805085.
+Row 6: Expected output is 0 and actual output is 0.507874.
+Row 7: Expected output is 0 and actual output is 0.508106.
+Row 8: Expected output is 1 and actual output is 0.500819.
+Row 9: Expected output is 1 and actual output is 0.807533.
+Row 10: Expected output is 0 and actual output is 0.506278.
+Row 11: Expected output is 0 and actual output is 0.506560.
+Row 12: Expected output is 1 and actual output is 0.500622.
+Row 13: Expected output is 0 and actual output is 0.530981.
+Row 14: Expected output is 1 and actual output is 0.500179.
+Row 15: Expected output is 1 and actual output is 0.500210.
+Row 16: Expected output is 0 and actual output is 0.500011.
+Row 17: Expected output is 1 and actual output is 0.810165.
+Row 18: Expected output is 0 and actual output is 0.504581.
+Row 19: Expected output is 0 and actual output is 0.504915.
+Row 20: Expected output is 1 and actual output is 0.500413.
+Row 21: Expected output is 0 and actual output is 0.532681.
+Row 22: Expected output is 1 and actual output is 0.500156.
+Row 23: Expected output is 1 and actual output is 0.500190.
+Row 24: Expected output is 0 and actual output is 0.500007.
+Row 25: Expected output is 0 and actual output is 0.534585.
+Row 26: Expected output is 1 and actual output is 0.500149.
+Row 27: Expected output is 1 and actual output is 0.500185.
+Row 28: Expected output is 0 and actual output is 0.500006.
+Row 29: Expected output is 1 and actual output is 0.503050.
+Row 30: Expected output is 0 and actual output is 0.500010.
+Row 31: Expected output is 0 and actual output is 0.500013.
+Row 32: Expected output is 1 and actual output is 0.500000.
+Hidden Nodes: 3
+Eta: 0.700000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.059276
+	To Hidden Layer 1 Node 2: -0.637749
+	To Hidden Layer 1 Node 3: -0.289772
+Node 2
+	To Hidden Layer 1 Node 1: -0.609868
+	To Hidden Layer 1 Node 2: -0.050910
+	To Hidden Layer 1 Node 3: 0.205690
+Node 3
+	To Hidden Layer 1 Node 1: -0.192207
+	To Hidden Layer 1 Node 2: -0.046685
+	To Hidden Layer 1 Node 3: 0.233687
+Node 4
+	To Hidden Layer 1 Node 1: -0.437628
+	To Hidden Layer 1 Node 2: 0.103080
+	To Hidden Layer 1 Node 3: -0.046188
+Node 5
+	To Hidden Layer 1 Node 1: -0.145751
+	To Hidden Layer 1 Node 2: -0.070153
+	To Hidden Layer 1 Node 3: -0.185255
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.277339
+
+
+Node 2
+	To Output Layer Node 1: -0.751120
+
+
+Node 3
+	To Output Layer Node 1: 0.092141
+
+
+Row 1: Expected output is 0 and actual output is 0.081341.
+Row 2: Expected output is 1 and actual output is 0.812992.
+Row 3: Expected output is 1 and actual output is 0.811469.
+Row 4: Expected output is 0 and actual output is 0.546690.
+Row 5: Expected output is 1 and actual output is 0.800029.
+Row 6: Expected output is 0 and actual output is 0.507580.
+Row 7: Expected output is 0 and actual output is 0.508098.
+Row 8: Expected output is 1 and actual output is 0.500725.
+Row 9: Expected output is 1 and actual output is 0.803375.
+Row 10: Expected output is 0 and actual output is 0.505596.
+Row 11: Expected output is 0 and actual output is 0.506231.
+Row 12: Expected output is 1 and actual output is 0.500473.
+Row 13: Expected output is 0 and actual output is 0.537014.
+Row 14: Expected output is 1 and actual output is 0.500237.
+Row 15: Expected output is 1 and actual output is 0.500313.
+Row 16: Expected output is 0 and actual output is 0.500008.
+Row 17: Expected output is 1 and actual output is 0.795999.
+Row 18: Expected output is 0 and actual output is 0.513402.
+Row 19: Expected output is 0 and actual output is 0.513607.
+Row 20: Expected output is 1 and actual output is 0.501458.
+Row 21: Expected output is 0 and actual output is 0.528751.
+Row 22: Expected output is 1 and actual output is 0.500316.
+Row 23: Expected output is 1 and actual output is 0.500368.
+Row 24: Expected output is 0 and actual output is 0.500023.
+Row 25: Expected output is 0 and actual output is 0.530434.
+Row 26: Expected output is 1 and actual output is 0.500262.
+Row 27: Expected output is 1 and actual output is 0.500321.
+Row 28: Expected output is 0 and actual output is 0.500015.
+Row 29: Expected output is 1 and actual output is 0.503085.
+Row 30: Expected output is 0 and actual output is 0.500017.
+Row 31: Expected output is 0 and actual output is 0.500023.
+Row 32: Expected output is 1 and actual output is 0.500000.
+Hidden Nodes: 3
+Eta: 0.600000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.068199
+	To Hidden Layer 1 Node 2: -0.033684
+	To Hidden Layer 1 Node 3: -0.646727
+Node 2
+	To Hidden Layer 1 Node 1: -0.012335
+	To Hidden Layer 1 Node 2: 0.293401
+	To Hidden Layer 1 Node 3: 0.040906
+Node 3
+	To Hidden Layer 1 Node 1: 0.221996
+	To Hidden Layer 1 Node 2: -0.176074
+	To Hidden Layer 1 Node 3: -0.177097
+Node 4
+	To Hidden Layer 1 Node 1: 0.006592
+	To Hidden Layer 1 Node 2: -0.283170
+	To Hidden Layer 1 Node 3: -0.809018
+Node 5
+	To Hidden Layer 1 Node 1: -0.501758
+	To Hidden Layer 1 Node 2: 0.126362
+	To Hidden Layer 1 Node 3: 0.204787
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.250057
+
+
+Node 2
+	To Output Layer Node 1: 0.493189
+
+
+Node 3
+	To Output Layer Node 1: 0.228866
+
+
+Row 1: Expected output is 0 and actual output is 0.047780.
+Row 2: Expected output is 1 and actual output is 0.788351.
+Row 3: Expected output is 1 and actual output is 0.787698.
+Row 4: Expected output is 0 and actual output is 0.519065.
+Row 5: Expected output is 1 and actual output is 0.787592.
+Row 6: Expected output is 0 and actual output is 0.519057.
+Row 7: Expected output is 0 and actual output is 0.518999.
+Row 8: Expected output is 1 and actual output is 0.501045.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 0.000000.
+Row 11: Expected output is 0 and actual output is 0.000000.
+Row 12: Expected output is 1 and actual output is 0.905450.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 0.905299.
+Row 15: Expected output is 1 and actual output is 0.904759.
+Row 16: Expected output is 0 and actual output is 0.534361.
+Row 17: Expected output is 1 and actual output is 0.788835.
+Row 18: Expected output is 0 and actual output is 0.519172.
+Row 19: Expected output is 0 and actual output is 0.519114.
+Row 20: Expected output is 1 and actual output is 0.501052.
+Row 21: Expected output is 0 and actual output is 0.519106.
+Row 22: Expected output is 1 and actual output is 0.501051.
+Row 23: Expected output is 1 and actual output is 0.501048.
+Row 24: Expected output is 0 and actual output is 0.500057.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 0.906338.
+Row 27: Expected output is 1 and actual output is 0.905801.
+Row 28: Expected output is 0 and actual output is 0.534567.
+Row 29: Expected output is 1 and actual output is 0.905648.
+Row 30: Expected output is 0 and actual output is 0.534552.
+Row 31: Expected output is 0 and actual output is 0.534448.
+Row 32: Expected output is 1 and actual output is 0.501902.
+Hidden Nodes: 3
+Eta: 0.500000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.310982
+	To Hidden Layer 1 Node 2: -0.682285
+	To Hidden Layer 1 Node 3: -0.040479
+Node 2
+	To Hidden Layer 1 Node 1: -0.525750
+	To Hidden Layer 1 Node 2: 0.117846
+	To Hidden Layer 1 Node 3: 0.029101
+Node 3
+	To Hidden Layer 1 Node 1: -0.326518
+	To Hidden Layer 1 Node 2: -0.229595
+	To Hidden Layer 1 Node 3: 0.327947
+Node 4
+	To Hidden Layer 1 Node 1: -0.341389
+	To Hidden Layer 1 Node 2: -0.145987
+	To Hidden Layer 1 Node 3: -0.264363
+Node 5
+	To Hidden Layer 1 Node 1: 0.712980
+	To Hidden Layer 1 Node 2: 0.423054
+	To Hidden Layer 1 Node 3: 0.137410
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.659570
+
+
+Node 2
+	To Output Layer Node 1: -0.098314
+
+
+Node 3
+	To Output Layer Node 1: 0.388622
+
+
+Row 1: Expected output is 0 and actual output is 0.639326.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 0.736023.
+Row 4: Expected output is 0 and actual output is 0.501812.
+Row 5: Expected output is 1 and actual output is 0.691751.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 1.000000.
+Row 9: Expected output is 1 and actual output is 0.735978.
+Row 10: Expected output is 0 and actual output is 0.501812.
+Row 11: Expected output is 0 and actual output is 0.520539.
+Row 12: Expected output is 1 and actual output is 0.500012.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 0.944112.
+Row 16: Expected output is 0 and actual output is 0.502150.
+Row 17: Expected output is 1 and actual output is 0.736060.
+Row 18: Expected output is 0 and actual output is 0.501811.
+Row 19: Expected output is 0 and actual output is 0.520548.
+Row 20: Expected output is 1 and actual output is 0.500012.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 0.944159.
+Row 24: Expected output is 0 and actual output is 0.502150.
+Row 25: Expected output is 0 and actual output is 0.520543.
+Row 26: Expected output is 1 and actual output is 0.500012.
+Row 27: Expected output is 1 and actual output is 0.501553.
+Row 28: Expected output is 0 and actual output is 0.500001.
+Row 29: Expected output is 1 and actual output is 0.944135.
+Row 30: Expected output is 0 and actual output is 0.502150.
+Row 31: Expected output is 0 and actual output is 0.565699.
+Row 32: Expected output is 1 and actual output is 0.500036.
+Hidden Nodes: 3
+Eta: 0.400000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.114106
+	To Hidden Layer 1 Node 2: -0.073332
+	To Hidden Layer 1 Node 3: 0.789096
+Node 2
+	To Hidden Layer 1 Node 1: 0.645343
+	To Hidden Layer 1 Node 2: -0.310818
+	To Hidden Layer 1 Node 3: -0.074557
+Node 3
+	To Hidden Layer 1 Node 1: -0.045525
+	To Hidden Layer 1 Node 2: -0.512380
+	To Hidden Layer 1 Node 3: 0.090424
+Node 4
+	To Hidden Layer 1 Node 1: 0.713373
+	To Hidden Layer 1 Node 2: 0.516787
+	To Hidden Layer 1 Node 3: -0.518943
+Node 5
+	To Hidden Layer 1 Node 1: 0.009031
+	To Hidden Layer 1 Node 2: -0.165998
+	To Hidden Layer 1 Node 3: 0.278491
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.060262
+
+
+Node 2
+	To Output Layer Node 1: 0.544227
+
+
+Node 3
+	To Output Layer Node 1: -0.541180
+
+
+Row 1: Expected output is 0 and actual output is 0.311400.
+Row 2: Expected output is 1 and actual output is 0.785778.
+Row 3: Expected output is 1 and actual output is 0.789605.
+Row 4: Expected output is 0 and actual output is 0.519279.
+Row 5: Expected output is 1 and actual output is 0.793990.
+Row 6: Expected output is 0 and actual output is 0.519688.
+Row 7: Expected output is 0 and actual output is 0.520053.
+Row 8: Expected output is 1 and actual output is 0.501110.
+Row 9: Expected output is 1 and actual output is 0.786647.
+Row 10: Expected output is 0 and actual output is 0.041880.
+Row 11: Expected output is 0 and actual output is 0.041980.
+Row 12: Expected output is 1 and actual output is 0.503792.
+Row 13: Expected output is 0 and actual output is 0.042085.
+Row 14: Expected output is 1 and actual output is 0.503904.
+Row 15: Expected output is 1 and actual output is 0.504005.
+Row 16: Expected output is 0 and actual output is 0.500348.
+Row 17: Expected output is 1 and actual output is 0.814605.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 0.749597.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 0.753707.
+Row 23: Expected output is 1 and actual output is 0.757350.
+Row 24: Expected output is 0 and actual output is 0.516538.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 0.588808.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 0.590634.
+Row 31: Expected output is 0 and actual output is 0.592258.
+Row 32: Expected output is 1 and actual output is 0.505221.
+Hidden Nodes: 3
+Eta: 0.300000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.698699
+	To Hidden Layer 1 Node 2: 0.086149
+	To Hidden Layer 1 Node 3: 0.366717
+Node 2
+	To Hidden Layer 1 Node 1: -0.772405
+	To Hidden Layer 1 Node 2: -0.149856
+	To Hidden Layer 1 Node 3: 0.049679
+Node 3
+	To Hidden Layer 1 Node 1: -0.328542
+	To Hidden Layer 1 Node 2: -0.578873
+	To Hidden Layer 1 Node 3: -0.252658
+Node 4
+	To Hidden Layer 1 Node 1: -0.703475
+	To Hidden Layer 1 Node 2: -0.460562
+	To Hidden Layer 1 Node 3: -0.166794
+Node 5
+	To Hidden Layer 1 Node 1: -0.509166
+	To Hidden Layer 1 Node 2: -0.125735
+	To Hidden Layer 1 Node 3: 0.809999
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.440629
+
+
+Node 2
+	To Output Layer Node 1: 0.084366
+
+
+Node 3
+	To Output Layer Node 1: -0.157343
+
+
+Row 1: Expected output is 0 and actual output is 0.632364.
+Row 2: Expected output is 1 and actual output is 0.721483.
+Row 3: Expected output is 1 and actual output is 0.721365.
+Row 4: Expected output is 0 and actual output is 0.521742.
+Row 5: Expected output is 1 and actual output is 0.721083.
+Row 6: Expected output is 0 and actual output is 0.521706.
+Row 7: Expected output is 0 and actual output is 0.521692.
+Row 8: Expected output is 1 and actual output is 0.501888.
+Row 9: Expected output is 1 and actual output is 0.952083.
+Row 10: Expected output is 0 and actual output is 0.504180.
+Row 11: Expected output is 0 and actual output is 0.504185.
+Row 12: Expected output is 1 and actual output is 0.500043.
+Row 13: Expected output is 0 and actual output is 0.504181.
+Row 14: Expected output is 1 and actual output is 0.500043.
+Row 15: Expected output is 1 and actual output is 0.500043.
+Row 16: Expected output is 0 and actual output is 0.500003.
+Row 17: Expected output is 1 and actual output is 0.684172.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 0.932349.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 0.932158.
+Row 23: Expected output is 1 and actual output is 0.932026.
+Row 24: Expected output is 0 and actual output is 0.572100.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 0.958815.
+Row 27: Expected output is 1 and actual output is 0.958892.
+Row 28: Expected output is 0 and actual output is 0.505434.
+Row 29: Expected output is 1 and actual output is 0.958839.
+Row 30: Expected output is 0 and actual output is 0.505428.
+Row 31: Expected output is 0 and actual output is 0.505433.
+Row 32: Expected output is 1 and actual output is 0.500119.
+Hidden Nodes: 3
+Eta: 0.200000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.041128
+	To Hidden Layer 1 Node 2: -0.438560
+	To Hidden Layer 1 Node 3: 0.505841
+Node 2
+	To Hidden Layer 1 Node 1: 0.285474
+	To Hidden Layer 1 Node 2: 0.339218
+	To Hidden Layer 1 Node 3: -0.566876
+Node 3
+	To Hidden Layer 1 Node 1: -0.080458
+	To Hidden Layer 1 Node 2: -0.253309
+	To Hidden Layer 1 Node 3: 0.099357
+Node 4
+	To Hidden Layer 1 Node 1: 0.555048
+	To Hidden Layer 1 Node 2: -0.259350
+	To Hidden Layer 1 Node 3: 0.467124
+Node 5
+	To Hidden Layer 1 Node 1: -0.280633
+	To Hidden Layer 1 Node 2: 0.071602
+	To Hidden Layer 1 Node 3: 0.590174
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.557400
+
+
+Node 2
+	To Output Layer Node 1: 0.114743
+
+
+Node 3
+	To Output Layer Node 1: -0.719687
+
+
+Row 1: Expected output is 0 and actual output is 0.503735.
+Row 2: Expected output is 1 and actual output is 0.502497.
+Row 3: Expected output is 1 and actual output is 0.500156.
+Row 4: Expected output is 0 and actual output is 0.500173.
+Row 5: Expected output is 1 and actual output is 0.501890.
+Row 6: Expected output is 0 and actual output is 0.501106.
+Row 7: Expected output is 0 and actual output is 0.499328.
+Row 8: Expected output is 1 and actual output is 0.499830.
+Row 9: Expected output is 1 and actual output is 0.504286.
+Row 10: Expected output is 0 and actual output is 0.502628.
+Row 11: Expected output is 0 and actual output is 0.500989.
+Row 12: Expected output is 1 and actual output is 0.500708.
+Row 13: Expected output is 0 and actual output is 0.502327.
+Row 14: Expected output is 1 and actual output is 0.501270.
+Row 15: Expected output is 1 and actual output is 0.500185.
+Row 16: Expected output is 0 and actual output is 0.500252.
+Row 17: Expected output is 1 and actual output is 0.500467.
+Row 18: Expected output is 0 and actual output is 0.500243.
+Row 19: Expected output is 0 and actual output is 0.498211.
+Row 20: Expected output is 1 and actual output is 0.499247.
+Row 21: Expected output is 0 and actual output is 0.499599.
+Row 22: Expected output is 1 and actual output is 0.499866.
+Row 23: Expected output is 1 and actual output is 0.498476.
+Row 24: Expected output is 0 and actual output is 0.499441.
+Row 25: Expected output is 0 and actual output is 0.501331.
+Row 26: Expected output is 1 and actual output is 0.500794.
+Row 27: Expected output is 1 and actual output is 0.499509.
+Row 28: Expected output is 0 and actual output is 0.499961.
+Row 29: Expected output is 1 and actual output is 0.500451.
+Row 30: Expected output is 0 and actual output is 0.500301.
+Row 31: Expected output is 0 and actual output is 0.499524.
+Row 32: Expected output is 1 and actual output is 0.499913.
+Hidden Nodes: 3
+Eta: 0.100000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.358339
+	To Hidden Layer 1 Node 2: -0.708015
+	To Hidden Layer 1 Node 3: 0.326830
+	To Hidden Layer 1 Node 4: 0.034449
+Node 2
+	To Hidden Layer 1 Node 1: -0.183790
+	To Hidden Layer 1 Node 2: 0.283885
+	To Hidden Layer 1 Node 3: -0.594407
+	To Hidden Layer 1 Node 4: -0.140884
+Node 3
+	To Hidden Layer 1 Node 1: 0.892509
+	To Hidden Layer 1 Node 2: 0.411676
+	To Hidden Layer 1 Node 3: -0.459735
+	To Hidden Layer 1 Node 4: 0.350747
+Node 4
+	To Hidden Layer 1 Node 1: 0.218100
+	To Hidden Layer 1 Node 2: -0.342830
+	To Hidden Layer 1 Node 3: 0.037612
+	To Hidden Layer 1 Node 4: 0.140275
+Node 5
+	To Hidden Layer 1 Node 1: 0.141156
+	To Hidden Layer 1 Node 2: 0.056913
+	To Hidden Layer 1 Node 3: -0.611100
+	To Hidden Layer 1 Node 4: 0.179613
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.490333
+
+
+Node 2
+	To Output Layer Node 1: -0.125038
+
+
+Node 3
+	To Output Layer Node 1: 0.542829
+
+
+Node 4
+	To Output Layer Node 1: -0.206424
+
+
+Row 1: Expected output is 0 and actual output is 0.058723.
+Row 2: Expected output is 1 and actual output is 0.949057.
+Row 3: Expected output is 1 and actual output is 0.841336.
+Row 4: Expected output is 0 and actual output is 0.501071.
+Row 5: Expected output is 1 and actual output is 0.837197.
+Row 6: Expected output is 0 and actual output is 0.501101.
+Row 7: Expected output is 0 and actual output is 0.502454.
+Row 8: Expected output is 1 and actual output is 0.500001.
+Row 9: Expected output is 1 and actual output is 0.839652.
+Row 10: Expected output is 0 and actual output is 0.501040.
+Row 11: Expected output is 0 and actual output is 0.501537.
+Row 12: Expected output is 1 and actual output is 0.500001.
+Row 13: Expected output is 0 and actual output is 0.553112.
+Row 14: Expected output is 1 and actual output is 0.500028.
+Row 15: Expected output is 1 and actual output is 0.500105.
+Row 16: Expected output is 0 and actual output is 0.500000.
+Row 17: Expected output is 1 and actual output is 0.841483.
+Row 18: Expected output is 0 and actual output is 0.501058.
+Row 19: Expected output is 0 and actual output is 0.552192.
+Row 20: Expected output is 1 and actual output is 0.500026.
+Row 21: Expected output is 0 and actual output is 0.502453.
+Row 22: Expected output is 1 and actual output is 0.500001.
+Row 23: Expected output is 1 and actual output is 0.500188.
+Row 24: Expected output is 0 and actual output is 0.500000.
+Row 25: Expected output is 0 and actual output is 0.501535.
+Row 26: Expected output is 1 and actual output is 0.500001.
+Row 27: Expected output is 1 and actual output is 0.500079.
+Row 28: Expected output is 0 and actual output is 0.500000.
+Row 29: Expected output is 1 and actual output is 0.500105.
+Row 30: Expected output is 0 and actual output is 0.500000.
+Row 31: Expected output is 0 and actual output is 0.500000.
+Row 32: Expected output is 1 and actual output is 0.500000.
+Hidden Nodes: 4
+Eta: 1.000000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.288555
+	To Hidden Layer 1 Node 2: -0.519370
+	To Hidden Layer 1 Node 3: 0.451899
+	To Hidden Layer 1 Node 4: -0.246554
+Node 2
+	To Hidden Layer 1 Node 1: -0.640967
+	To Hidden Layer 1 Node 2: 0.429228
+	To Hidden Layer 1 Node 3: -0.542539
+	To Hidden Layer 1 Node 4: 0.633851
+Node 3
+	To Hidden Layer 1 Node 1: 0.664594
+	To Hidden Layer 1 Node 2: 0.568281
+	To Hidden Layer 1 Node 3: 0.640701
+	To Hidden Layer 1 Node 4: -0.783802
+Node 4
+	To Hidden Layer 1 Node 1: 0.411282
+	To Hidden Layer 1 Node 2: -0.244356
+	To Hidden Layer 1 Node 3: -0.120614
+	To Hidden Layer 1 Node 4: -0.068172
+Node 5
+	To Hidden Layer 1 Node 1: 0.617726
+	To Hidden Layer 1 Node 2: -0.035466
+	To Hidden Layer 1 Node 3: -0.132703
+	To Hidden Layer 1 Node 4: -0.624967
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.181549
+
+
+Node 2
+	To Output Layer Node 1: 0.091613
+
+
+Node 3
+	To Output Layer Node 1: 0.355775
+
+
+Node 4
+	To Output Layer Node 1: 0.010870
+
+
+Row 1: Expected output is 0 and actual output is 0.049872.
+Row 2: Expected output is 1 and actual output is 0.957815.
+Row 3: Expected output is 1 and actual output is 0.824303.
+Row 4: Expected output is 0 and actual output is 0.501258.
+Row 5: Expected output is 1 and actual output is 0.825344.
+Row 6: Expected output is 0 and actual output is 0.501244.
+Row 7: Expected output is 0 and actual output is 0.533498.
+Row 8: Expected output is 1 and actual output is 0.500016.
+Row 9: Expected output is 1 and actual output is 0.826411.
+Row 10: Expected output is 0 and actual output is 0.501196.
+Row 11: Expected output is 0 and actual output is 0.533680.
+Row 12: Expected output is 1 and actual output is 0.500016.
+Row 13: Expected output is 0 and actual output is 0.533850.
+Row 14: Expected output is 1 and actual output is 0.500016.
+Row 15: Expected output is 1 and actual output is 0.502744.
+Row 16: Expected output is 0 and actual output is 0.500001.
+Row 17: Expected output is 1 and actual output is 0.954889.
+Row 18: Expected output is 0 and actual output is 0.501383.
+Row 19: Expected output is 0 and actual output is 0.501093.
+Row 20: Expected output is 1 and actual output is 0.500001.
+Row 21: Expected output is 0 and actual output is 0.501093.
+Row 22: Expected output is 1 and actual output is 0.500001.
+Row 23: Expected output is 1 and actual output is 0.500016.
+Row 24: Expected output is 0 and actual output is 0.500000.
+Row 25: Expected output is 0 and actual output is 0.501067.
+Row 26: Expected output is 1 and actual output is 0.500001.
+Row 27: Expected output is 1 and actual output is 0.500016.
+Row 28: Expected output is 0 and actual output is 0.500000.
+Row 29: Expected output is 1 and actual output is 0.500016.
+Row 30: Expected output is 0 and actual output is 0.500000.
+Row 31: Expected output is 0 and actual output is 0.500001.
+Row 32: Expected output is 1 and actual output is 0.500000.
+Hidden Nodes: 4
+Eta: 0.900000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.310873
+	To Hidden Layer 1 Node 2: -0.286743
+	To Hidden Layer 1 Node 3: -0.230108
+	To Hidden Layer 1 Node 4: -0.142780
+Node 2
+	To Hidden Layer 1 Node 1: 0.529274
+	To Hidden Layer 1 Node 2: -0.184632
+	To Hidden Layer 1 Node 3: -0.504451
+	To Hidden Layer 1 Node 4: -0.896896
+Node 3
+	To Hidden Layer 1 Node 1: 0.674027
+	To Hidden Layer 1 Node 2: -0.499820
+	To Hidden Layer 1 Node 3: -0.002773
+	To Hidden Layer 1 Node 4: 0.231192
+Node 4
+	To Hidden Layer 1 Node 1: -0.562001
+	To Hidden Layer 1 Node 2: -0.414043
+	To Hidden Layer 1 Node 3: 0.110480
+	To Hidden Layer 1 Node 4: 0.466602
+Node 5
+	To Hidden Layer 1 Node 1: -0.610125
+	To Hidden Layer 1 Node 2: -0.750173
+	To Hidden Layer 1 Node 3: 0.043368
+	To Hidden Layer 1 Node 4: -0.459716
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.061561
+
+
+Node 2
+	To Output Layer Node 1: -0.566680
+
+
+Node 3
+	To Output Layer Node 1: -0.062038
+
+
+Node 4
+	To Output Layer Node 1: 0.682967
+
+
+Row 1: Expected output is 0 and actual output is 0.053528.
+Row 2: Expected output is 1 and actual output is 0.950659.
+Row 3: Expected output is 1 and actual output is 0.810778.
+Row 4: Expected output is 0 and actual output is 0.501808.
+Row 5: Expected output is 1 and actual output is 0.811870.
+Row 6: Expected output is 0 and actual output is 0.501775.
+Row 7: Expected output is 0 and actual output is 0.535534.
+Row 8: Expected output is 1 and actual output is 0.500028.
+Row 9: Expected output is 1 and actual output is 0.949442.
+Row 10: Expected output is 0 and actual output is 0.501946.
+Row 11: Expected output is 0 and actual output is 0.502637.
+Row 12: Expected output is 1 and actual output is 0.500003.
+Row 13: Expected output is 0 and actual output is 0.502547.
+Row 14: Expected output is 1 and actual output is 0.500003.
+Row 15: Expected output is 1 and actual output is 0.500035.
+Row 16: Expected output is 0 and actual output is 0.500000.
+Row 17: Expected output is 1 and actual output is 0.812901.
+Row 18: Expected output is 0 and actual output is 0.501846.
+Row 19: Expected output is 0 and actual output is 0.535652.
+Row 20: Expected output is 1 and actual output is 0.500028.
+Row 21: Expected output is 0 and actual output is 0.535863.
+Row 22: Expected output is 1 and actual output is 0.500028.
+Row 23: Expected output is 1 and actual output is 0.503284.
+Row 24: Expected output is 0 and actual output is 0.500002.
+Row 25: Expected output is 0 and actual output is 0.502864.
+Row 26: Expected output is 1 and actual output is 0.500003.
+Row 27: Expected output is 1 and actual output is 0.500035.
+Row 28: Expected output is 0 and actual output is 0.500000.
+Row 29: Expected output is 1 and actual output is 0.500035.
+Row 30: Expected output is 0 and actual output is 0.500000.
+Row 31: Expected output is 0 and actual output is 0.500003.
+Row 32: Expected output is 1 and actual output is 0.500000.
+Hidden Nodes: 4
+Eta: 0.800000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.126364
+	To Hidden Layer 1 Node 2: 0.031038
+	To Hidden Layer 1 Node 3: 0.003682
+	To Hidden Layer 1 Node 4: -0.224050
+Node 2
+	To Hidden Layer 1 Node 1: 0.002119
+	To Hidden Layer 1 Node 2: -0.652073
+	To Hidden Layer 1 Node 3: 0.199521
+	To Hidden Layer 1 Node 4: -0.529127
+Node 3
+	To Hidden Layer 1 Node 1: 0.090520
+	To Hidden Layer 1 Node 2: 0.255522
+	To Hidden Layer 1 Node 3: -0.321072
+	To Hidden Layer 1 Node 4: 0.239043
+Node 4
+	To Hidden Layer 1 Node 1: -0.108570
+	To Hidden Layer 1 Node 2: -0.132965
+	To Hidden Layer 1 Node 3: 0.438427
+	To Hidden Layer 1 Node 4: 0.422829
+Node 5
+	To Hidden Layer 1 Node 1: 0.122354
+	To Hidden Layer 1 Node 2: 0.926241
+	To Hidden Layer 1 Node 3: -0.236625
+	To Hidden Layer 1 Node 4: 0.027374
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.376293
+
+
+Node 2
+	To Output Layer Node 1: 0.095089
+
+
+Node 3
+	To Output Layer Node 1: -0.213659
+
+
+Node 4
+	To Output Layer Node 1: -0.428422
+
+
+Row 1: Expected output is 0 and actual output is 0.068157.
+Row 2: Expected output is 1 and actual output is 0.939546.
+Row 3: Expected output is 1 and actual output is 0.821832.
+Row 4: Expected output is 0 and actual output is 0.502358.
+Row 5: Expected output is 1 and actual output is 0.823745.
+Row 6: Expected output is 0 and actual output is 0.502230.
+Row 7: Expected output is 0 and actual output is 0.503501.
+Row 8: Expected output is 1 and actual output is 0.500006.
+Row 9: Expected output is 1 and actual output is 0.821901.
+Row 10: Expected output is 0 and actual output is 0.502332.
+Row 11: Expected output is 0 and actual output is 0.554894.
+Row 12: Expected output is 1 and actual output is 0.500067.
+Row 13: Expected output is 0 and actual output is 0.503506.
+Row 14: Expected output is 1 and actual output is 0.500006.
+Row 15: Expected output is 1 and actual output is 0.500198.
+Row 16: Expected output is 0 and actual output is 0.500000.
+Row 17: Expected output is 1 and actual output is 0.814817.
+Row 18: Expected output is 0 and actual output is 0.502477.
+Row 19: Expected output is 0 and actual output is 0.506403.
+Row 20: Expected output is 1 and actual output is 0.500010.
+Row 21: Expected output is 0 and actual output is 0.555694.
+Row 22: Expected output is 1 and actual output is 0.500072.
+Row 23: Expected output is 1 and actual output is 0.500292.
+Row 24: Expected output is 0 and actual output is 0.500000.
+Row 25: Expected output is 0 and actual output is 0.506410.
+Row 26: Expected output is 1 and actual output is 0.500010.
+Row 27: Expected output is 1 and actual output is 0.500620.
+Row 28: Expected output is 0 and actual output is 0.500001.
+Row 29: Expected output is 1 and actual output is 0.500293.
+Row 30: Expected output is 0 and actual output is 0.500000.
+Row 31: Expected output is 0 and actual output is 0.500003.
+Row 32: Expected output is 1 and actual output is 0.500000.
+Hidden Nodes: 4
+Eta: 0.700000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.650216
+	To Hidden Layer 1 Node 2: 0.043905
+	To Hidden Layer 1 Node 3: -0.886647
+	To Hidden Layer 1 Node 4: 0.104083
+Node 2
+	To Hidden Layer 1 Node 1: 0.164001
+	To Hidden Layer 1 Node 2: 0.480474
+	To Hidden Layer 1 Node 3: -0.216479
+	To Hidden Layer 1 Node 4: -0.092648
+Node 3
+	To Hidden Layer 1 Node 1: 0.641356
+	To Hidden Layer 1 Node 2: -0.117257
+	To Hidden Layer 1 Node 3: 0.356626
+	To Hidden Layer 1 Node 4: 0.680063
+Node 4
+	To Hidden Layer 1 Node 1: 0.404674
+	To Hidden Layer 1 Node 2: 0.434456
+	To Hidden Layer 1 Node 3: -0.759861
+	To Hidden Layer 1 Node 4: -0.228252
+Node 5
+	To Hidden Layer 1 Node 1: 0.130878
+	To Hidden Layer 1 Node 2: -0.172850
+	To Hidden Layer 1 Node 3: 0.811349
+	To Hidden Layer 1 Node 4: -0.343048
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.209918
+
+
+Node 2
+	To Output Layer Node 1: -0.661704
+
+
+Node 3
+	To Output Layer Node 1: 0.269382
+
+
+Node 4
+	To Output Layer Node 1: -0.263490
+
+
+Row 1: Expected output is 0 and actual output is 0.062018.
+Row 2: Expected output is 1 and actual output is 0.820604.
+Row 3: Expected output is 1 and actual output is 0.817708.
+Row 4: Expected output is 0 and actual output is 0.538757.
+Row 5: Expected output is 1 and actual output is 0.808001.
+Row 6: Expected output is 0 and actual output is 0.524656.
+Row 7: Expected output is 0 and actual output is 0.523687.
+Row 8: Expected output is 1 and actual output is 0.502327.
+Row 9: Expected output is 1 and actual output is 0.825224.
+Row 10: Expected output is 0 and actual output is 0.504396.
+Row 11: Expected output is 0 and actual output is 0.506292.
+Row 12: Expected output is 1 and actual output is 0.500269.
+Row 13: Expected output is 0 and actual output is 0.517357.
+Row 14: Expected output is 1 and actual output is 0.500225.
+Row 15: Expected output is 1 and actual output is 0.500296.
+Row 16: Expected output is 0 and actual output is 0.500016.
+Row 17: Expected output is 1 and actual output is 0.825166.
+Row 18: Expected output is 0 and actual output is 0.504502.
+Row 19: Expected output is 0 and actual output is 0.506382.
+Row 20: Expected output is 1 and actual output is 0.500279.
+Row 21: Expected output is 0 and actual output is 0.517366.
+Row 22: Expected output is 1 and actual output is 0.500232.
+Row 23: Expected output is 1 and actual output is 0.500302.
+Row 24: Expected output is 0 and actual output is 0.500016.
+Row 25: Expected output is 0 and actual output is 0.542875.
+Row 26: Expected output is 1 and actual output is 0.500207.
+Row 27: Expected output is 1 and actual output is 0.500428.
+Row 28: Expected output is 0 and actual output is 0.500003.
+Row 29: Expected output is 1 and actual output is 0.501704.
+Row 30: Expected output is 0 and actual output is 0.500008.
+Row 31: Expected output is 0 and actual output is 0.500017.
+Row 32: Expected output is 1 and actual output is 0.500000.
+Hidden Nodes: 4
+Eta: 0.600000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.058460
+	To Hidden Layer 1 Node 2: -0.430415
+	To Hidden Layer 1 Node 3: 0.604179
+	To Hidden Layer 1 Node 4: 0.104512
+Node 2
+	To Hidden Layer 1 Node 1: 0.010866
+	To Hidden Layer 1 Node 2: 0.551347
+	To Hidden Layer 1 Node 3: -0.121524
+	To Hidden Layer 1 Node 4: 0.282561
+Node 3
+	To Hidden Layer 1 Node 1: -0.045492
+	To Hidden Layer 1 Node 2: 0.027299
+	To Hidden Layer 1 Node 3: 0.430019
+	To Hidden Layer 1 Node 4: -0.263399
+Node 4
+	To Hidden Layer 1 Node 1: -0.522105
+	To Hidden Layer 1 Node 2: -0.346039
+	To Hidden Layer 1 Node 3: -0.009946
+	To Hidden Layer 1 Node 4: 0.086091
+Node 5
+	To Hidden Layer 1 Node 1: -0.620021
+	To Hidden Layer 1 Node 2: 0.460188
+	To Hidden Layer 1 Node 3: -0.747266
+	To Hidden Layer 1 Node 4: 0.534045
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.111128
+
+
+Node 2
+	To Output Layer Node 1: -0.390007
+
+
+Node 3
+	To Output Layer Node 1: -0.099721
+
+
+Node 4
+	To Output Layer Node 1: -0.072042
+
+
+Row 1: Expected output is 0 and actual output is 0.083783.
+Row 2: Expected output is 1 and actual output is 0.801408.
+Row 3: Expected output is 1 and actual output is 0.800831.
+Row 4: Expected output is 0 and actual output is 0.529018.
+Row 5: Expected output is 1 and actual output is 0.800231.
+Row 6: Expected output is 0 and actual output is 0.528935.
+Row 7: Expected output is 0 and actual output is 0.528855.
+Row 8: Expected output is 1 and actual output is 0.502257.
+Row 9: Expected output is 1 and actual output is 0.944342.
+Row 10: Expected output is 0 and actual output is 0.000000.
+Row 11: Expected output is 0 and actual output is 0.000000.
+Row 12: Expected output is 1 and actual output is 0.499438.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 0.499438.
+Row 15: Expected output is 1 and actual output is 0.499438.
+Row 16: Expected output is 0 and actual output is 0.500001.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 0.924994.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 0.924550.
+Row 23: Expected output is 1 and actual output is 0.924122.
+Row 24: Expected output is 0 and actual output is 0.555211.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 0.500879.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 0.500879.
+Row 31: Expected output is 0 and actual output is 0.500879.
+Row 32: Expected output is 1 and actual output is 0.500017.
+Hidden Nodes: 4
+Eta: 0.500000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.180030
+	To Hidden Layer 1 Node 2: -0.413599
+	To Hidden Layer 1 Node 3: -0.570360
+	To Hidden Layer 1 Node 4: -0.448548
+Node 2
+	To Hidden Layer 1 Node 1: 0.084379
+	To Hidden Layer 1 Node 2: -0.437506
+	To Hidden Layer 1 Node 3: 0.222731
+	To Hidden Layer 1 Node 4: 0.374554
+Node 3
+	To Hidden Layer 1 Node 1: 0.431355
+	To Hidden Layer 1 Node 2: -0.301640
+	To Hidden Layer 1 Node 3: 0.498255
+	To Hidden Layer 1 Node 4: -0.385966
+Node 4
+	To Hidden Layer 1 Node 1: -0.893947
+	To Hidden Layer 1 Node 2: -0.149640
+	To Hidden Layer 1 Node 3: -0.168220
+	To Hidden Layer 1 Node 4: -0.216327
+Node 5
+	To Hidden Layer 1 Node 1: 0.235001
+	To Hidden Layer 1 Node 2: -0.104839
+	To Hidden Layer 1 Node 3: -0.667629
+	To Hidden Layer 1 Node 4: 0.031724
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.185941
+
+
+Node 2
+	To Output Layer Node 1: 0.518406
+
+
+Node 3
+	To Output Layer Node 1: -0.410019
+
+
+Node 4
+	To Output Layer Node 1: -0.485034
+
+
+Row 1: Expected output is 0 and actual output is 0.095525.
+Row 2: Expected output is 1 and actual output is 0.787075.
+Row 3: Expected output is 1 and actual output is 0.786533.
+Row 4: Expected output is 0 and actual output is 0.530173.
+Row 5: Expected output is 1 and actual output is 0.967267.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 0.919096.
+Row 9: Expected output is 1 and actual output is 0.936858.
+Row 10: Expected output is 0 and actual output is 0.000000.
+Row 11: Expected output is 0 and actual output is 0.000000.
+Row 12: Expected output is 1 and actual output is 0.499331.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 0.501295.
+Row 17: Expected output is 1 and actual output is 0.786842.
+Row 18: Expected output is 0 and actual output is 0.530219.
+Row 19: Expected output is 0 and actual output is 0.530138.
+Row 20: Expected output is 1 and actual output is 0.502601.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 0.919332.
+Row 23: Expected output is 1 and actual output is 0.918917.
+Row 24: Expected output is 0 and actual output is 0.560219.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 0.499331.
+Row 27: Expected output is 1 and actual output is 0.499331.
+Row 28: Expected output is 0 and actual output is 0.500001.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 0.501295.
+Row 31: Expected output is 0 and actual output is 0.501295.
+Row 32: Expected output is 1 and actual output is 0.500027.
+Hidden Nodes: 4
+Eta: 0.400000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.147797
+	To Hidden Layer 1 Node 2: -0.199575
+	To Hidden Layer 1 Node 3: -0.179196
+	To Hidden Layer 1 Node 4: 0.885541
+Node 2
+	To Hidden Layer 1 Node 1: -0.492056
+	To Hidden Layer 1 Node 2: -0.390160
+	To Hidden Layer 1 Node 3: 0.921730
+	To Hidden Layer 1 Node 4: -0.076932
+Node 3
+	To Hidden Layer 1 Node 1: 0.301125
+	To Hidden Layer 1 Node 2: 0.733401
+	To Hidden Layer 1 Node 3: -0.325230
+	To Hidden Layer 1 Node 4: -0.440123
+Node 4
+	To Hidden Layer 1 Node 1: 0.065947
+	To Hidden Layer 1 Node 2: 0.177544
+	To Hidden Layer 1 Node 3: 0.226814
+	To Hidden Layer 1 Node 4: -0.240158
+Node 5
+	To Hidden Layer 1 Node 1: 0.246681
+	To Hidden Layer 1 Node 2: -0.355846
+	To Hidden Layer 1 Node 3: -0.659011
+	To Hidden Layer 1 Node 4: -0.100677
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.190524
+
+
+Node 2
+	To Output Layer Node 1: 0.820736
+
+
+Node 3
+	To Output Layer Node 1: -0.414187
+
+
+Node 4
+	To Output Layer Node 1: -0.295904
+
+
+Row 1: Expected output is 0 and actual output is 0.107956.
+Row 2: Expected output is 1 and actual output is 0.775230.
+Row 3: Expected output is 1 and actual output is 0.774775.
+Row 4: Expected output is 0 and actual output is 0.531203.
+Row 5: Expected output is 1 and actual output is 0.774313.
+Row 6: Expected output is 0 and actual output is 0.531132.
+Row 7: Expected output is 0 and actual output is 0.531061.
+Row 8: Expected output is 1 and actual output is 0.502911.
+Row 9: Expected output is 1 and actual output is 0.929143.
+Row 10: Expected output is 0 and actual output is 0.000000.
+Row 11: Expected output is 0 and actual output is 0.000000.
+Row 12: Expected output is 1 and actual output is 0.499005.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 0.499006.
+Row 15: Expected output is 1 and actual output is 0.499006.
+Row 16: Expected output is 0 and actual output is 0.500001.
+Row 17: Expected output is 1 and actual output is 0.960959.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 0.915763.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 0.915399.
+Row 23: Expected output is 1 and actual output is 0.915042.
+Row 24: Expected output is 0 and actual output is 0.565071.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 0.501687.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 0.501687.
+Row 31: Expected output is 0 and actual output is 0.501686.
+Row 32: Expected output is 1 and actual output is 0.500041.
+Hidden Nodes: 4
+Eta: 0.300000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.144671
+	To Hidden Layer 1 Node 2: 0.541070
+	To Hidden Layer 1 Node 3: -0.185185
+	To Hidden Layer 1 Node 4: -0.284706
+Node 2
+	To Hidden Layer 1 Node 1: 0.243906
+	To Hidden Layer 1 Node 2: 0.037469
+	To Hidden Layer 1 Node 3: 0.085488
+	To Hidden Layer 1 Node 4: -0.584706
+Node 3
+	To Hidden Layer 1 Node 1: 0.366879
+	To Hidden Layer 1 Node 2: -0.499952
+	To Hidden Layer 1 Node 3: 0.738642
+	To Hidden Layer 1 Node 4: -0.700257
+Node 4
+	To Hidden Layer 1 Node 1: 0.050588
+	To Hidden Layer 1 Node 2: 0.936694
+	To Hidden Layer 1 Node 3: 0.363634
+	To Hidden Layer 1 Node 4: 0.789701
+Node 5
+	To Hidden Layer 1 Node 1: -0.026360
+	To Hidden Layer 1 Node 2: 0.261587
+	To Hidden Layer 1 Node 3: 0.338809
+	To Hidden Layer 1 Node 4: -0.310084
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.168843
+
+
+Node 2
+	To Output Layer Node 1: 0.733430
+
+
+Node 3
+	To Output Layer Node 1: 0.450976
+
+
+Node 4
+	To Output Layer Node 1: 0.182982
+
+
+Row 1: Expected output is 0 and actual output is 0.595559.
+Row 2: Expected output is 1 and actual output is 0.736127.
+Row 3: Expected output is 1 and actual output is 0.704018.
+Row 4: Expected output is 0 and actual output is 0.000000.
+Row 5: Expected output is 1 and actual output is 0.730589.
+Row 6: Expected output is 0 and actual output is 0.332976.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 0.918198.
+Row 9: Expected output is 1 and actual output is 0.726970.
+Row 10: Expected output is 0 and actual output is 0.336056.
+Row 11: Expected output is 0 and actual output is 0.000000.
+Row 12: Expected output is 1 and actual output is 0.921135.
+Row 13: Expected output is 0 and actual output is 0.464449.
+Row 14: Expected output is 1 and actual output is 0.427871.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 0.193370.
+Row 17: Expected output is 1 and actual output is 0.729519.
+Row 18: Expected output is 0 and actual output is 0.433486.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 0.341146.
+Row 22: Expected output is 1 and actual output is 0.420342.
+Row 23: Expected output is 1 and actual output is 0.930279.
+Row 24: Expected output is 0 and actual output is 0.195028.
+Row 25: Expected output is 0 and actual output is 0.344069.
+Row 26: Expected output is 1 and actual output is 0.421801.
+Row 27: Expected output is 1 and actual output is 0.932349.
+Row 28: Expected output is 0 and actual output is 0.203141.
+Row 29: Expected output is 1 and actual output is 0.431474.
+Row 30: Expected output is 0 and actual output is 0.471294.
+Row 31: Expected output is 0 and actual output is 0.218026.
+Row 32: Expected output is 1 and actual output is 0.267704.
+Hidden Nodes: 4
+Eta: 0.200000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.069929
+	To Hidden Layer 1 Node 2: 0.549706
+	To Hidden Layer 1 Node 3: -0.108372
+	To Hidden Layer 1 Node 4: -0.056775
+Node 2
+	To Hidden Layer 1 Node 1: -0.015180
+	To Hidden Layer 1 Node 2: 0.413487
+	To Hidden Layer 1 Node 3: -0.564869
+	To Hidden Layer 1 Node 4: -0.048983
+Node 3
+	To Hidden Layer 1 Node 1: -0.006232
+	To Hidden Layer 1 Node 2: -0.529885
+	To Hidden Layer 1 Node 3: -0.124938
+	To Hidden Layer 1 Node 4: -0.511613
+Node 4
+	To Hidden Layer 1 Node 1: -0.302220
+	To Hidden Layer 1 Node 2: -0.369594
+	To Hidden Layer 1 Node 3: -0.289977
+	To Hidden Layer 1 Node 4: 0.057112
+Node 5
+	To Hidden Layer 1 Node 1: 0.155418
+	To Hidden Layer 1 Node 2: 0.403306
+	To Hidden Layer 1 Node 3: -0.040653
+	To Hidden Layer 1 Node 4: 0.064397
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.079634
+
+
+Node 2
+	To Output Layer Node 1: 0.616824
+
+
+Node 3
+	To Output Layer Node 1: 0.240350
+
+
+Node 4
+	To Output Layer Node 1: 0.174600
+
+
+Row 1: Expected output is 0 and actual output is 0.523745.
+Row 2: Expected output is 1 and actual output is 0.508235.
+Row 3: Expected output is 1 and actual output is 0.508303.
+Row 4: Expected output is 0 and actual output is 0.500794.
+Row 5: Expected output is 1 and actual output is 0.509635.
+Row 6: Expected output is 0 and actual output is 0.501304.
+Row 7: Expected output is 0 and actual output is 0.500878.
+Row 8: Expected output is 1 and actual output is 0.498988.
+Row 9: Expected output is 1 and actual output is 0.501277.
+Row 10: Expected output is 0 and actual output is 0.496596.
+Row 11: Expected output is 0 and actual output is 0.495726.
+Row 12: Expected output is 1 and actual output is 0.496665.
+Row 13: Expected output is 0 and actual output is 0.496240.
+Row 14: Expected output is 1 and actual output is 0.496769.
+Row 15: Expected output is 1 and actual output is 0.495981.
+Row 16: Expected output is 0 and actual output is 0.497851.
+Row 17: Expected output is 1 and actual output is 0.503016.
+Row 18: Expected output is 0 and actual output is 0.497005.
+Row 19: Expected output is 0 and actual output is 0.496224.
+Row 20: Expected output is 1 and actual output is 0.496636.
+Row 21: Expected output is 0 and actual output is 0.496721.
+Row 22: Expected output is 1 and actual output is 0.496688.
+Row 23: Expected output is 1 and actual output is 0.495908.
+Row 24: Expected output is 0 and actual output is 0.497716.
+Row 25: Expected output is 0 and actual output is 0.490212.
+Row 26: Expected output is 1 and actual output is 0.493377.
+Row 27: Expected output is 1 and actual output is 0.492267.
+Row 28: Expected output is 0 and actual output is 0.496149.
+Row 29: Expected output is 1 and actual output is 0.492278.
+Row 30: Expected output is 0 and actual output is 0.496079.
+Row 31: Expected output is 0 and actual output is 0.495347.
+Row 32: Expected output is 1 and actual output is 0.497952.
+Hidden Nodes: 4
+Eta: 0.100000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.381622
+	To Hidden Layer 1 Node 2: -0.014666
+	To Hidden Layer 1 Node 3: -0.517968
+	To Hidden Layer 1 Node 4: 0.781682
+	To Hidden Layer 1 Node 5: 0.449678
+Node 2
+	To Hidden Layer 1 Node 1: 0.569627
+	To Hidden Layer 1 Node 2: -0.012537
+	To Hidden Layer 1 Node 3: 0.212776
+	To Hidden Layer 1 Node 4: -0.121242
+	To Hidden Layer 1 Node 5: 0.615345
+Node 3
+	To Hidden Layer 1 Node 1: -0.514577
+	To Hidden Layer 1 Node 2: 0.044020
+	To Hidden Layer 1 Node 3: 0.343185
+	To Hidden Layer 1 Node 4: -0.186113
+	To Hidden Layer 1 Node 5: -0.056360
+Node 4
+	To Hidden Layer 1 Node 1: -0.100388
+	To Hidden Layer 1 Node 2: -0.419806
+	To Hidden Layer 1 Node 3: 0.208962
+	To Hidden Layer 1 Node 4: 0.288111
+	To Hidden Layer 1 Node 5: 0.720621
+Node 5
+	To Hidden Layer 1 Node 1: -0.306895
+	To Hidden Layer 1 Node 2: -0.857016
+	To Hidden Layer 1 Node 3: -0.467915
+	To Hidden Layer 1 Node 4: -0.624495
+	To Hidden Layer 1 Node 5: 0.103046
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.953014
+
+
+Node 2
+	To Output Layer Node 1: 0.026491
+
+
+Node 3
+	To Output Layer Node 1: 0.851874
+
+
+Node 4
+	To Output Layer Node 1: -0.533935
+
+
+Node 5
+	To Output Layer Node 1: 0.142246
+
+
+Row 1: Expected output is 0 and actual output is 0.043711.
+Row 2: Expected output is 1 and actual output is 0.963526.
+Row 3: Expected output is 1 and actual output is 0.852738.
+Row 4: Expected output is 0 and actual output is 0.500868.
+Row 5: Expected output is 1 and actual output is 0.852012.
+Row 6: Expected output is 0 and actual output is 0.500860.
+Row 7: Expected output is 0 and actual output is 0.501340.
+Row 8: Expected output is 1 and actual output is 0.500001.
+Row 9: Expected output is 1 and actual output is 0.852370.
+Row 10: Expected output is 0 and actual output is 0.500879.
+Row 11: Expected output is 0 and actual output is 0.549340.
+Row 12: Expected output is 1 and actual output is 0.500020.
+Row 13: Expected output is 0 and actual output is 0.501501.
+Row 14: Expected output is 1 and actual output is 0.500001.
+Row 15: Expected output is 1 and actual output is 0.500069.
+Row 16: Expected output is 0 and actual output is 0.500000.
+Row 17: Expected output is 1 and actual output is 0.850881.
+Row 18: Expected output is 0 and actual output is 0.500891.
+Row 19: Expected output is 0 and actual output is 0.501793.
+Row 20: Expected output is 1 and actual output is 0.500001.
+Row 21: Expected output is 0 and actual output is 0.549745.
+Row 22: Expected output is 1 and actual output is 0.500021.
+Row 23: Expected output is 1 and actual output is 0.500074.
+Row 24: Expected output is 0 and actual output is 0.500000.
+Row 25: Expected output is 0 and actual output is 0.501948.
+Row 26: Expected output is 1 and actual output is 0.500001.
+Row 27: Expected output is 1 and actual output is 0.500117.
+Row 28: Expected output is 0 and actual output is 0.500000.
+Row 29: Expected output is 1 and actual output is 0.500091.
+Row 30: Expected output is 0 and actual output is 0.500000.
+Row 31: Expected output is 0 and actual output is 0.500000.
+Row 32: Expected output is 1 and actual output is 0.500000.
+Hidden Nodes: 5
+Eta: 1.000000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.106198
+	To Hidden Layer 1 Node 2: 0.212156
+	To Hidden Layer 1 Node 3: 0.091962
+	To Hidden Layer 1 Node 4: -0.062538
+	To Hidden Layer 1 Node 5: 0.163844
+Node 2
+	To Hidden Layer 1 Node 1: -0.865766
+	To Hidden Layer 1 Node 2: -0.144916
+	To Hidden Layer 1 Node 3: -0.069501
+	To Hidden Layer 1 Node 4: -0.124160
+	To Hidden Layer 1 Node 5: -0.685316
+Node 3
+	To Hidden Layer 1 Node 1: -0.493204
+	To Hidden Layer 1 Node 2: -0.134398
+	To Hidden Layer 1 Node 3: -0.213510
+	To Hidden Layer 1 Node 4: -0.429584
+	To Hidden Layer 1 Node 5: 0.230134
+Node 4
+	To Hidden Layer 1 Node 1: -0.403769
+	To Hidden Layer 1 Node 2: -0.024010
+	To Hidden Layer 1 Node 3: -0.185247
+	To Hidden Layer 1 Node 4: 0.274607
+	To Hidden Layer 1 Node 5: 0.152931
+Node 5
+	To Hidden Layer 1 Node 1: -0.705500
+	To Hidden Layer 1 Node 2: 0.193353
+	To Hidden Layer 1 Node 3: -0.087240
+	To Hidden Layer 1 Node 4: -0.254084
+	To Hidden Layer 1 Node 5: 0.757781
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.704929
+
+
+Node 2
+	To Output Layer Node 1: -0.562573
+
+
+Node 3
+	To Output Layer Node 1: -0.423961
+
+
+Node 4
+	To Output Layer Node 1: 0.000144
+
+
+Node 5
+	To Output Layer Node 1: 0.761608
+
+
+Row 1: Expected output is 0 and actual output is 0.045351.
+Row 2: Expected output is 1 and actual output is 0.962576.
+Row 3: Expected output is 1 and actual output is 0.848184.
+Row 4: Expected output is 0 and actual output is 0.501064.
+Row 5: Expected output is 1 and actual output is 0.848295.
+Row 6: Expected output is 0 and actual output is 0.501052.
+Row 7: Expected output is 0 and actual output is 0.550739.
+Row 8: Expected output is 1 and actual output is 0.500026.
+Row 9: Expected output is 1 and actual output is 0.847696.
+Row 10: Expected output is 0 and actual output is 0.501059.
+Row 11: Expected output is 0 and actual output is 0.501813.
+Row 12: Expected output is 1 and actual output is 0.500001.
+Row 13: Expected output is 0 and actual output is 0.501766.
+Row 14: Expected output is 1 and actual output is 0.500001.
+Row 15: Expected output is 1 and actual output is 0.500106.
+Row 16: Expected output is 0 and actual output is 0.500000.
+Row 17: Expected output is 1 and actual output is 0.847450.
+Row 18: Expected output is 0 and actual output is 0.501069.
+Row 19: Expected output is 0 and actual output is 0.501900.
+Row 20: Expected output is 1 and actual output is 0.500001.
+Row 21: Expected output is 0 and actual output is 0.501853.
+Row 22: Expected output is 1 and actual output is 0.500001.
+Row 23: Expected output is 1 and actual output is 0.500116.
+Row 24: Expected output is 0 and actual output is 0.500000.
+Row 25: Expected output is 0 and actual output is 0.551040.
+Row 26: Expected output is 1 and actual output is 0.500026.
+Row 27: Expected output is 1 and actual output is 0.500097.
+Row 28: Expected output is 0 and actual output is 0.500000.
+Row 29: Expected output is 1 and actual output is 0.500092.
+Row 30: Expected output is 0 and actual output is 0.500000.
+Row 31: Expected output is 0 and actual output is 0.500000.
+Row 32: Expected output is 1 and actual output is 0.500000.
+Hidden Nodes: 5
+Eta: 0.900000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.304382
+	To Hidden Layer 1 Node 2: 0.757299
+	To Hidden Layer 1 Node 3: -0.499287
+	To Hidden Layer 1 Node 4: -0.108703
+	To Hidden Layer 1 Node 5: 0.176583
+Node 2
+	To Hidden Layer 1 Node 1: 0.161923
+	To Hidden Layer 1 Node 2: -0.088862
+	To Hidden Layer 1 Node 3: -0.286511
+	To Hidden Layer 1 Node 4: 0.385468
+	To Hidden Layer 1 Node 5: -0.379256
+Node 3
+	To Hidden Layer 1 Node 1: 0.035661
+	To Hidden Layer 1 Node 2: 0.015593
+	To Hidden Layer 1 Node 3: 0.247682
+	To Hidden Layer 1 Node 4: -0.039700
+	To Hidden Layer 1 Node 5: 0.037861
+Node 4
+	To Hidden Layer 1 Node 1: 0.424585
+	To Hidden Layer 1 Node 2: 0.237043
+	To Hidden Layer 1 Node 3: 0.050393
+	To Hidden Layer 1 Node 4: 0.420679
+	To Hidden Layer 1 Node 5: -0.288952
+Node 5
+	To Hidden Layer 1 Node 1: -0.461216
+	To Hidden Layer 1 Node 2: 0.484915
+	To Hidden Layer 1 Node 3: 0.436968
+	To Hidden Layer 1 Node 4: 0.754563
+	To Hidden Layer 1 Node 5: 0.703170
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.255301
+
+
+Node 2
+	To Output Layer Node 1: -0.089996
+
+
+Node 3
+	To Output Layer Node 1: 0.133946
+
+
+Node 4
+	To Output Layer Node 1: 0.148330
+
+
+Node 5
+	To Output Layer Node 1: 0.151094
+
+
+Row 1: Expected output is 0 and actual output is 0.050539.
+Row 2: Expected output is 1 and actual output is 0.953165.
+Row 3: Expected output is 1 and actual output is 0.837842.
+Row 4: Expected output is 0 and actual output is 0.501293.
+Row 5: Expected output is 1 and actual output is 0.837807.
+Row 6: Expected output is 0 and actual output is 0.501301.
+Row 7: Expected output is 0 and actual output is 0.555661.
+Row 8: Expected output is 1 and actual output is 0.500040.
+Row 9: Expected output is 1 and actual output is 0.953111.
+Row 10: Expected output is 0 and actual output is 0.501626.
+Row 11: Expected output is 0 and actual output is 0.501318.
+Row 12: Expected output is 1 and actual output is 0.500001.
+Row 13: Expected output is 0 and actual output is 0.501328.
+Row 14: Expected output is 1 and actual output is 0.500001.
+Row 15: Expected output is 1 and actual output is 0.500042.
+Row 16: Expected output is 0 and actual output is 0.500000.
+Row 17: Expected output is 1 and actual output is 0.953520.
+Row 18: Expected output is 0 and actual output is 0.501441.
+Row 19: Expected output is 0 and actual output is 0.501030.
+Row 20: Expected output is 1 and actual output is 0.500001.
+Row 21: Expected output is 0 and actual output is 0.501033.
+Row 22: Expected output is 1 and actual output is 0.500001.
+Row 23: Expected output is 1 and actual output is 0.500038.
+Row 24: Expected output is 0 and actual output is 0.500000.
+Row 25: Expected output is 0 and actual output is 0.501454.
+Row 26: Expected output is 1 and actual output is 0.500001.
+Row 27: Expected output is 1 and actual output is 0.500001.
+Row 28: Expected output is 0 and actual output is 0.500000.
+Row 29: Expected output is 1 and actual output is 0.500001.
+Row 30: Expected output is 0 and actual output is 0.500000.
+Row 31: Expected output is 0 and actual output is 0.500000.
+Row 32: Expected output is 1 and actual output is 0.500000.
+Hidden Nodes: 5
+Eta: 0.800000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.454523
+	To Hidden Layer 1 Node 2: 0.680263
+	To Hidden Layer 1 Node 3: -0.452982
+	To Hidden Layer 1 Node 4: -0.780583
+	To Hidden Layer 1 Node 5: -0.473492
+Node 2
+	To Hidden Layer 1 Node 1: -0.623830
+	To Hidden Layer 1 Node 2: -0.817765
+	To Hidden Layer 1 Node 3: -0.297836
+	To Hidden Layer 1 Node 4: 0.080785
+	To Hidden Layer 1 Node 5: -0.066502
+Node 3
+	To Hidden Layer 1 Node 1: -0.180006
+	To Hidden Layer 1 Node 2: 0.310817
+	To Hidden Layer 1 Node 3: -0.619001
+	To Hidden Layer 1 Node 4: 0.507490
+	To Hidden Layer 1 Node 5: -0.329376
+Node 4
+	To Hidden Layer 1 Node 1: -0.244878
+	To Hidden Layer 1 Node 2: -0.122334
+	To Hidden Layer 1 Node 3: 0.050746
+	To Hidden Layer 1 Node 4: -0.424332
+	To Hidden Layer 1 Node 5: 0.523513
+Node 5
+	To Hidden Layer 1 Node 1: -0.007096
+	To Hidden Layer 1 Node 2: 0.783831
+	To Hidden Layer 1 Node 3: -0.029580
+	To Hidden Layer 1 Node 4: -0.519467
+	To Hidden Layer 1 Node 5: -0.489536
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.007640
+
+
+Node 2
+	To Output Layer Node 1: 0.087689
+
+
+Node 3
+	To Output Layer Node 1: -0.357412
+
+
+Node 4
+	To Output Layer Node 1: -0.602903
+
+
+Node 5
+	To Output Layer Node 1: -0.424757
+
+
+Row 1: Expected output is 0 and actual output is 0.062409.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 0.841590.
+Row 4: Expected output is 0 and actual output is 0.500659.
+Row 5: Expected output is 1 and actual output is 0.958448.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 0.499532.
+Row 9: Expected output is 1 and actual output is 0.841569.
+Row 10: Expected output is 0 and actual output is 0.500659.
+Row 11: Expected output is 0 and actual output is 0.555335.
+Row 12: Expected output is 1 and actual output is 0.500009.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 0.499532.
+Row 15: Expected output is 1 and actual output is 0.499545.
+Row 16: Expected output is 0 and actual output is 0.500000.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 1.000000.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 0.500483.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 0.500826.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 0.500483.
+Row 31: Expected output is 0 and actual output is 0.500916.
+Row 32: Expected output is 1 and actual output is 0.500000.
+Hidden Nodes: 5
+Eta: 0.700000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.035980
+	To Hidden Layer 1 Node 2: -0.806508
+	To Hidden Layer 1 Node 3: 0.467646
+	To Hidden Layer 1 Node 4: 0.092941
+	To Hidden Layer 1 Node 5: -0.357620
+Node 2
+	To Hidden Layer 1 Node 1: -0.610040
+	To Hidden Layer 1 Node 2: -0.406964
+	To Hidden Layer 1 Node 3: -0.515640
+	To Hidden Layer 1 Node 4: -0.468203
+	To Hidden Layer 1 Node 5: 0.137750
+Node 3
+	To Hidden Layer 1 Node 1: 0.231000
+	To Hidden Layer 1 Node 2: 0.514076
+	To Hidden Layer 1 Node 3: -0.110261
+	To Hidden Layer 1 Node 4: -0.354828
+	To Hidden Layer 1 Node 5: 0.287555
+Node 4
+	To Hidden Layer 1 Node 1: -0.516760
+	To Hidden Layer 1 Node 2: 0.709196
+	To Hidden Layer 1 Node 3: -0.240029
+	To Hidden Layer 1 Node 4: 0.082578
+	To Hidden Layer 1 Node 5: -0.046349
+Node 5
+	To Hidden Layer 1 Node 1: -0.369824
+	To Hidden Layer 1 Node 2: -0.752000
+	To Hidden Layer 1 Node 3: 0.492678
+	To Hidden Layer 1 Node 4: -0.498441
+	To Hidden Layer 1 Node 5: 0.162481
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.187418
+
+
+Node 2
+	To Output Layer Node 1: -0.128479
+
+
+Node 3
+	To Output Layer Node 1: 0.395313
+
+
+Node 4
+	To Output Layer Node 1: 0.230074
+
+
+Node 5
+	To Output Layer Node 1: -0.289804
+
+
+Row 1: Expected output is 0 and actual output is 0.048891.
+Row 2: Expected output is 1 and actual output is 0.820569.
+Row 3: Expected output is 1 and actual output is 0.819960.
+Row 4: Expected output is 0 and actual output is 0.527443.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 0.928820.
+Row 9: Expected output is 1 and actual output is 0.820457.
+Row 10: Expected output is 0 and actual output is 0.527508.
+Row 11: Expected output is 0 and actual output is 0.527428.
+Row 12: Expected output is 1 and actual output is 0.501865.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 0.929186.
+Row 15: Expected output is 1 and actual output is 0.928741.
+Row 16: Expected output is 0 and actual output is 0.548636.
+Row 17: Expected output is 1 and actual output is 0.964085.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 0.499422.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 0.500894.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 0.499422.
+Row 27: Expected output is 1 and actual output is 0.499422.
+Row 28: Expected output is 0 and actual output is 0.500000.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 0.500894.
+Row 31: Expected output is 0 and actual output is 0.500894.
+Row 32: Expected output is 1 and actual output is 0.500012.
+Hidden Nodes: 5
+Eta: 0.600000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.024756
+	To Hidden Layer 1 Node 2: -0.415055
+	To Hidden Layer 1 Node 3: -0.289642
+	To Hidden Layer 1 Node 4: 0.009612
+	To Hidden Layer 1 Node 5: 0.416568
+Node 2
+	To Hidden Layer 1 Node 1: -0.221068
+	To Hidden Layer 1 Node 2: -0.731563
+	To Hidden Layer 1 Node 3: 0.016582
+	To Hidden Layer 1 Node 4: 0.506934
+	To Hidden Layer 1 Node 5: 0.757720
+Node 3
+	To Hidden Layer 1 Node 1: -0.169413
+	To Hidden Layer 1 Node 2: -0.033385
+	To Hidden Layer 1 Node 3: 0.226586
+	To Hidden Layer 1 Node 4: -0.283443
+	To Hidden Layer 1 Node 5: 0.311992
+Node 4
+	To Hidden Layer 1 Node 1: -0.416823
+	To Hidden Layer 1 Node 2: 0.443065
+	To Hidden Layer 1 Node 3: -0.478497
+	To Hidden Layer 1 Node 4: 0.294425
+	To Hidden Layer 1 Node 5: 0.284161
+Node 5
+	To Hidden Layer 1 Node 1: -0.420140
+	To Hidden Layer 1 Node 2: -0.177657
+	To Hidden Layer 1 Node 3: -0.188197
+	To Hidden Layer 1 Node 4: -0.377682
+	To Hidden Layer 1 Node 5: -0.247663
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.289280
+
+
+Node 2
+	To Output Layer Node 1: -0.902113
+
+
+Node 3
+	To Output Layer Node 1: 0.196423
+
+
+Node 4
+	To Output Layer Node 1: -0.279415
+
+
+Node 5
+	To Output Layer Node 1: 0.743656
+
+
+Row 1: Expected output is 0 and actual output is 0.467410.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 0.284590.
+Row 4: Expected output is 0 and actual output is 0.430700.
+Row 5: Expected output is 1 and actual output is 1.000000.
+Row 6: Expected output is 0 and actual output is 0.141428.
+Row 7: Expected output is 0 and actual output is 0.432271.
+Row 8: Expected output is 1 and actual output is 0.478995.
+Row 9: Expected output is 1 and actual output is 0.741557.
+Row 10: Expected output is 0 and actual output is 0.000000.
+Row 11: Expected output is 0 and actual output is 0.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 0.218963.
+Row 17: Expected output is 1 and actual output is 1.000000.
+Row 18: Expected output is 0 and actual output is 0.145988.
+Row 19: Expected output is 0 and actual output is 0.433939.
+Row 20: Expected output is 1 and actual output is 0.479457.
+Row 21: Expected output is 0 and actual output is 0.150826.
+Row 22: Expected output is 1 and actual output is 0.365080.
+Row 23: Expected output is 1 and actual output is 0.479920.
+Row 24: Expected output is 0 and actual output is 0.493973.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 0.223656.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 0.000000.
+Row 31: Expected output is 0 and actual output is 0.228464.
+Row 32: Expected output is 1 and actual output is 0.405544.
+Hidden Nodes: 5
+Eta: 0.500000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.277597
+	To Hidden Layer 1 Node 2: 0.093179
+	To Hidden Layer 1 Node 3: -0.355990
+	To Hidden Layer 1 Node 4: 0.287786
+	To Hidden Layer 1 Node 5: -0.107071
+Node 2
+	To Hidden Layer 1 Node 1: -0.323015
+	To Hidden Layer 1 Node 2: -0.291276
+	To Hidden Layer 1 Node 3: 0.253995
+	To Hidden Layer 1 Node 4: 0.028492
+	To Hidden Layer 1 Node 5: 0.204163
+Node 3
+	To Hidden Layer 1 Node 1: 0.196917
+	To Hidden Layer 1 Node 2: 0.454347
+	To Hidden Layer 1 Node 3: 0.218579
+	To Hidden Layer 1 Node 4: 0.060869
+	To Hidden Layer 1 Node 5: -0.155774
+Node 4
+	To Hidden Layer 1 Node 1: 0.341582
+	To Hidden Layer 1 Node 2: -0.344199
+	To Hidden Layer 1 Node 3: -0.198871
+	To Hidden Layer 1 Node 4: 0.227716
+	To Hidden Layer 1 Node 5: 0.147594
+Node 5
+	To Hidden Layer 1 Node 1: 0.311523
+	To Hidden Layer 1 Node 2: -0.333647
+	To Hidden Layer 1 Node 3: 0.135247
+	To Hidden Layer 1 Node 4: 0.522412
+	To Hidden Layer 1 Node 5: 0.206816
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: -0.515597
+
+
+Node 2
+	To Output Layer Node 1: 0.650271
+
+
+Node 3
+	To Output Layer Node 1: 0.188720
+
+
+Node 4
+	To Output Layer Node 1: -0.161762
+
+
+Node 5
+	To Output Layer Node 1: -0.204912
+
+
+Row 1: Expected output is 0 and actual output is 0.115347.
+Row 2: Expected output is 1 and actual output is 0.798078.
+Row 3: Expected output is 1 and actual output is 0.797262.
+Row 4: Expected output is 0 and actual output is 0.523090.
+Row 5: Expected output is 1 and actual output is 0.940766.
+Row 6: Expected output is 0 and actual output is 0.000000.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 0.926445.
+Row 9: Expected output is 1 and actual output is 0.796650.
+Row 10: Expected output is 0 and actual output is 0.523022.
+Row 11: Expected output is 0 and actual output is 0.522933.
+Row 12: Expected output is 1 and actual output is 0.501452.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 0.926459.
+Row 15: Expected output is 1 and actual output is 0.925926.
+Row 16: Expected output is 0 and actual output is 0.550087.
+Row 17: Expected output is 1 and actual output is 0.940820.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 0.926823.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 1.000000.
+Row 23: Expected output is 1 and actual output is 1.000000.
+Row 24: Expected output is 0 and actual output is 0.501660.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 0.926027.
+Row 27: Expected output is 1 and actual output is 0.925499.
+Row 28: Expected output is 0 and actual output is 0.550749.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 0.501659.
+Row 31: Expected output is 0 and actual output is 0.501656.
+Row 32: Expected output is 1 and actual output is 0.500046.
+Hidden Nodes: 5
+Eta: 0.400000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.465344
+	To Hidden Layer 1 Node 2: 0.695622
+	To Hidden Layer 1 Node 3: -0.175413
+	To Hidden Layer 1 Node 4: 0.019518
+	To Hidden Layer 1 Node 5: -0.734683
+Node 2
+	To Hidden Layer 1 Node 1: 0.817579
+	To Hidden Layer 1 Node 2: -0.359719
+	To Hidden Layer 1 Node 3: -0.216502
+	To Hidden Layer 1 Node 4: -0.238143
+	To Hidden Layer 1 Node 5: 0.027139
+Node 3
+	To Hidden Layer 1 Node 1: 0.617432
+	To Hidden Layer 1 Node 2: -0.185852
+	To Hidden Layer 1 Node 3: -0.258925
+	To Hidden Layer 1 Node 4: 0.282099
+	To Hidden Layer 1 Node 5: -0.006815
+Node 4
+	To Hidden Layer 1 Node 1: -0.394458
+	To Hidden Layer 1 Node 2: -0.013800
+	To Hidden Layer 1 Node 3: 0.301346
+	To Hidden Layer 1 Node 4: -0.428302
+	To Hidden Layer 1 Node 5: -0.140286
+Node 5
+	To Hidden Layer 1 Node 1: 0.559266
+	To Hidden Layer 1 Node 2: 0.048726
+	To Hidden Layer 1 Node 3: 0.678325
+	To Hidden Layer 1 Node 4: 0.489259
+	To Hidden Layer 1 Node 5: 0.034612
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.577900
+
+
+Node 2
+	To Output Layer Node 1: 0.438949
+
+
+Node 3
+	To Output Layer Node 1: -0.126021
+
+
+Node 4
+	To Output Layer Node 1: -0.144304
+
+
+Node 5
+	To Output Layer Node 1: 0.250260
+
+
+Row 1: Expected output is 0 and actual output is 0.129262.
+Row 2: Expected output is 1 and actual output is 0.785446.
+Row 3: Expected output is 1 and actual output is 0.784763.
+Row 4: Expected output is 0 and actual output is 0.523861.
+Row 5: Expected output is 1 and actual output is 0.784082.
+Row 6: Expected output is 0 and actual output is 0.523784.
+Row 7: Expected output is 0 and actual output is 0.523706.
+Row 8: Expected output is 1 and actual output is 0.501636.
+Row 9: Expected output is 1 and actual output is 0.933210.
+Row 10: Expected output is 0 and actual output is 0.000000.
+Row 11: Expected output is 0 and actual output is 0.000000.
+Row 12: Expected output is 1 and actual output is 0.922571.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 0.922088.
+Row 15: Expected output is 1 and actual output is 0.921600.
+Row 16: Expected output is 0 and actual output is 0.552834.
+Row 17: Expected output is 1 and actual output is 0.933909.
+Row 18: Expected output is 0 and actual output is 0.000000.
+Row 19: Expected output is 0 and actual output is 0.000000.
+Row 20: Expected output is 1 and actual output is 0.921039.
+Row 21: Expected output is 0 and actual output is 0.000000.
+Row 22: Expected output is 1 and actual output is 0.920614.
+Row 23: Expected output is 1 and actual output is 0.920192.
+Row 24: Expected output is 0 and actual output is 0.556272.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 1.000000.
+Row 27: Expected output is 1 and actual output is 1.000000.
+Row 28: Expected output is 0 and actual output is 0.502238.
+Row 29: Expected output is 1 and actual output is 1.000000.
+Row 30: Expected output is 0 and actual output is 0.502236.
+Row 31: Expected output is 0 and actual output is 0.502233.
+Row 32: Expected output is 1 and actual output is 0.500068.
+Hidden Nodes: 5
+Eta: 0.300000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.173889
+	To Hidden Layer 1 Node 2: -0.057978
+	To Hidden Layer 1 Node 3: -0.017360
+	To Hidden Layer 1 Node 4: 0.042354
+	To Hidden Layer 1 Node 5: 0.518394
+Node 2
+	To Hidden Layer 1 Node 1: 0.250986
+	To Hidden Layer 1 Node 2: 0.076832
+	To Hidden Layer 1 Node 3: 0.441186
+	To Hidden Layer 1 Node 4: 0.111664
+	To Hidden Layer 1 Node 5: 0.108832
+Node 3
+	To Hidden Layer 1 Node 1: 0.306263
+	To Hidden Layer 1 Node 2: -0.638278
+	To Hidden Layer 1 Node 3: -0.734439
+	To Hidden Layer 1 Node 4: -0.092156
+	To Hidden Layer 1 Node 5: -0.259901
+Node 4
+	To Hidden Layer 1 Node 1: -0.835178
+	To Hidden Layer 1 Node 2: -0.041214
+	To Hidden Layer 1 Node 3: -0.046697
+	To Hidden Layer 1 Node 4: 0.170040
+	To Hidden Layer 1 Node 5: 0.555751
+Node 5
+	To Hidden Layer 1 Node 1: -0.616639
+	To Hidden Layer 1 Node 2: -0.330101
+	To Hidden Layer 1 Node 3: 0.573375
+	To Hidden Layer 1 Node 4: -0.124558
+	To Hidden Layer 1 Node 5: 0.707033
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.225589
+
+
+Node 2
+	To Output Layer Node 1: 0.802753
+
+
+Node 3
+	To Output Layer Node 1: 0.015592
+
+
+Node 4
+	To Output Layer Node 1: 0.461966
+
+
+Node 5
+	To Output Layer Node 1: 0.948822
+
+
+Row 1: Expected output is 0 and actual output is 0.237896.
+Row 2: Expected output is 1 and actual output is 0.723589.
+Row 3: Expected output is 1 and actual output is 0.722480.
+Row 4: Expected output is 0 and actual output is 0.316547.
+Row 5: Expected output is 1 and actual output is 0.853249.
+Row 6: Expected output is 0 and actual output is 0.054866.
+Row 7: Expected output is 0 and actual output is 0.054864.
+Row 8: Expected output is 1 and actual output is 0.486238.
+Row 9: Expected output is 1 and actual output is 0.894678.
+Row 10: Expected output is 0 and actual output is 0.000000.
+Row 11: Expected output is 0 and actual output is 0.000000.
+Row 12: Expected output is 1 and actual output is 0.856653.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 0.955385.
+Row 15: Expected output is 1 and actual output is 0.955628.
+Row 16: Expected output is 0 and actual output is 0.507382.
+Row 17: Expected output is 1 and actual output is 0.723821.
+Row 18: Expected output is 0 and actual output is 0.296140.
+Row 19: Expected output is 0 and actual output is 0.295669.
+Row 20: Expected output is 1 and actual output is 0.190242.
+Row 21: Expected output is 0 and actual output is 0.054941.
+Row 22: Expected output is 1 and actual output is 0.479707.
+Row 23: Expected output is 1 and actual output is 0.479671.
+Row 24: Expected output is 0 and actual output is 0.473055.
+Row 25: Expected output is 0 and actual output is 0.000000.
+Row 26: Expected output is 1 and actual output is 0.871576.
+Row 27: Expected output is 1 and actual output is 0.870702.
+Row 28: Expected output is 0 and actual output is 0.364862.
+Row 29: Expected output is 1 and actual output is 0.954489.
+Row 30: Expected output is 0 and actual output is 0.500440.
+Row 31: Expected output is 0 and actual output is 0.500427.
+Row 32: Expected output is 1 and actual output is 0.470687.
+Hidden Nodes: 5
+Eta: 0.200000
+
+
+
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.302769
+	To Hidden Layer 1 Node 2: 0.800356
+	To Hidden Layer 1 Node 3: -0.392304
+	To Hidden Layer 1 Node 4: 0.530974
+	To Hidden Layer 1 Node 5: -0.582660
+Node 2
+	To Hidden Layer 1 Node 1: -0.548888
+	To Hidden Layer 1 Node 2: 0.112798
+	To Hidden Layer 1 Node 3: 0.022787
+	To Hidden Layer 1 Node 4: 0.357252
+	To Hidden Layer 1 Node 5: 0.435380
+Node 3
+	To Hidden Layer 1 Node 1: -0.020852
+	To Hidden Layer 1 Node 2: 0.595005
+	To Hidden Layer 1 Node 3: -0.270892
+	To Hidden Layer 1 Node 4: 0.406015
+	To Hidden Layer 1 Node 5: -0.736467
+Node 4
+	To Hidden Layer 1 Node 1: -0.678830
+	To Hidden Layer 1 Node 2: 0.259621
+	To Hidden Layer 1 Node 3: 0.276143
+	To Hidden Layer 1 Node 4: -0.128353
+	To Hidden Layer 1 Node 5: 0.583861
+Node 5
+	To Hidden Layer 1 Node 1: 0.505969
+	To Hidden Layer 1 Node 2: -0.139341
+	To Hidden Layer 1 Node 3: 0.306658
+	To Hidden Layer 1 Node 4: -0.147170
+	To Hidden Layer 1 Node 5: 0.618009
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.200369
+
+
+Node 2
+	To Output Layer Node 1: -0.114496
+
+
+Node 3
+	To Output Layer Node 1: -0.266965
+
+
+Node 4
+	To Output Layer Node 1: 0.634248
+
+
+Node 5
+	To Output Layer Node 1: 0.417609
+
+
+Row 1: Expected output is 0 and actual output is 0.504193.
+Row 2: Expected output is 1 and actual output is 0.503911.
+Row 3: Expected output is 1 and actual output is 0.499374.
+Row 4: Expected output is 0 and actual output is 0.500059.
+Row 5: Expected output is 1 and actual output is 0.503093.
+Row 6: Expected output is 0 and actual output is 0.502886.
+Row 7: Expected output is 0 and actual output is 0.499528.
+Row 8: Expected output is 1 and actual output is 0.500435.
+Row 9: Expected output is 1 and actual output is 0.501000.
+Row 10: Expected output is 0 and actual output is 0.501075.
+Row 11: Expected output is 0 and actual output is 0.497812.
+Row 12: Expected output is 1 and actual output is 0.498959.
+Row 13: Expected output is 0 and actual output is 0.500656.
+Row 14: Expected output is 1 and actual output is 0.500978.
+Row 15: Expected output is 1 and actual output is 0.498846.
+Row 16: Expected output is 0 and actual output is 0.499809.
+Row 17: Expected output is 1 and actual output is 0.502075.
+Row 18: Expected output is 0 and actual output is 0.502575.
+Row 19: Expected output is 0 and actual output is 0.498508.
+Row 20: Expected output is 1 and actual output is 0.500160.
+Row 21: Expected output is 0 and actual output is 0.500457.
+Row 22: Expected output is 1 and actual output is 0.501439.
+Row 23: Expected output is 1 and actual output is 0.498509.
+Row 24: Expected output is 0 and actual output is 0.500115.
+Row 25: Expected output is 0 and actual output is 0.499624.
+Row 26: Expected output is 1 and actual output is 0.500696.
+Row 27: Expected output is 1 and actual output is 0.497989.
+Row 28: Expected output is 0 and actual output is 0.499580.
+Row 29: Expected output is 1 and actual output is 0.499101.
+Row 30: Expected output is 0 and actual output is 0.500360.
+Row 31: Expected output is 0 and actual output is 0.498592.
+Row 32: Expected output is 1 and actual output is 0.499845.
+Hidden Nodes: 5
+Eta: 0.100000
+
+
+

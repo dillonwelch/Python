@@ -1,0 +1,249 @@
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: -0.132986
+	To Hidden Layer 1 Node 2: 0.054794
+	To Hidden Layer 1 Node 3: -0.511018
+	To Hidden Layer 1 Node 4: -0.826432
+	To Hidden Layer 1 Node 5: 0.556884
+Node 2
+	To Hidden Layer 1 Node 1: -0.102706
+	To Hidden Layer 1 Node 2: 0.491834
+	To Hidden Layer 1 Node 3: 0.524354
+	To Hidden Layer 1 Node 4: -0.087512
+	To Hidden Layer 1 Node 5: -0.352877
+Node 3
+	To Hidden Layer 1 Node 1: 0.065035
+	To Hidden Layer 1 Node 2: 0.027421
+	To Hidden Layer 1 Node 3: 0.124965
+	To Hidden Layer 1 Node 4: -0.626317
+	To Hidden Layer 1 Node 5: -0.572625
+Node 4
+	To Hidden Layer 1 Node 1: -0.200577
+	To Hidden Layer 1 Node 2: -0.594242
+	To Hidden Layer 1 Node 3: 0.111976
+	To Hidden Layer 1 Node 4: 0.153106
+	To Hidden Layer 1 Node 5: 0.247329
+Node 5
+	To Hidden Layer 1 Node 1: 0.030876
+	To Hidden Layer 1 Node 2: 0.220344
+	To Hidden Layer 1 Node 3: -0.422766
+	To Hidden Layer 1 Node 4: 0.089922
+	To Hidden Layer 1 Node 5: -0.566287
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.767467
+
+
+Node 2
+	To Output Layer Node 1: -0.132046
+
+
+Node 3
+	To Output Layer Node 1: -0.357824
+
+
+Node 4
+	To Output Layer Node 1: 0.888430
+
+
+Node 5
+	To Output Layer Node 1: 0.248834
+
+
+At Count 1 and Row 1, output was 0.669833
+At Count 1 and Row 2, output was 0.655261
+At Count 1 and Row 3, output was 0.663926
+At Count 1 and Row 4, output was 0.680348
+At Count 1 and Row 5, output was 0.613370
+At Count 1 and Row 6, output was 0.631272
+At Count 1 and Row 7, output was 0.611278
+At Count 1 and Row 8, output was 0.597310
+At Count 1 and Row 9, output was 0.607214
+At Count 1 and Row 10, output was 0.629149
+At Count 1 and Row 11, output was 0.604479
+At Count 1 and Row 12, output was 0.584200
+At Count 1 and Row 13, output was 0.553733
+At Count 1 and Row 14, output was 0.538417
+At Count 1 and Row 15, output was 0.553203
+At Count 1 and Row 16, output was 0.578581
+1000
+At Count 1001 and Row 1, output was 0.522607
+At Count 1001 and Row 2, output was 0.503537
+At Count 1001 and Row 3, output was 0.500545
+At Count 1001 and Row 4, output was 0.503619
+At Count 1001 and Row 5, output was 0.504125
+At Count 1001 and Row 6, output was 0.504136
+At Count 1001 and Row 7, output was 0.501226
+At Count 1001 and Row 8, output was 0.500267
+At Count 1001 and Row 9, output was 0.498234
+At Count 1001 and Row 10, output was 0.501938
+At Count 1001 and Row 11, output was 0.498093
+At Count 1001 and Row 12, output was 0.498840
+At Count 1001 and Row 13, output was 0.493567
+At Count 1001 and Row 14, output was 0.496810
+At Count 1001 and Row 15, output was 0.494190
+At Count 1001 and Row 16, output was 0.498880
+2000
+At Count 2001 and Row 1, output was 0.551616
+At Count 2001 and Row 2, output was 0.548695
+At Count 2001 and Row 3, output was 0.561014
+At Count 2001 and Row 4, output was 0.524762
+At Count 2001 and Row 5, output was 0.582945
+At Count 2001 and Row 6, output was 0.530692
+At Count 2001 and Row 7, output was 0.538783
+At Count 2001 and Row 8, output was 0.509753
+At Count 2001 and Row 9, output was 0.370285
+At Count 2001 and Row 10, output was 0.384565
+At Count 2001 and Row 11, output was 0.392475
+At Count 2001 and Row 12, output was 0.483073
+At Count 2001 and Row 13, output was 0.392559
+At Count 2001 and Row 14, output was 0.481580
+At Count 2001 and Row 15, output was 0.489123
+At Count 2001 and Row 16, output was 0.504163
+3000
+At Count 3001 and Row 1, output was 0.192393
+At Count 3001 and Row 2, output was 0.903736
+At Count 3001 and Row 3, output was 0.861707
+At Count 3001 and Row 4, output was 0.107646
+At Count 3001 and Row 5, output was 0.877476
+At Count 3001 and Row 6, output was 0.530438
+At Count 3001 and Row 7, output was 0.111689
+At Count 3001 and Row 8, output was 0.460415
+At Count 3001 and Row 9, output was 0.901607
+At Count 3001 and Row 10, output was 0.000000
+At Count 3001 and Row 11, output was 0.000000
+At Count 3001 and Row 12, output was 1.000000
+At Count 3001 and Row 13, output was 0.000000
+At Count 3001 and Row 14, output was 0.907248
+At Count 3001 and Row 15, output was 1.000000
+At Count 3001 and Row 16, output was 0.513786
+4000
+At Count 4001 and Row 1, output was 0.120371
+At Count 4001 and Row 2, output was 0.943334
+At Count 4001 and Row 3, output was 0.921468
+At Count 4001 and Row 4, output was 0.047888
+At Count 4001 and Row 5, output was 0.927519
+At Count 4001 and Row 6, output was 0.511947
+At Count 4001 and Row 7, output was 0.048406
+At Count 4001 and Row 8, output was 0.488550
+At Count 4001 and Row 9, output was 0.937229
+At Count 4001 and Row 10, output was 0.000000
+At Count 4001 and Row 11, output was 0.000000
+At Count 4001 and Row 12, output was 1.000000
+At Count 4001 and Row 13, output was 0.000000
+At Count 4001 and Row 14, output was 0.937929
+At Count 4001 and Row 15, output was 1.000000
+At Count 4001 and Row 16, output was 0.506353
+5000
+At Count 5001 and Row 1, output was 0.095158
+At Count 5001 and Row 2, output was 0.956560
+At Count 5001 and Row 3, output was 0.938758
+At Count 5001 and Row 4, output was 0.033542
+At Count 5001 and Row 5, output was 0.943209
+At Count 5001 and Row 6, output was 0.507279
+At Count 5001 and Row 7, output was 0.033714
+At Count 5001 and Row 8, output was 0.493625
+At Count 5001 and Row 9, output was 0.950442
+At Count 5001 and Row 10, output was 0.000000
+At Count 5001 and Row 11, output was 0.000000
+At Count 5001 and Row 12, output was 1.000000
+At Count 5001 and Row 13, output was 0.000000
+At Count 5001 and Row 14, output was 0.950322
+At Count 5001 and Row 15, output was 1.000000
+At Count 5001 and Row 16, output was 0.504039
+6000
+At Count 6001 and Row 1, output was 0.081275
+At Count 6001 and Row 2, output was 0.963797
+At Count 6001 and Row 3, output was 0.947967
+At Count 6001 and Row 4, output was 0.000000
+At Count 6001 and Row 5, output was 0.951745
+At Count 6001 and Row 6, output was 0.505167
+At Count 6001 and Row 7, output was 0.000000
+At Count 6001 and Row 8, output was 0.495628
+At Count 6001 and Row 9, output was 0.957682
+At Count 6001 and Row 10, output was 0.000000
+At Count 6001 and Row 11, output was 0.000000
+At Count 6001 and Row 12, output was 1.000000
+At Count 6001 and Row 13, output was 0.000000
+At Count 6001 and Row 14, output was 0.957509
+At Count 6001 and Row 15, output was 1.000000
+At Count 6001 and Row 16, output was 0.502918
+7000
+At Count 7001 and Row 1, output was 0.072140
+At Count 7001 and Row 2, output was 0.968478
+At Count 7001 and Row 3, output was 0.953949
+At Count 7001 and Row 4, output was 0.000000
+At Count 7001 and Row 5, output was 0.957341
+At Count 7001 and Row 6, output was 0.503972
+At Count 7001 and Row 7, output was 0.000000
+At Count 7001 and Row 8, output was 0.496687
+At Count 7001 and Row 9, output was 0.962420
+At Count 7001 and Row 10, output was 0.000000
+At Count 7001 and Row 11, output was 0.000000
+At Count 7001 and Row 12, output was 1.000000
+At Count 7001 and Row 13, output was 0.000000
+At Count 7001 and Row 14, output was 0.962352
+At Count 7001 and Row 15, output was 1.000000
+At Count 7001 and Row 16, output was 0.502264
+8000
+At Count 8001 and Row 1, output was 0.065532
+At Count 8001 and Row 2, output was 1.000000
+At Count 8001 and Row 3, output was 0.958247
+At Count 8001 and Row 4, output was 0.000000
+At Count 8001 and Row 5, output was 0.961383
+At Count 8001 and Row 6, output was 0.503209
+At Count 8001 and Row 7, output was 0.000000
+At Count 8001 and Row 8, output was 0.497338
+At Count 8001 and Row 9, output was 0.965836
+At Count 8001 and Row 10, output was 0.000000
+At Count 8001 and Row 11, output was 0.000000
+At Count 8001 and Row 12, output was 1.000000
+At Count 8001 and Row 13, output was 0.000000
+At Count 8001 and Row 14, output was 0.965900
+At Count 8001 and Row 15, output was 1.000000
+At Count 8001 and Row 16, output was 0.501839
+9000
+At Count 9001 and Row 1, output was 0.060461
+At Count 9001 and Row 2, output was 1.000000
+At Count 9001 and Row 3, output was 0.961532
+At Count 9001 and Row 4, output was 0.000000
+At Count 9001 and Row 5, output was 0.964483
+At Count 9001 and Row 6, output was 0.502681
+At Count 9001 and Row 7, output was 0.000000
+At Count 9001 and Row 8, output was 0.497778
+At Count 9001 and Row 9, output was 0.968453
+At Count 9001 and Row 10, output was 0.000000
+At Count 9001 and Row 11, output was 0.000000
+At Count 9001 and Row 12, output was 1.000000
+At Count 9001 and Row 13, output was 0.000000
+At Count 9001 and Row 14, output was 0.968645
+At Count 9001 and Row 15, output was 1.000000
+At Count 9001 and Row 16, output was 0.501542
+Row 1: Expected output is 0 and actual output is 0.056411.
+Row 2: Expected output is 1 and actual output is 1.000000.
+Row 3: Expected output is 1 and actual output is 0.964147.
+Row 4: Expected output is 0 and actual output is 0.000000.
+Row 5: Expected output is 1 and actual output is 0.966957.
+Row 6: Expected output is 0 and actual output is 0.502297.
+Row 7: Expected output is 0 and actual output is 0.000000.
+Row 8: Expected output is 1 and actual output is 0.498094.
+Row 9: Expected output is 1 and actual output is 1.000000.
+Row 10: Expected output is 0 and actual output is 0.000000.
+Row 11: Expected output is 0 and actual output is 0.000000.
+Row 12: Expected output is 1 and actual output is 1.000000.
+Row 13: Expected output is 0 and actual output is 0.000000.
+Row 14: Expected output is 1 and actual output is 1.000000.
+Row 15: Expected output is 1 and actual output is 1.000000.
+Row 16: Expected output is 0 and actual output is 0.501324.
+Eta: 0.500000
+Amount of input nodes: 5
+Amount of hidden layers: 1
+Amount of nodes in hidden layer 1: 5
+Amount of output nodes: 1
+Amount of iterations: 0

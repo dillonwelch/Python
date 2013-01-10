@@ -1,0 +1,1028 @@
+Weights from input to hidden layer 1
+-----
+
+Node 1
+	To Hidden Layer 1 Node 1: 0.129952
+	To Hidden Layer 1 Node 2: -0.923123
+Node 2
+	To Hidden Layer 1 Node 1: 0.570345
+	To Hidden Layer 1 Node 2: -0.328932
+
+
+Weights from hidden layer 1 to output layer
+-----
+
+Node 1
+	To Output Layer Node 1: 0.164732
+
+
+Node 2
+	To Output Layer Node 1: 0.752621
+
+
+At Count 1 and Row 1, output was 0.595111
+1000
+At Count 1001 and Row 1, output was 0.000000
+2000
+At Count 2001 and Row 1, output was 0.000000
+3000
+At Count 3001 and Row 1, output was 0.000000
+4000
+At Count 4001 and Row 1, output was 0.000000
+5000
+At Count 5001 and Row 1, output was 0.000000
+6000
+At Count 6001 and Row 1, output was 0.000000
+7000
+At Count 7001 and Row 1, output was 0.000000
+8000
+At Count 8001 and Row 1, output was 0.000000
+9000
+At Count 9001 and Row 1, output was 0.000000
+10000
+At Count 10001 and Row 1, output was 0.000000
+11000
+At Count 11001 and Row 1, output was 0.000000
+12000
+At Count 12001 and Row 1, output was 0.000000
+13000
+At Count 13001 and Row 1, output was 0.000000
+14000
+At Count 14001 and Row 1, output was 0.000000
+15000
+At Count 15001 and Row 1, output was 0.000000
+16000
+At Count 16001 and Row 1, output was 0.000000
+17000
+At Count 17001 and Row 1, output was 0.000000
+18000
+At Count 18001 and Row 1, output was 0.000000
+19000
+At Count 19001 and Row 1, output was 0.000000
+20000
+At Count 20001 and Row 1, output was 0.000000
+21000
+At Count 21001 and Row 1, output was 0.000000
+22000
+At Count 22001 and Row 1, output was 0.000000
+23000
+At Count 23001 and Row 1, output was 0.000000
+24000
+At Count 24001 and Row 1, output was 0.000000
+25000
+At Count 25001 and Row 1, output was 0.000000
+26000
+At Count 26001 and Row 1, output was 0.000000
+27000
+At Count 27001 and Row 1, output was 0.000000
+28000
+At Count 28001 and Row 1, output was 0.000000
+29000
+At Count 29001 and Row 1, output was 0.000000
+30000
+At Count 30001 and Row 1, output was 0.000000
+31000
+At Count 31001 and Row 1, output was 0.000000
+32000
+At Count 32001 and Row 1, output was 0.000000
+33000
+At Count 33001 and Row 1, output was 0.000000
+34000
+At Count 34001 and Row 1, output was 0.000000
+35000
+At Count 35001 and Row 1, output was 0.000000
+36000
+At Count 36001 and Row 1, output was 0.000000
+37000
+At Count 37001 and Row 1, output was 0.000000
+38000
+At Count 38001 and Row 1, output was 0.000000
+39000
+At Count 39001 and Row 1, output was 0.000000
+40000
+At Count 40001 and Row 1, output was 0.000000
+41000
+At Count 41001 and Row 1, output was 0.000000
+42000
+At Count 42001 and Row 1, output was 0.000000
+43000
+At Count 43001 and Row 1, output was 0.000000
+44000
+At Count 44001 and Row 1, output was 0.000000
+45000
+At Count 45001 and Row 1, output was 0.000000
+46000
+At Count 46001 and Row 1, output was 0.000000
+47000
+At Count 47001 and Row 1, output was 0.000000
+48000
+At Count 48001 and Row 1, output was 0.000000
+49000
+At Count 49001 and Row 1, output was 0.000000
+50000
+At Count 50001 and Row 1, output was 0.000000
+51000
+At Count 51001 and Row 1, output was 0.000000
+52000
+At Count 52001 and Row 1, output was 0.000000
+53000
+At Count 53001 and Row 1, output was 0.000000
+54000
+At Count 54001 and Row 1, output was 0.000000
+55000
+At Count 55001 and Row 1, output was 0.000000
+56000
+At Count 56001 and Row 1, output was 0.000000
+57000
+At Count 57001 and Row 1, output was 0.000000
+58000
+At Count 58001 and Row 1, output was 0.000000
+59000
+At Count 59001 and Row 1, output was 0.000000
+60000
+At Count 60001 and Row 1, output was 0.000000
+61000
+At Count 61001 and Row 1, output was 0.000000
+62000
+At Count 62001 and Row 1, output was 0.000000
+63000
+At Count 63001 and Row 1, output was 0.000000
+64000
+At Count 64001 and Row 1, output was 0.000000
+65000
+At Count 65001 and Row 1, output was 0.000000
+66000
+At Count 66001 and Row 1, output was 0.000000
+67000
+At Count 67001 and Row 1, output was 0.000000
+68000
+At Count 68001 and Row 1, output was 0.000000
+69000
+At Count 69001 and Row 1, output was 0.000000
+70000
+At Count 70001 and Row 1, output was 0.000000
+71000
+At Count 71001 and Row 1, output was 0.000000
+72000
+At Count 72001 and Row 1, output was 0.000000
+73000
+At Count 73001 and Row 1, output was 0.000000
+74000
+At Count 74001 and Row 1, output was 0.000000
+75000
+At Count 75001 and Row 1, output was 0.000000
+76000
+At Count 76001 and Row 1, output was 0.000000
+77000
+At Count 77001 and Row 1, output was 0.000000
+78000
+At Count 78001 and Row 1, output was 0.000000
+79000
+At Count 79001 and Row 1, output was 0.000000
+80000
+At Count 80001 and Row 1, output was 0.000000
+81000
+At Count 81001 and Row 1, output was 0.000000
+82000
+At Count 82001 and Row 1, output was 0.000000
+83000
+At Count 83001 and Row 1, output was 0.000000
+84000
+At Count 84001 and Row 1, output was 0.000000
+85000
+At Count 85001 and Row 1, output was 0.000000
+86000
+At Count 86001 and Row 1, output was 0.000000
+87000
+At Count 87001 and Row 1, output was 0.000000
+88000
+At Count 88001 and Row 1, output was 0.000000
+89000
+At Count 89001 and Row 1, output was 0.000000
+90000
+At Count 90001 and Row 1, output was 0.000000
+91000
+At Count 91001 and Row 1, output was 0.000000
+92000
+At Count 92001 and Row 1, output was 0.000000
+93000
+At Count 93001 and Row 1, output was 0.000000
+94000
+At Count 94001 and Row 1, output was 0.000000
+95000
+At Count 95001 and Row 1, output was 0.000000
+96000
+At Count 96001 and Row 1, output was 0.000000
+97000
+At Count 97001 and Row 1, output was 0.000000
+98000
+At Count 98001 and Row 1, output was 0.000000
+99000
+At Count 99001 and Row 1, output was 0.000000
+100000
+At Count 100001 and Row 1, output was 0.000000
+101000
+At Count 101001 and Row 1, output was 0.000000
+102000
+At Count 102001 and Row 1, output was 0.000000
+103000
+At Count 103001 and Row 1, output was 0.000000
+104000
+At Count 104001 and Row 1, output was 0.000000
+105000
+At Count 105001 and Row 1, output was 0.000000
+106000
+At Count 106001 and Row 1, output was 0.000000
+107000
+At Count 107001 and Row 1, output was 0.000000
+108000
+At Count 108001 and Row 1, output was 0.000000
+109000
+At Count 109001 and Row 1, output was 0.000000
+110000
+At Count 110001 and Row 1, output was 0.000000
+111000
+At Count 111001 and Row 1, output was 0.000000
+112000
+At Count 112001 and Row 1, output was 0.000000
+113000
+At Count 113001 and Row 1, output was 0.000000
+114000
+At Count 114001 and Row 1, output was 0.000000
+115000
+At Count 115001 and Row 1, output was 0.000000
+116000
+At Count 116001 and Row 1, output was 0.000000
+117000
+At Count 117001 and Row 1, output was 0.000000
+118000
+At Count 118001 and Row 1, output was 0.000000
+119000
+At Count 119001 and Row 1, output was 0.000000
+120000
+At Count 120001 and Row 1, output was 0.000000
+121000
+At Count 121001 and Row 1, output was 0.000000
+122000
+At Count 122001 and Row 1, output was 0.000000
+123000
+At Count 123001 and Row 1, output was 0.000000
+124000
+At Count 124001 and Row 1, output was 0.000000
+125000
+At Count 125001 and Row 1, output was 0.000000
+126000
+At Count 126001 and Row 1, output was 0.000000
+127000
+At Count 127001 and Row 1, output was 0.000000
+128000
+At Count 128001 and Row 1, output was 0.000000
+129000
+At Count 129001 and Row 1, output was 0.000000
+130000
+At Count 130001 and Row 1, output was 0.000000
+131000
+At Count 131001 and Row 1, output was 0.000000
+132000
+At Count 132001 and Row 1, output was 0.000000
+133000
+At Count 133001 and Row 1, output was 0.000000
+134000
+At Count 134001 and Row 1, output was 0.000000
+135000
+At Count 135001 and Row 1, output was 0.000000
+136000
+At Count 136001 and Row 1, output was 0.000000
+137000
+At Count 137001 and Row 1, output was 0.000000
+138000
+At Count 138001 and Row 1, output was 0.000000
+139000
+At Count 139001 and Row 1, output was 0.000000
+140000
+At Count 140001 and Row 1, output was 0.000000
+141000
+At Count 141001 and Row 1, output was 0.000000
+142000
+At Count 142001 and Row 1, output was 0.000000
+143000
+At Count 143001 and Row 1, output was 0.000000
+144000
+At Count 144001 and Row 1, output was 0.000000
+145000
+At Count 145001 and Row 1, output was 0.000000
+146000
+At Count 146001 and Row 1, output was 0.000000
+147000
+At Count 147001 and Row 1, output was 0.000000
+148000
+At Count 148001 and Row 1, output was 0.000000
+149000
+At Count 149001 and Row 1, output was 0.000000
+150000
+At Count 150001 and Row 1, output was 0.000000
+151000
+At Count 151001 and Row 1, output was 0.000000
+152000
+At Count 152001 and Row 1, output was 0.000000
+153000
+At Count 153001 and Row 1, output was 0.000000
+154000
+At Count 154001 and Row 1, output was 0.000000
+155000
+At Count 155001 and Row 1, output was 0.000000
+156000
+At Count 156001 and Row 1, output was 0.000000
+157000
+At Count 157001 and Row 1, output was 0.000000
+158000
+At Count 158001 and Row 1, output was 0.000000
+159000
+At Count 159001 and Row 1, output was 0.000000
+160000
+At Count 160001 and Row 1, output was 0.000000
+161000
+At Count 161001 and Row 1, output was 0.000000
+162000
+At Count 162001 and Row 1, output was 0.000000
+163000
+At Count 163001 and Row 1, output was 0.000000
+164000
+At Count 164001 and Row 1, output was 0.000000
+165000
+At Count 165001 and Row 1, output was 0.000000
+166000
+At Count 166001 and Row 1, output was 0.000000
+167000
+At Count 167001 and Row 1, output was 0.000000
+168000
+At Count 168001 and Row 1, output was 0.000000
+169000
+At Count 169001 and Row 1, output was 0.000000
+170000
+At Count 170001 and Row 1, output was 0.000000
+171000
+At Count 171001 and Row 1, output was 0.000000
+172000
+At Count 172001 and Row 1, output was 0.000000
+173000
+At Count 173001 and Row 1, output was 0.000000
+174000
+At Count 174001 and Row 1, output was 0.000000
+175000
+At Count 175001 and Row 1, output was 0.000000
+176000
+At Count 176001 and Row 1, output was 0.000000
+177000
+At Count 177001 and Row 1, output was 0.000000
+178000
+At Count 178001 and Row 1, output was 0.000000
+179000
+At Count 179001 and Row 1, output was 0.000000
+180000
+At Count 180001 and Row 1, output was 0.000000
+181000
+At Count 181001 and Row 1, output was 0.000000
+182000
+At Count 182001 and Row 1, output was 0.000000
+183000
+At Count 183001 and Row 1, output was 0.000000
+184000
+At Count 184001 and Row 1, output was 0.000000
+185000
+At Count 185001 and Row 1, output was 0.000000
+186000
+At Count 186001 and Row 1, output was 0.000000
+187000
+At Count 187001 and Row 1, output was 0.000000
+188000
+At Count 188001 and Row 1, output was 0.000000
+189000
+At Count 189001 and Row 1, output was 0.000000
+190000
+At Count 190001 and Row 1, output was 0.000000
+191000
+At Count 191001 and Row 1, output was 0.000000
+192000
+At Count 192001 and Row 1, output was 0.000000
+193000
+At Count 193001 and Row 1, output was 0.000000
+194000
+At Count 194001 and Row 1, output was 0.000000
+195000
+At Count 195001 and Row 1, output was 0.000000
+196000
+At Count 196001 and Row 1, output was 0.000000
+197000
+At Count 197001 and Row 1, output was 0.000000
+198000
+At Count 198001 and Row 1, output was 0.000000
+199000
+At Count 199001 and Row 1, output was 0.000000
+200000
+At Count 200001 and Row 1, output was 0.000000
+201000
+At Count 201001 and Row 1, output was 0.000000
+202000
+At Count 202001 and Row 1, output was 0.000000
+203000
+At Count 203001 and Row 1, output was 0.000000
+204000
+At Count 204001 and Row 1, output was 0.000000
+205000
+At Count 205001 and Row 1, output was 0.000000
+206000
+At Count 206001 and Row 1, output was 0.000000
+207000
+At Count 207001 and Row 1, output was 0.000000
+208000
+At Count 208001 and Row 1, output was 0.000000
+209000
+At Count 209001 and Row 1, output was 0.000000
+210000
+At Count 210001 and Row 1, output was 0.000000
+211000
+At Count 211001 and Row 1, output was 0.000000
+212000
+At Count 212001 and Row 1, output was 0.000000
+213000
+At Count 213001 and Row 1, output was 0.000000
+214000
+At Count 214001 and Row 1, output was 0.000000
+215000
+At Count 215001 and Row 1, output was 0.000000
+216000
+At Count 216001 and Row 1, output was 0.000000
+217000
+At Count 217001 and Row 1, output was 0.000000
+218000
+At Count 218001 and Row 1, output was 0.000000
+219000
+At Count 219001 and Row 1, output was 0.000000
+220000
+At Count 220001 and Row 1, output was 0.000000
+221000
+At Count 221001 and Row 1, output was 0.000000
+222000
+At Count 222001 and Row 1, output was 0.000000
+223000
+At Count 223001 and Row 1, output was 0.000000
+224000
+At Count 224001 and Row 1, output was 0.000000
+225000
+At Count 225001 and Row 1, output was 0.000000
+226000
+At Count 226001 and Row 1, output was 0.000000
+227000
+At Count 227001 and Row 1, output was 0.000000
+228000
+At Count 228001 and Row 1, output was 0.000000
+229000
+At Count 229001 and Row 1, output was 0.000000
+230000
+At Count 230001 and Row 1, output was 0.000000
+231000
+At Count 231001 and Row 1, output was 0.000000
+232000
+At Count 232001 and Row 1, output was 0.000000
+233000
+At Count 233001 and Row 1, output was 0.000000
+234000
+At Count 234001 and Row 1, output was 0.000000
+235000
+At Count 235001 and Row 1, output was 0.000000
+236000
+At Count 236001 and Row 1, output was 0.000000
+237000
+At Count 237001 and Row 1, output was 0.000000
+238000
+At Count 238001 and Row 1, output was 0.000000
+239000
+At Count 239001 and Row 1, output was 0.000000
+240000
+At Count 240001 and Row 1, output was 0.000000
+241000
+At Count 241001 and Row 1, output was 0.000000
+242000
+At Count 242001 and Row 1, output was 0.000000
+243000
+At Count 243001 and Row 1, output was 0.000000
+244000
+At Count 244001 and Row 1, output was 0.000000
+245000
+At Count 245001 and Row 1, output was 0.000000
+246000
+At Count 246001 and Row 1, output was 0.000000
+247000
+At Count 247001 and Row 1, output was 0.000000
+248000
+At Count 248001 and Row 1, output was 0.000000
+249000
+At Count 249001 and Row 1, output was 0.000000
+250000
+At Count 250001 and Row 1, output was 0.000000
+251000
+At Count 251001 and Row 1, output was 0.000000
+252000
+At Count 252001 and Row 1, output was 0.000000
+253000
+At Count 253001 and Row 1, output was 0.000000
+254000
+At Count 254001 and Row 1, output was 0.000000
+255000
+At Count 255001 and Row 1, output was 0.000000
+256000
+At Count 256001 and Row 1, output was 0.000000
+257000
+At Count 257001 and Row 1, output was 0.000000
+258000
+At Count 258001 and Row 1, output was 0.000000
+259000
+At Count 259001 and Row 1, output was 0.000000
+260000
+At Count 260001 and Row 1, output was 0.000000
+261000
+At Count 261001 and Row 1, output was 0.000000
+262000
+At Count 262001 and Row 1, output was 0.000000
+263000
+At Count 263001 and Row 1, output was 0.000000
+264000
+At Count 264001 and Row 1, output was 0.000000
+265000
+At Count 265001 and Row 1, output was 0.000000
+266000
+At Count 266001 and Row 1, output was 0.000000
+267000
+At Count 267001 and Row 1, output was 0.000000
+268000
+At Count 268001 and Row 1, output was 0.000000
+269000
+At Count 269001 and Row 1, output was 0.000000
+270000
+At Count 270001 and Row 1, output was 0.000000
+271000
+At Count 271001 and Row 1, output was 0.000000
+272000
+At Count 272001 and Row 1, output was 0.000000
+273000
+At Count 273001 and Row 1, output was 0.000000
+274000
+At Count 274001 and Row 1, output was 0.000000
+275000
+At Count 275001 and Row 1, output was 0.000000
+276000
+At Count 276001 and Row 1, output was 0.000000
+277000
+At Count 277001 and Row 1, output was 0.000000
+278000
+At Count 278001 and Row 1, output was 0.000000
+279000
+At Count 279001 and Row 1, output was 0.000000
+280000
+At Count 280001 and Row 1, output was 0.000000
+281000
+At Count 281001 and Row 1, output was 0.000000
+282000
+At Count 282001 and Row 1, output was 0.000000
+283000
+At Count 283001 and Row 1, output was 0.000000
+284000
+At Count 284001 and Row 1, output was 0.000000
+285000
+At Count 285001 and Row 1, output was 0.000000
+286000
+At Count 286001 and Row 1, output was 0.000000
+287000
+At Count 287001 and Row 1, output was 0.000000
+288000
+At Count 288001 and Row 1, output was 0.000000
+289000
+At Count 289001 and Row 1, output was 0.000000
+290000
+At Count 290001 and Row 1, output was 0.000000
+291000
+At Count 291001 and Row 1, output was 0.000000
+292000
+At Count 292001 and Row 1, output was 0.000000
+293000
+At Count 293001 and Row 1, output was 0.000000
+294000
+At Count 294001 and Row 1, output was 0.000000
+295000
+At Count 295001 and Row 1, output was 0.000000
+296000
+At Count 296001 and Row 1, output was 0.000000
+297000
+At Count 297001 and Row 1, output was 0.000000
+298000
+At Count 298001 and Row 1, output was 0.000000
+299000
+At Count 299001 and Row 1, output was 0.000000
+300000
+At Count 300001 and Row 1, output was 0.000000
+301000
+At Count 301001 and Row 1, output was 0.000000
+302000
+At Count 302001 and Row 1, output was 0.000000
+303000
+At Count 303001 and Row 1, output was 0.000000
+304000
+At Count 304001 and Row 1, output was 0.000000
+305000
+At Count 305001 and Row 1, output was 0.000000
+306000
+At Count 306001 and Row 1, output was 0.000000
+307000
+At Count 307001 and Row 1, output was 0.000000
+308000
+At Count 308001 and Row 1, output was 0.000000
+309000
+At Count 309001 and Row 1, output was 0.000000
+310000
+At Count 310001 and Row 1, output was 0.000000
+311000
+At Count 311001 and Row 1, output was 0.000000
+312000
+At Count 312001 and Row 1, output was 0.000000
+313000
+At Count 313001 and Row 1, output was 0.000000
+314000
+At Count 314001 and Row 1, output was 0.000000
+315000
+At Count 315001 and Row 1, output was 0.000000
+316000
+At Count 316001 and Row 1, output was 0.000000
+317000
+At Count 317001 and Row 1, output was 0.000000
+318000
+At Count 318001 and Row 1, output was 0.000000
+319000
+At Count 319001 and Row 1, output was 0.000000
+320000
+At Count 320001 and Row 1, output was 0.000000
+321000
+At Count 321001 and Row 1, output was 0.000000
+322000
+At Count 322001 and Row 1, output was 0.000000
+323000
+At Count 323001 and Row 1, output was 0.000000
+324000
+At Count 324001 and Row 1, output was 0.000000
+325000
+At Count 325001 and Row 1, output was 0.000000
+326000
+At Count 326001 and Row 1, output was 0.000000
+327000
+At Count 327001 and Row 1, output was 0.000000
+328000
+At Count 328001 and Row 1, output was 0.000000
+329000
+At Count 329001 and Row 1, output was 0.000000
+330000
+At Count 330001 and Row 1, output was 0.000000
+331000
+At Count 331001 and Row 1, output was 0.000000
+332000
+At Count 332001 and Row 1, output was 0.000000
+333000
+At Count 333001 and Row 1, output was 0.000000
+334000
+At Count 334001 and Row 1, output was 0.000000
+335000
+At Count 335001 and Row 1, output was 0.000000
+336000
+At Count 336001 and Row 1, output was 0.000000
+337000
+At Count 337001 and Row 1, output was 0.000000
+338000
+At Count 338001 and Row 1, output was 0.000000
+339000
+At Count 339001 and Row 1, output was 0.000000
+340000
+At Count 340001 and Row 1, output was 0.000000
+341000
+At Count 341001 and Row 1, output was 0.000000
+342000
+At Count 342001 and Row 1, output was 0.000000
+343000
+At Count 343001 and Row 1, output was 0.000000
+344000
+At Count 344001 and Row 1, output was 0.000000
+345000
+At Count 345001 and Row 1, output was 0.000000
+346000
+At Count 346001 and Row 1, output was 0.000000
+347000
+At Count 347001 and Row 1, output was 0.000000
+348000
+At Count 348001 and Row 1, output was 0.000000
+349000
+At Count 349001 and Row 1, output was 0.000000
+350000
+At Count 350001 and Row 1, output was 0.000000
+351000
+At Count 351001 and Row 1, output was 0.000000
+352000
+At Count 352001 and Row 1, output was 0.000000
+353000
+At Count 353001 and Row 1, output was 0.000000
+354000
+At Count 354001 and Row 1, output was 0.000000
+355000
+At Count 355001 and Row 1, output was 0.000000
+356000
+At Count 356001 and Row 1, output was 0.000000
+357000
+At Count 357001 and Row 1, output was 0.000000
+358000
+At Count 358001 and Row 1, output was 0.000000
+359000
+At Count 359001 and Row 1, output was 0.000000
+360000
+At Count 360001 and Row 1, output was 0.000000
+361000
+At Count 361001 and Row 1, output was 0.000000
+362000
+At Count 362001 and Row 1, output was 0.000000
+363000
+At Count 363001 and Row 1, output was 0.000000
+364000
+At Count 364001 and Row 1, output was 0.000000
+365000
+At Count 365001 and Row 1, output was 0.000000
+366000
+At Count 366001 and Row 1, output was 0.000000
+367000
+At Count 367001 and Row 1, output was 0.000000
+368000
+At Count 368001 and Row 1, output was 0.000000
+369000
+At Count 369001 and Row 1, output was 0.000000
+370000
+At Count 370001 and Row 1, output was 0.000000
+371000
+At Count 371001 and Row 1, output was 0.000000
+372000
+At Count 372001 and Row 1, output was 0.000000
+373000
+At Count 373001 and Row 1, output was 0.000000
+374000
+At Count 374001 and Row 1, output was 0.000000
+375000
+At Count 375001 and Row 1, output was 0.000000
+376000
+At Count 376001 and Row 1, output was 0.000000
+377000
+At Count 377001 and Row 1, output was 0.000000
+378000
+At Count 378001 and Row 1, output was 0.000000
+379000
+At Count 379001 and Row 1, output was 0.000000
+380000
+At Count 380001 and Row 1, output was 0.000000
+381000
+At Count 381001 and Row 1, output was 0.000000
+382000
+At Count 382001 and Row 1, output was 0.000000
+383000
+At Count 383001 and Row 1, output was 0.000000
+384000
+At Count 384001 and Row 1, output was 0.000000
+385000
+At Count 385001 and Row 1, output was 0.000000
+386000
+At Count 386001 and Row 1, output was 0.000000
+387000
+At Count 387001 and Row 1, output was 0.000000
+388000
+At Count 388001 and Row 1, output was 0.000000
+389000
+At Count 389001 and Row 1, output was 0.000000
+390000
+At Count 390001 and Row 1, output was 0.000000
+391000
+At Count 391001 and Row 1, output was 0.000000
+392000
+At Count 392001 and Row 1, output was 0.000000
+393000
+At Count 393001 and Row 1, output was 0.000000
+394000
+At Count 394001 and Row 1, output was 0.000000
+395000
+At Count 395001 and Row 1, output was 0.000000
+396000
+At Count 396001 and Row 1, output was 0.000000
+397000
+At Count 397001 and Row 1, output was 0.000000
+398000
+At Count 398001 and Row 1, output was 0.000000
+399000
+At Count 399001 and Row 1, output was 0.000000
+400000
+At Count 400001 and Row 1, output was 0.000000
+401000
+At Count 401001 and Row 1, output was 0.000000
+402000
+At Count 402001 and Row 1, output was 0.000000
+403000
+At Count 403001 and Row 1, output was 0.000000
+404000
+At Count 404001 and Row 1, output was 0.000000
+405000
+At Count 405001 and Row 1, output was 0.000000
+406000
+At Count 406001 and Row 1, output was 0.000000
+407000
+At Count 407001 and Row 1, output was 0.000000
+408000
+At Count 408001 and Row 1, output was 0.000000
+409000
+At Count 409001 and Row 1, output was 0.000000
+410000
+At Count 410001 and Row 1, output was 0.000000
+411000
+At Count 411001 and Row 1, output was 0.000000
+412000
+At Count 412001 and Row 1, output was 0.000000
+413000
+At Count 413001 and Row 1, output was 0.000000
+414000
+At Count 414001 and Row 1, output was 0.000000
+415000
+At Count 415001 and Row 1, output was 0.000000
+416000
+At Count 416001 and Row 1, output was 0.000000
+417000
+At Count 417001 and Row 1, output was 0.000000
+418000
+At Count 418001 and Row 1, output was 0.000000
+419000
+At Count 419001 and Row 1, output was 0.000000
+420000
+At Count 420001 and Row 1, output was 0.000000
+421000
+At Count 421001 and Row 1, output was 0.000000
+422000
+At Count 422001 and Row 1, output was 0.000000
+423000
+At Count 423001 and Row 1, output was 0.000000
+424000
+At Count 424001 and Row 1, output was 0.000000
+425000
+At Count 425001 and Row 1, output was 0.000000
+426000
+At Count 426001 and Row 1, output was 0.000000
+427000
+At Count 427001 and Row 1, output was 0.000000
+428000
+At Count 428001 and Row 1, output was 0.000000
+429000
+At Count 429001 and Row 1, output was 0.000000
+430000
+At Count 430001 and Row 1, output was 0.000000
+431000
+At Count 431001 and Row 1, output was 0.000000
+432000
+At Count 432001 and Row 1, output was 0.000000
+433000
+At Count 433001 and Row 1, output was 0.000000
+434000
+At Count 434001 and Row 1, output was 0.000000
+435000
+At Count 435001 and Row 1, output was 0.000000
+436000
+At Count 436001 and Row 1, output was 0.000000
+437000
+At Count 437001 and Row 1, output was 0.000000
+438000
+At Count 438001 and Row 1, output was 0.000000
+439000
+At Count 439001 and Row 1, output was 0.000000
+440000
+At Count 440001 and Row 1, output was 0.000000
+441000
+At Count 441001 and Row 1, output was 0.000000
+442000
+At Count 442001 and Row 1, output was 0.000000
+443000
+At Count 443001 and Row 1, output was 0.000000
+444000
+At Count 444001 and Row 1, output was 0.000000
+445000
+At Count 445001 and Row 1, output was 0.000000
+446000
+At Count 446001 and Row 1, output was 0.000000
+447000
+At Count 447001 and Row 1, output was 0.000000
+448000
+At Count 448001 and Row 1, output was 0.000000
+449000
+At Count 449001 and Row 1, output was 0.000000
+450000
+At Count 450001 and Row 1, output was 0.000000
+451000
+At Count 451001 and Row 1, output was 0.000000
+452000
+At Count 452001 and Row 1, output was 0.000000
+453000
+At Count 453001 and Row 1, output was 0.000000
+454000
+At Count 454001 and Row 1, output was 0.000000
+455000
+At Count 455001 and Row 1, output was 0.000000
+456000
+At Count 456001 and Row 1, output was 0.000000
+457000
+At Count 457001 and Row 1, output was 0.000000
+458000
+At Count 458001 and Row 1, output was 0.000000
+459000
+At Count 459001 and Row 1, output was 0.000000
+460000
+At Count 460001 and Row 1, output was 0.000000
+461000
+At Count 461001 and Row 1, output was 0.000000
+462000
+At Count 462001 and Row 1, output was 0.000000
+463000
+At Count 463001 and Row 1, output was 0.000000
+464000
+At Count 464001 and Row 1, output was 0.000000
+465000
+At Count 465001 and Row 1, output was 0.000000
+466000
+At Count 466001 and Row 1, output was 0.000000
+467000
+At Count 467001 and Row 1, output was 0.000000
+468000
+At Count 468001 and Row 1, output was 0.000000
+469000
+At Count 469001 and Row 1, output was 0.000000
+470000
+At Count 470001 and Row 1, output was 0.000000
+471000
+At Count 471001 and Row 1, output was 0.000000
+472000
+At Count 472001 and Row 1, output was 0.000000
+473000
+At Count 473001 and Row 1, output was 0.000000
+474000
+At Count 474001 and Row 1, output was 0.000000
+475000
+At Count 475001 and Row 1, output was 0.000000
+476000
+At Count 476001 and Row 1, output was 0.000000
+477000
+At Count 477001 and Row 1, output was 0.000000
+478000
+At Count 478001 and Row 1, output was 0.000000
+479000
+At Count 479001 and Row 1, output was 0.000000
+480000
+At Count 480001 and Row 1, output was 0.000000
+481000
+At Count 481001 and Row 1, output was 0.000000
+482000
+At Count 482001 and Row 1, output was 0.000000
+483000
+At Count 483001 and Row 1, output was 0.000000
+484000
+At Count 484001 and Row 1, output was 0.000000
+485000
+At Count 485001 and Row 1, output was 0.000000
+486000
+At Count 486001 and Row 1, output was 0.000000
+487000
+At Count 487001 and Row 1, output was 0.000000
+488000
+At Count 488001 and Row 1, output was 0.000000
+489000
+At Count 489001 and Row 1, output was 0.000000
+490000
+At Count 490001 and Row 1, output was 0.000000
+491000
+At Count 491001 and Row 1, output was 0.000000
+492000
+At Count 492001 and Row 1, output was 0.000000
+493000
+At Count 493001 and Row 1, output was 0.000000
+494000
+At Count 494001 and Row 1, output was 0.000000
+495000
+At Count 495001 and Row 1, output was 0.000000
+496000
+At Count 496001 and Row 1, output was 0.000000
+497000
+At Count 497001 and Row 1, output was 0.000000
+498000
+At Count 498001 and Row 1, output was 0.000000
+499000
+At Count 499001 and Row 1, output was 0.000000
+Row 1: Expected output is 0 and actual output is 0.000000.
+Eta: 0.500000
+Amount of input nodes: 2
+Amount of hidden layers: 1
+Amount of nodes in hidden layer 1: 2
+Amount of output nodes: 1
+Amount of iterations: 0

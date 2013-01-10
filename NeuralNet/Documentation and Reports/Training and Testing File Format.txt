@@ -1,0 +1,4 @@
+#,#,#,#,#,# (where # is either a 0 or a 1, the first 5 numbers are the input and the last number is the output)
+
+For example:
+0,0,0,0,1,1 is the line 00001 with a correct output of 1.
