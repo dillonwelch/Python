@@ -25,7 +25,7 @@ In the "Documentation and Reports" Folder
 Hit 'N' for each question. This will train the NN on the full training data, randomly generate the weights, allow manual testing of the NN, and use the default settings for the NN.
 
 8) What if I have a question not on this list?
-E-mail Dillon Welch at daw027@latech.edu
+E-mail Dillon Welch at daw0328@gmail.com
 
 Dillon Welch
 daw0328@gmail.com
