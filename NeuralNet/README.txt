@@ -28,8 +28,7 @@ Hit 'N' for each question. This will train the NN on the full training data, ran
 E-mail Dillon Welch at daw027@latech.edu
 
 Dillon Welch
-daw027@latech.edu
-101-93-657
+daw0328@gmail.com
 CSC 475
 Ruston, Louisiana
 October 25th, 2012
